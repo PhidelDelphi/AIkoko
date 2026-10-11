@@ -102,7 +102,11 @@ Excel 答题明细一键导入；按分数排序自动颁发 🥇🥈🥉 奖牌
 
 <img src="docs/screenshots/05-composition.png" width="88%">
 
-读后续写 / 应用文**八步评讲框架**：核对语篇 → 确定主题 → 寻找伏笔 → 预测情节 → 反熵问题 → 输入语料（Show, not tell 图文语料库）→ 评价升格 → 共赏佳作。试卷 PDF + 答案 PDF 导入后**自动识别原文、段首句与范文**并分篇建档。
+读后续写 / 应用文**八步评讲框架**：① 梳理语篇 → ② 确定主题 → ③ 寻找伏笔 → ④ 预测情节 → ⑤ 反馈问题 → ⑥ 输入语料（Show, not tell 图文语料库）→ ⑦ 评价升格 → ⑧ 共赏佳作。试卷 PDF + 答案 PDF 导入后**自动识别原文、段首句与范文**并分篇建档；导入板块 JSON（如 [`samples/样本卷-Composition-读后续写.json`](samples/样本卷-Composition-读后续写.json)）即复现上图。
+
+<img src="docs/screenshots/05c-composition-upgrade.png" width="88%">
+
+⑦ 评价升格内置**五维雷达评价**（情节合理 / 内容完整 / 语言丰富 / 语法规范 / 衔接顺畅）与**综合定档**：打星自动推算档位，给出"上档点"升格建议——先评天地，再指升路。
 
 ### ⑥ 「跬步」Knowledge —— 知识沉淀
 
