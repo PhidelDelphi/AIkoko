@@ -1,0 +1,519 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 阅读C篇（Green Plans, Hidden Costs 植树计划的隐性代价）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "说明文",
+     "opts": [
+      "议论文",
+      "说明文",
+      "记叙文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "文本来源 Source",
+     "correctText": "科普/环境类新闻报道",
+     "opts": [
+      "旅游宣传册",
+      "科普/环境类新闻报道",
+      "个人博客",
+      "政府工作报告"
+     ]
+    },
+    {
+     "label": "目标读者 Reader",
+     "correctText": "关心城市环境与公共健康的公众",
+     "opts": [
+      "备考学生",
+      "关心城市环境与公共健康的公众",
+      "园艺爱好者",
+      "汽车工程师"
+     ]
+    }
+   ],
+   "hints": [
+    "文章是在讲一个故事，还是在解释一个研究发现？",
+    "引号里的研究者原话、百分比数据，常见于哪类文本？",
+    "谁最需要了解'选错树种会伤肺'这个信息？"
+   ],
+   "why": [
+    "围绕一项研究展开、客观呈现数据与专家观点，是说明文（研究报告报道）。",
+    "直接引用 + 具体数字是环境新闻报道的典型特征。",
+    "话题关系空气污染与城市治理，面向公众而非专业人士。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与自然",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "树种选择、臭氧、空气——讨论的核心是哪个主题群？",
+     "why": "城市植树与空气污染的相互作用，属人与自然的生态环境主题。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "城市生态与植树",
+     "groups": {
+      "人与自然": [
+       "城市生态与植树",
+       "气候与污染"
+      ],
+      "人与社会": [
+       "公共健康政策",
+       "城市规划"
+      ],
+      "人与自我": [
+       "生活方式选择"
+      ]
+     },
+     "hint": "oaks、isoprene、plantings 这些词把话题锚定在哪里？",
+     "why": "全文围绕'种什么树'展开，是城市生态议题。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "纽约植树若不改变树种结构，可能加剧空气污染",
+     "opts": [
+      {
+       "text": "纽约植树若不改变树种结构，可能加剧空气污染",
+       "err": null
+      },
+      {
+       "text": "纽约市应当停止植树计划",
+       "err": "反向设置（文中明确说不停止）"
+      },
+      {
+       "text": "橡树和甜枫是所有城市的首选树种",
+       "err": "无中生有"
+      },
+      {
+       "text": "isoprene 对人体完全无害",
+       "err": "曲解文意（本身无害，但会反应生成臭氧）"
+      }
+     ],
+     "hint": "140% 和 30% 两个数字是在支撑哪个判断？",
+     "why": "研究预测维持原树种结构将推高 isoprene 与臭氧——警示性结论是全文主旨。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "cautionary 理性提醒",
+     "opts": [
+      "objective 客观中立",
+      "cautionary 理性提醒",
+      "critical 批判否定",
+      "indifferent 冷漠无关",
+      "optimistic 乐观积极",
+      "skeptical 怀疑质疑",
+      "enthusiastic 热情推崇",
+      "defensive 辩护维护"
+     ],
+     "hint": "作者全盘否定植树，还是在提醒'要小心选种'？",
+     "why": "先肯定好处再指出隐患，we could make air quality worse 是提醒而非否定。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "现象引入：植绿之益",
+     "opts": [
+      "现象引入：植绿之益",
+      "问题揭示：树种隐患",
+      "数据支撑：增幅预测",
+      "专家警示：平衡表态",
+      "回应展望：方案与底线"
+     ],
+     "hint": "首段罗列 shade / absorb carbon 等好处，是为下文什么做铺垫？",
+     "why": "先扬后抑：好处清单越充分，第二段的'但是'越有力量。"
+    },
+    {
+     "para": 2,
+     "correctText": "问题揭示：树种隐患",
+     "opts": [
+      "现象引入：植绿之益",
+      "问题揭示：树种隐患",
+      "数据支撑：增幅预测",
+      "专家警示：平衡表态",
+      "回应展望：方案与底线"
+     ],
+     "hint": "isoprene 本身无害，问题出在它与什么发生了反应？",
+     "why": "揭示因果链：特定树种→isoprene→与氮氧化物反应→臭氧→呼吸问题。"
+    },
+    {
+     "para": 3,
+     "correctText": "数据支撑：增幅预测",
+     "opts": [
+      "现象引入：植绿之益",
+      "问题揭示：树种隐患",
+      "数据支撑：增幅预测",
+      "专家警示：平衡表态",
+      "回应展望：方案与底线"
+     ],
+     "hint": "140% 和 30% 让警告发生了什么变化？",
+     "why": "数字把定性警示变为定量预测，增强科学性与紧迫感。"
+    },
+    {
+     "para": 4,
+     "correctText": "专家警示：平衡表态",
+     "opts": [
+      "现象引入：植绿之益",
+      "问题揭示：树种隐患",
+      "数据支撑：增幅预测",
+      "专家警示：平衡表态",
+      "回应展望：方案与底线"
+     ],
+     "hint": "Commane 为什么先说 all for planting more trees？",
+     "why": "先让步再转折，避免被误读为'反对植树'，立场更可信。"
+    },
+    {
+     "para": 5,
+     "correctText": "回应展望：方案与底线",
+     "opts": [
+      "现象引入：植绿之益",
+      "问题揭示：树种隐患",
+      "数据支撑：增幅预测",
+      "专家警示：平衡表态",
+      "回应展望：方案与底线"
+     ],
+     "hint": "rethink car-centric lifestyle 和不砍老橡树，分别给出了什么？",
+     "why": "给出解决方向（减排+选种）与底线（不砍关键种），问题闭环。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "NYC plants tens of thousands of trees yearly, gaining shade, cooler streets, cleaner air and habitats."
+    },
+    {
+     "para": 2,
+     "summary": "But oaks and sweetgums release isoprene, which reacts with vehicle pollutants to form health-damaging ozone."
+    },
+    {
+     "para": 3,
+     "summary": "Researchers predict isoprene up 140% and summer ozone up to 30% if species patterns stay unchanged."
+    },
+    {
+     "para": 4,
+     "summary": "Coauthor Commane supports tree-planting but warns that careless choices could worsen air quality."
+    },
+    {
+     "para": 5,
+     "summary": "Parks scientist Auyeung suggests rethinking car use and choosing species wisely, while protecting keystone oaks."
+    }
+   ],
+   "trace": [
+    {
+     "q": 28,
+     "type": "研究结论推断",
+     "stem": "What does the new study imply regarding oaks and sweetgums?",
+     "correctText": "P2 · isoprene+氮氧化物→臭氧→呼吸问题",
+     "opts": [
+      "P2 · 臭氧生成链与呼吸问题",
+      "P3 · isoprene增140%",
+      "P5 · 橡树是keystone species",
+      "P1 · 树木吸碳滤污"
+     ],
+     "correctQuote": "to form ground-level ozone (臭氧) —a major factor in many breathing problems",
+     "hint": "isoprene 伤肺是直接的还是经过一连串反应的？",
+     "why": "间接伤害：isoprene本身无害，与污染反应生成臭氧才致呼吸问题——C'间接危害健康'；D'吸碳减少'偷换概念。"
+    },
+    {
+     "q": 29,
+     "type": "细节推断",
+     "stem": "Which of the following may Commane suggest based on their study?",
+     "correctText": "P3 · 维持原树种结构→isoprene激增",
+     "opts": [
+      "P3 · 改变未来种植的树种结构",
+      "P5 · 砍掉产isoprene的老橡树",
+      "P3 · 暂停种树几十年",
+      "P2 · 除去已有的isoprene"
+     ],
+     "correctQuote": "if the city maintains past species patterns in new plantings, isoprene production in Manhattan in coming decades will go up by about 140%",
+     "hint": "140% 的预测反过来暗示 city 该调整什么？",
+     "why": "前提是'维持原树种结构'才激增→建议即改变新增种植的树种（C）；A 与'不砍老橡树'矛盾。"
+    },
+    {
+     "q": 30,
+     "type": "词义猜测",
+     "stem": "What does the underlined phrase “oblivious to” in paragraph 5 mean?",
+     "correctText": "P5 · not oblivious to the issue",
+     "opts": [
+      "Unaware of",
+      "Honest about",
+      "Related to",
+      "Optimistic about"
+     ],
+     "correctQuote": "The Parks Department is not oblivious to the issue.",
+     "hint": "后文 Parks Department 的研究者几年前就研究了 isoprene——他们对问题是知情还是无知？",
+     "why": "not oblivious to＝对问题并非不知情，由下文'早已研究过'反推为 Unaware of。"
+    },
+    {
+     "q": 31,
+     "type": "观点推断",
+     "stem": "What would Auyeung probably advocate?",
+     "correctText": "P5 · rethink our car-centric lifestyle",
+     "opts": [
+      "P5 · 减少日常用车",
+      "P1 · 给动物新栖息地",
+      "P3 · 控制人口增长",
+      "P5 · 做更多关于此问题的研究"
+     ],
+     "correctQuote": "“We could plant any trees we want to, if we just rethink our car-centric lifestyle,” she said.",
+     "hint": "Auyeung 说'种什么树都行'的条件是什么？",
+     "why": "条件＝减少汽车依赖（氮氧化物源头），故选'减少日常用车'。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "说明方法",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "contrast",
+     "hint": "首段的好处清单与第二段的隐患之间隔着哪个转折词？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "causality",
+     "hint": "机理揭示之后，用什么来量化这个隐患？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "progression",
+     "hint": "数据之后引入研究者的话，说明是不是更进了一步？"
+    },
+    {
+     "from": 4,
+     "to": 5,
+     "answer": "progression",
+     "hint": "从'警告'推进到'怎么办'，由哪个部门接棒？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 1,
+     "type": "指代",
+     "correctText": "They = 纽约每年新种的树",
+     "item": "They provide shade, lower surface temperatures...",
+     "opts": [
+      "纽约新种的树",
+      "绿色空间计划",
+      "地表温度",
+      "野生动物"
+     ],
+     "hint": "They 提供树荫、降温、吸碳——谁能做到这些？",
+     "why": "指代前句 trees，复数主语的最近先行词原则。"
+    },
+    {
+     "para": 2,
+     "type": "连接词",
+     "correctText": "though 标志转折",
+     "item": "Something could go wrong, though, according to a new study.",
+     "opts": [
+      "让步转折",
+      "因果顺承",
+      "举例说明",
+      "总结归纳"
+     ],
+     "hint": "though 插在句中，前后语义方向一致吗？",
+     "why": "首段好处与'可能出问题'形成语篇转折，though 是路标。"
+    },
+    {
+     "para": 5,
+     "type": "词汇链",
+     "correctText": "trees / planting / species / oaks 词汇链",
+     "item": "plant any trees / planting new ones / big old oaks / keystone species",
+     "opts": [
+      "植树选种词汇链",
+      "交通污染词汇链",
+      "医疗健康词汇链",
+      "校园生活词汇链"
+     ],
+     "hint": "本段反复出现的名词群在谈论什么话题？",
+     "why": "同现词汇锁定'树种选择'子话题，与 P3 的 species patterns 呼应。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 3,
+     "correctText": "列数字",
+     "opts": [
+      "列数字",
+      "举例子",
+      "作比较",
+      "下定义"
+     ],
+     "hint": "140% / 30% 这类精确预测属于哪种说明方法？",
+     "why": "量化预测使抽象风险可感，是研究报道的核心手段。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "让步前置+分词后置定语",
+     "para": 2,
+     "sen": "Harmless by itself, isoprene interacts rapidly with polluting nitrogen oxides released by vehicles, buildings and industry to form ground-level ozone (臭氧) —a major factor in many breathing problems.",
+     "ana": "形容词短语 Harmless by itself 前置让步；released by... 后置定语修饰 nitrogen oxides；不定式 to form 引出结果——一条污染链一句话讲完。"
+    },
+    {
+     "kind": "宾从+条件状语从句",
+     "para": 3,
+     "sen": "The research ... found that if the city maintains past species patterns in new plantings, isoprene production in Manhattan in coming decades will go up by about 140%",
+     "ana": "found that 宾语从句内嵌 if 条件从句——研究结论'前提→预测'的经典句式，if 从句是正确推断题的钥匙。"
+    },
+    {
+     "kind": "平行结构",
+     "para": 1,
+     "sen": "They provide shade, lower surface temperatures, absorb a surprising amount of airborne carbon, remove tiny pollutants, and provide wildlife habitat along with just plain beauty.",
+     "ana": "五个谓语动词并列铺陈植树之益，蓄势与第二段的隐患形成信息反差。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "隐喻:keystone species",
+     "para": 5,
+     "sen": "Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
+     "ana": "把橡树比作拱顶石——抽掉它整道生态拱就会塌，强调不可一砍了之。"
+    },
+    {
+     "kind": "引用",
+     "para": 4,
+     "sen": "“We're all for planting more trees. They bring so many good things,” said study coauthor Róisín Commane.",
+     "ana": "直接引用研究者原话：先让步（支持种树）后转折（警示风险），立场平衡可信。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "话题词汇",
+     "en": "ground-level ozone",
+     "zh": "近地面臭氧（有害污染物）",
+     "usage": "环境污染类读写高频"
+    },
+    {
+     "type": "话题词汇",
+     "en": "nitrogen oxides",
+     "zh": "氮氧化物（尾气/工业排放）",
+     "usage": "污染成因分析"
+    },
+    {
+     "type": "话题词汇",
+     "en": "keystone species",
+     "zh": "关键种（其存亡影响整个生态系统）",
+     "usage": "生态保护议论文"
+    },
+    {
+     "type": "高分短语",
+     "en": "rethink one's car-centric lifestyle",
+     "zh": "反思以车为中心的生活方式",
+     "usage": "绿色出行倡议"
+    },
+    {
+     "type": "高分短语",
+     "en": "take preventive measures",
+     "zh": "采取预防措施",
+     "usage": "政策建议句式"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "警示城市：植树需科学选种，否则可能损害空气质量",
+     "opts": [
+      "警示城市：植树需科学选种，否则可能损害空气质量",
+      "呼吁停止纽约的植树计划",
+      "推广橡树与甜枫的种植技术",
+      "比较不同城市的绿化政策"
+     ],
+     "hint": "140% 的预测加上'we could make air quality worse'，作者想让决策者意识到什么？",
+     "why": "全文围绕'树种结构不变的后果'展开，目的是科学选种的提醒。"
+    },
+    {
+     "label": "B · 最强说明手段",
+     "correctText": "列数字量化未来风险",
+     "opts": [
+      "列数字量化未来风险",
+      "讲述个人植树经历",
+      "引用古诗文名句",
+      "对比两座城市的做法"
+     ],
+     "hint": "把'污染会变差'换成 140% / 30%，说明效果强在哪里？",
+     "why": "数字让抽象风险具体化、可验证，是研究报道的权威来源。"
+    },
+    {
+     "label": "C · 数据的作用",
+     "correctText": "证明树种结构不变则风险激增，支撑调整的必要",
+     "opts": [
+      "证明树种结构不变则风险激增，支撑调整的必要",
+      "证明纽约的植树总量不足",
+      "证明臭氧对人体完全无害",
+      "证明交通污染已经无法治理"
+     ],
+     "hint": "140% 出现的条件是 if the city maintains past species patterns——条件反过来读是什么？",
+     "why": "条件句的否定=建议：改变树种结构即可避免激增。"
+    },
+    {
+     "label": "D · 读者价值",
+     "correctText": "为城市规划者与公众提供科学决策参考",
+     "opts": [
+      "为城市规划者与公众提供科学决策参考",
+      "教读者识别树木种类",
+      "鼓励读者购买空气净化器",
+      "批评公园部门失职"
+     ],
+     "hint": "读完本文，城市规划者手里的'树种清单'会怎么改？",
+     "why": "研究+专家观点+解决方向，服务对象是治理者与公众。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "isoprene",
+     "def": "异戊二烯——橡树等释放的挥发性有机物，本身无害"
+    },
+    {
+     "term": "ground-level ozone",
+     "def": "近地面臭氧——由 isoprene 与氮氧化物反应生成，伤肺"
+    },
+    {
+     "term": "keystone species",
+     "def": "关键种——其存亡决定生态系统稳定的物种，如橡树"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "植绿好处",
+   "2": "隐患揭示",
+   "3": "数据预测",
+   "4": "专家警示",
+   "5": "回应平衡"
+  },
+  "paraBriefs": {
+   "1": "Tree-planting benefits in NYC",
+   "2": "Isoprene + pollutants = ozone risk",
+   "3": "140% / 30% predictions",
+   "4": "Commane's balanced warning",
+   "5": "Auyeung: smarter choices, keep oaks"
+  }
+ }
+}

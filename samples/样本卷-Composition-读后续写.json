@@ -1,0 +1,307 @@
+{
+  "id": "art-20261011-emily-snowstorm",
+  "title": "风雪困车 · 陌生人的善意",
+  "source": "2026年高考英语真题1 · 读后续写",
+  "type": "continuation",
+  "hw": "2026年高考英语真题1",
+  "story": [
+    "Emily Sanders, a 25-year-old from Detroit, Michigan, set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas. Although she had heard warnings about an approaching snowstorm, she didn't give it much thought. She assumed that much like in Michigan, police would simply detour (使绕道) traffic around any closed sections of the highway. But that didn't happen. As the snow came down more and more heavily, Emily was directed off the highway. She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
+    "The blinding whiteout made driving nearly impossible. At one point, Emily's car got stuck. After a struggle, she managed to free the vehicle and continued inching along the snow-covered road. As night fell, panic set in. While Emily was driving on a narrow stretch of road, her car slid into a ditch (沟). She tried to call for help but found no signal on her phone. Seeing no hope of immediate rescue, Emily decided to spend the night in her car. She wrapped herself in a blanket, waiting for morning. To stay warm, she ran her engine for a few minutes every now and then. Eventually, she fell asleep.",
+    "Emily awoke to a gentle knock on her car window. Standing outside were Daniel and his wife Rachel, who noticed the stranded (被困的) vehicle on their way home and stopped to see if they could help. When Emily rolled down the window, Rachel asked if she was okay and told her it was not safe to stay overnight in the car. With genuine warmth in her voice, Rachel said they could take Emily to a nearby cafe they knew. Grateful and relieved, Emily accepted the offer.",
+    "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined."
+  ],
+  "openers": [
+    "Daniel and Rachel suggested that Emily continue her journey by train",
+    "Three days later, Emily returned to get her car."
+  ],
+  "step1": [
+    {
+      "paras": "Para 1-2",
+      "main": "圣诞前夜驱车赴多伦多会男友，暴雪中被逼下高速、迷路，夜里连人带车滑进沟中；手机无信号，只能裹毯子在车里过夜。",
+      "implied": "困境的根源不是天气而是侥幸心理（didn't give it much thought / she assumed…）——原文用\"假设落空\"为\"善意的珍贵\"蓄力。",
+      "feelings": "自信轻松 → 紧张恐慌 → 无助疲惫（panic set in / wrapped herself / fell asleep）"
+    },
+    {
+      "paras": "Para 3",
+      "main": "清晨被轻敲车窗声唤醒，Daniel 与妻子 Rachel 因 noticed the stranded vehicle 停车相助，邀她去附近咖啡馆。",
+      "implied": "gentle knock 与黑夜的恐惧形成对照——陌生人的主动相帮是善意的第一次显形；\"not safe to stay overnight\" 说明帮助始于安全担忧。",
+      "feelings": "惊（awoke to a knock）→ 疑 → 感激宽慰（Grateful and relieved）"
+    },
+    {
+      "paras": "Para 4",
+      "main": "咖啡馆里夫妇请她喝热巧克力，耐心听她倾诉：距目的地约一百英里、车彻底被困、假期计划可能泡汤。",
+      "implied": "倾听本身就是帮助；三重困境（距离/车辆/计划）精确铺出续写必须解开的三个结。",
+      "feelings": "绝境中得一丝暖意（desperate situation / listened patiently）"
+    }
+  ],
+  "step2": [
+    {
+      "q": "文章中什么发生了改变，从状态 A 变成了状态 B？",
+      "a": "Emily 的处境与心境：from <b>stranded and desperate in a frozen ditch</b> to <b>rescued, warmed and back on her way</b>——由\"被暴雪困住的孤身旅行者\"变为\"被陌生人接住的幸运儿\"。"
+    },
+    {
+      "q": "造成状态 A 的原因是什么？什么转机 / 契机造成了状态 B？",
+      "a": "A 的原因：<b>侥幸心撞上极端天气</b>——无视暴雪预警、想当然以为警察能绕道管制。<br>B 的契机：<b>Daniel 与 Rachel 的主动相助</b>——注意到被困车辆、停车敲窗、带她进咖啡馆暖身。"
+    },
+    {
+      "q": "What message does the story try to convey?",
+      "a": "The kindness of strangers can turn one's darkest hour into the warmest memory of a lifetime.<br><span class='er-muted' style='font-size:12px'>（另一表述）A random act of generosity in a snowstorm warms more than any heater — it restores our faith in humanity.</span>"
+    }
+  ],
+  "step3": {
+    "guide": "🏠 <b>环境场所</b>　对某地或某个场景集中描写<br>📦 <b>特殊物品</b>　作者特意给镜头特写的物件<br>💔 <b>人物关系</b>　明示或暗示的关系状态<br>⚖️ <b>两难冲突</b>　主角面临的两难选择<br>❓ <b>悬念留白</b>　未解释的话、带省略号的话",
+    "items": [
+      {
+        "icon": "⚖️",
+        "name": "三重困境",
+        "type": "两难冲突 · 任务型",
+        "cls": "c-wp",
+        "extract": "<i>she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.</i>",
+        "reuse": "续写必须逐一解开：交通方案（火车）、车辆处置（拖去修）、假期走向（如期赴约）。",
+        "effect": "三重困境＝续写的任务清单，段首句 \"by train\" 已递来第一把钥匙。",
+        "refs": [
+          {
+            "p": 4,
+            "q": "she was about a hundred miles from her destination"
+          }
+        ]
+      },
+      {
+        "icon": "💔",
+        "name": "陌生的善意",
+        "type": "人物关系 · 递进型",
+        "cls": "c-gx",
+        "extract": "<i>Standing outside were Daniel and his wife Rachel, who noticed the stranded vehicle on their way home and stopped to see if they could help.</i>",
+        "reuse": "善意要升级而非重复：咖啡馆倾听 → 提出方案 → 拖车修车 → 送站赠别 → 婉拒酬谢，每一步加温。",
+        "effect": "夫妇是主题载体——\"素不相识\"的分量越重，善意越可贵。",
+        "refs": [
+          {
+            "p": 3,
+            "q": "Standing outside were Daniel and his wife Rachel"
+          }
+        ]
+      },
+      {
+        "icon": "🏠",
+        "name": "暴雪与放晴",
+        "type": "环境场所 · 对比型",
+        "cls": "c-hj",
+        "extract": "<i>The blinding whiteout made driving nearly impossible.</i>",
+        "reuse": "Para 2 以放晴对暴雪：<i>The weather had cleared, painting a peaceful, bright scene…</i>——环境对比承载心境反转。",
+        "effect": "雪夜越可怖，暖意越珍贵——环境的底色功能。",
+        "refs": [
+          {
+            "p": 2,
+            "q": "The blinding whiteout made driving nearly impossible"
+          }
+        ]
+      },
+      {
+        "icon": "📦",
+        "name": "热巧克力",
+        "type": "特殊物品 · 递进型",
+        "cls": "c-ln",
+        "extract": "<i>the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation</i>",
+        "reuse": "温暖小物可递进：热巧克力 → 自制曲奇 → 雨刮下的便签——一件比一件私人化。",
+        "effect": "小物件是善意的可见形态，用它收束最有余韵。",
+        "refs": [
+          {
+            "p": 4,
+            "q": "bought Emily a hot chocolate"
+          }
+        ]
+      },
+      {
+        "icon": "❓",
+        "name": "圣诞之约",
+        "type": "悬念留白 · 收束型",
+        "cls": "c-ln",
+        "extract": "<i>set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas</i>",
+        "reuse": "假期计划能否保住贯穿全文焦虑，结尾必须给出着落（范文：her holiday plan was saved by the couple!）。",
+        "effect": "开篇的心愿＝结尾的回响，首尾闭环成就\"完整\"。",
+        "refs": [
+          {
+            "p": 1,
+            "q": "with high hopes of reaching Toronto to meet her boyfriend for Christmas"
+          }
+        ]
+      }
+    ],
+    "patterns": "对比兑现：<i>…had once been…, but now…</i>（暴雪→放晴）　｜　呼应兑现：复用原文关键词＋升级（<i>stranded → previously stranded, now cleaned and checked</i>；<i>high hopes → her holiday plan was saved</i>）"
+  },
+  "step4": {
+    "p1": {
+      "keywords": "suggested … by train / tow … out of the ditch / agreed with immense gratitude",
+      "plots": [
+        "<b>情节A</b>：夫妇的建议与保证——坐火车继续旅程，他们负责把车拖出、请相熟的修理工检修（承接段首句，解开三重困境的前两重）。",
+        "<b>情节B</b>：Emily 的情绪转变——从惊魂未定到 immense gratitude（无灵主语＋身体证据）。",
+        "<b>情节C</b>（段末）：送站＋暖心小物＋车窗外的告别——收在\"假期计划得救\"的宽慰上。"
+      ]
+    },
+    "p2": {
+      "keywords": "three days later / cleared / a note tucked under the wiper",
+      "plots": [
+        "<b>情节A</b>：天气放晴的环境对比；取车所见——车已修好、雨刮下压着便签（物象特写）。",
+        "<b>情节B</b>：与夫妇重逢——推谢酬金（brushed aside her monetary thanks），\"it was their pleasure to help\"。",
+        "<b>情节C</b>（结尾三选一）：<span class='er-chip er-chip-end'>close-up shot 特写镜头（便签字迹）</span><span class='er-chip er-chip-end'>natural ending 自然结尾</span><span class='er-chip er-chip-end'>elevation 主题升华（random act of generosity）</span>"
+      ]
+    }
+  },
+  "step5": [
+    {
+      "t": "烂尾楼（伏笔未回收）",
+      "desc": "原文埋下的关键线索——三重困境、热巧克力、圣诞之约——相当于<b>开了工的地基</b>，续写却不把它们盖起来。埋线索不回收，作文就成了<b>烂尾楼</b>；这是\"与原文融洽度\"的直接失分点。",
+      "checks": [
+        {
+          "q": "火车建议被采纳，旅程得以继续（回应一百英里困境）"
+        },
+        {
+          "q": "车被拖出并修好（回应 completely stuck）"
+        },
+        {
+          "q": "圣诞假期计划保住（回应 meet her boyfriend for Christmas）"
+        },
+        {
+          "q": "暖心小物延续善意（呼应热巧克力）"
+        }
+      ],
+      "pred": "常见病例：取车走人一笔带过，忘了圣诞之约要有着落。"
+    },
+    {
+      "t": "说明书（只写结论，不写表现）",
+      "desc": "典型现象：<i>Emily was very happy. They were kind to her.</i>——只交付<b>结果</b>，不展示<b>过程</b>。happy 是什么样子（呼吸、眼眶、脚步）？kind 是什么动作（敲窗、递物、拖车）？阅卷人要的是<b>演示</b>，不是通知。",
+      "checks": [
+        {
+          "q": "获救与告别有画面感（镜头可见）"
+        },
+        {
+          "q": "情绪变化有身体证据"
+        }
+      ],
+      "pred": "常见病例：全篇找不到一个可以拍成画面的句子。"
+    },
+    {
+      "t": "失忆症（人物性格断崖）",
+      "desc": "Rachel 在原文里 \"with genuine warmth in her voice\"，续写却突然变成公事公办的陌生人——人物性格<b>一夜失忆</b>。原文给每位角色定了调，续写是同一个人故事的下一页。",
+      "checks": [
+        {
+          "q": "Rachel 依然温暖（便签/曲奇/婉拒酬谢）"
+        },
+        {
+          "q": "Daniel 有主动戏份（拖车/开车送站）"
+        }
+      ],
+      "pred": "常见病例：Para 2 里夫妇只剩\"给了她车\"一个动作，温度归零。"
+    },
+    {
+      "t": "跑龙套（主角变配角）",
+      "desc": "有些续写里 Emily 全程被推着走：建议就接受、车修好就取走——<b>主角成了自己故事的局外人</b>。她应有反应、有选择、有情感回应，至少一处主动。",
+      "checks": [
+        {
+          "q": "Emily 至少一处主动（主动道谢/回赠/许诺）"
+        },
+        {
+          "q": "夫妇的建议 Emily 有犹豫或思考的过程"
+        }
+      ],
+      "pred": "常见病例：通篇只有夫妇在动，Emily 像行李。"
+    }
+  ],
+  "step6": {
+    "qs": [],
+    "pairs": [
+      {
+        "title": "Para. 1　　Scene 1 · The knock at the window（相遇善意）",
+        "text": "<b>How to show the couple's kindness the moment they appeared?</b><br>To depict the knock on the car window and Emily's first reaction.<br><br>① ✗ Daniel and Rachel were kind and helpful. (Tell)<br>➜ Snow crunching under their boots, Daniel <b>rapped gently</b> on the frosted glass while Rachel <b>cupped her hands</b> to peer through the ice flowers. (Show)<br>技巧：分词状语 ｜ 动作链 ｜ 细节特写<br><br>② ✗ Emily felt surprised and hopeful again. (Tell)<br>➜ <b>Hope flickered</b> in her chest like a match struck in the dark; her frozen fingers <b>scrambled</b> for the window handle. (Show)<br>技巧：明喻 ｜ 无灵主语 ｜ 身体细节<br><br>③ ✗ Rachel's voice was warm. (Tell)<br>➜ “It isn't safe to stay in the car overnight,” Rachel said, <b>her voice a patch of warmth</b> in the biting cold. (Show)<br>技巧：直接引语 ｜ 隐喻 ｜ 寒暖对比",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-1-knock.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 1　　Scene 2 · Hot chocolate in the cafe（倾听暖心）",
+        "text": "<b>How to show the warmth of the cafe after the frozen night?</b><br>To depict the hot chocolate and the couple's patient listening.<br><br>① ✗ The cafe was warm and Emily relaxed. (Tell)<br>➜ The hot chocolate <b>sent up a curl of steam</b>; feeling <b>seeped back into</b> her numb fingers, one slow heartbeat at a time. (Show)<br>技巧：细节特写 ｜ 身体感知 ｜ 节奏感<br><br>② ✗ Emily told them about her trouble. (Tell)<br>➜ The whole story <b>spilled out</b>—the storm, the ditch, the ruined holiday—while the couple <b>leaned in</b>, nodding, never interrupting. (Show)<br>技巧：破折号列举 ｜ 动作传情<br><br>③ ✗ The couple listened patiently. (Tell)<br>➜ They listened <b>the way people listen when they mean it</b>, their eyes never wandering to the snow outside. (Show)<br>技巧：定语从句传情 ｜ 对比收焦",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-2-choco.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 1　　Scene 3 · Homemade cookies（赠物传情）",
+        "text": "<b>How to make a small gift carry great kindness?</b><br>To depict Rachel pressing the homemade cookies into Emily's hands.<br><br>① ✗ Rachel gave Emily some cookies. (Tell)<br>➜ Rachel <b>pressed a bag of homemade cookies</b> into her hands—<b>still warm</b>, as if the oven's kindness refused to fade. (Show)<br>技巧：动词精准(pressed) ｜ 拟人<br><br>② ✗ Emily was moved by the gift. (Tell)<br>➜ Emily <b>held the bag to her chest</b> as if it were <b>a piece of home</b> she could carry onto the train. (Show)<br>技巧：明喻 ｜ 动作外化情感<br><br>③ ✗ The cookies tasted good on the journey. (Tell)<br>➜ Each cookie <b>tasted of butter and brown sugar—and of strangers who treat you like family</b>. (Show)<br>技巧：味觉写实 ｜ 一句双关升华",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-3-cookies.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 1　　Scene 4 · Through the train window（渐远告别）",
+        "text": "<b>How to show the farewell without saying goodbye?</b><br>To depict watching the couple through the window as the train pulls away.<br><br>① ✗ Emily watched them until they disappeared. (Tell)<br>➜ Through the frosted window, she watched Daniel and Rachel <b>shrink into two dots</b> in the endless white, <b>their waves slower and slower</b>. (Show)<br>技巧：远景镜头 ｜ 独立主格<br><br>② ✗ Emily felt safe and grateful on the train. (Tell)<br>➜ The fear of the night before <b>melted with the frost on the glass</b>, <b>replaced by</b> a quiet, glowing gratitude. (Show)<br>技巧：无灵主语 ｜ 对比<br><br>③ ✗ The train left the snowy town. (Tell)<br>➜ <b>Clickety-clack, clickety-clack</b>—each turn of the wheels carried her farther from the ditch and <b>closer to the Christmas she had almost lost</b>. (Show)<br>技巧：拟声词 ｜ 首尾呼应",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-4-train.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 2　　Scene 5 · The cleared morning（雨过天晴）",
+        "text": "<b>How to let the weather speak for Emily's mood?</b><br>To depict the cleared sky and the peaceful scene three days later.<br><br>① ✗ Three days later, the weather became fine. (Tell)<br>➜ Three days later, the storm had <b>given way to a sky so blue it seemed rinsed</b>, sunlight <b>laying long gold ribbons</b> across the snow. (Show)<br>技巧：拟人(rinsed) ｜ 光影描写<br><br>② ✗ The village looked beautiful after the storm. (Tell)<br>➜ Frosted trees <b>glittered like chandeliers</b>, and the once-hostile road <b>slept peacefully under its thick white blanket</b>. (Show)<br>技巧：明喻 ｜ 拟人 ｜ 前后对比<br><br>③ ✗ Emily drove back to get her car happily. (Tell)<br>➜ Her footsteps <b>crunched lighter</b> than they had three days ago—<b>some roads feel shorter when your heart is light</b>. (Show)<br>技巧：细节对照 ｜ 哲理句",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-5-cleared.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 2　　Scene 6 · The note under the wiper（物象收束）",
+        "text": "<b>How to end with an object that carries the theme?</b><br>To depict the note under the wiper and Emily's final feelings.<br><br>① ✗ Emily found a note under the wiper. (Tell)<br>➜ <b>Tucked under the wiper</b>, a note in Rachel's graceful hand simply read: “Safe travels. Merry Christmas.” (Show)<br>技巧：过去分词开头 ｜ 特写镜头<br><br>② ✗ Emily was deeply moved by the note. (Tell)<br>➜ Emily <b>read it twice</b>, the paper <b>trembling</b> slightly in her hand—as if the words were <b>warm to the touch</b>. (Show)<br>技巧：动作外化 ｜ 通感<br><br>③ ✗ Emily would never forget their kindness. (Tell)<br>➜ Some kindness <b>arrives like a knock on the window</b>—and stays with you <b>long after the snow has melted</b>. (Show)<br>技巧：回环呼应(knock) ｜ 升华收束",
+        "imgs": [
+          {
+            "src": "assets/essay/emily-6-note.jpg",
+            "x": 0,
+            "y": 0,
+            "w": 300,
+            "h": 200
+          }
+        ],
+        "layout": "r"
+      }
+    ],
+    "extra": "<p class='er-muted'>（此区可导入补充语料）</p>"
+  },
+  "step7": {
+    "text": "<p class='er-muted'>导入学生作文，全班一起评价并提出改进意见。<br>点击下方按钮导入文字或图片。</p>",
+    "images": []
+  },
+  "step8": {
+    "text": "<b>Para 1</b><br>Daniel and Rachel suggested that Emily continue her journey by train. They also assured her that they would <b>tow her car out of the ditch</b> and have their trusted mechanic <b>thoroughly check it</b> in their garage. Comforted by their <b>profound kindness</b>, Emily agreed with immense gratitude. Later, the warm-hearted couple drove her to the railway station, where Rachel <b>pressed a bag of homemade cookies</b> into her hands for the journey. As the train pulled away from the snowy platform, Emily watched their warm smiles fading into the distance, her anxiety and desperation <b>replaced by a newfound sense of security</b>. Obviously, her holiday plan was saved by the couple!<br><br><b>Para 2</b><br>Three days later, Emily returned to get her car. The weather had cleared, <b>painting a peaceful, bright scene</b> over the once stormy landscape. Arriving at the couple's garage as prearranged, she was met by her previously stranded vehicle, now <b>cleaned and thoroughly checked</b>. A note <b>tucked under the wiper</b>, written in Rachel's graceful hand, simply read: “Safe travels. Merry Christmas.” <b>Overcome with emotion</b>, Emily found Daniel and Rachel inside. They <b>brushed aside her monetary thanks</b> with the same genuine warmth, saying it was their pleasure to help. Indeed, the couple's <b>random act of generosity</b> transformed Emily's moment of crisis into her most <b>enduring memory</b> of the Christmas season."
+  }
+}

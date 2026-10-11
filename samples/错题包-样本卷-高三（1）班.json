@@ -1,0 +1,1322 @@
+{
+  "assignment": "样本卷01",
+  "class": "class9",
+  "className": "高三（1）班",
+  "exportedAt": "2026-10-11",
+  "standard": {
+    "red": "<60% 详细评讲",
+    "yellow": "60%~70% 快速评讲",
+    "note": "请只为下列题目生成分析，每题只针对topWrongOptions列出的两个错误选项"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "单选题",
+      "classRate": 67.24,
+      "schoolRate": 74.5,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 11,
+          "names": [
+            "阮格嘉",
+            "葛言思",
+            "邸清修",
+            "温越云",
+            "沈物树",
+            "樊宁毅",
+            "邱温慎",
+            "邵弘思",
+            "段静文",
+            "段丰舒",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 8,
+          "names": [
+            "陆康静",
+            "樊静知",
+            "嵇鼎星",
+            "韩身越",
+            "盛格博",
+            "陆温知",
+            "林雅其",
+            "郁远思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "单选题",
+      "classRate": 44.83,
+      "schoolRate": 53.36,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 18,
+          "names": [
+            "游树若",
+            "嵇鼎星",
+            "萧景远",
+            "韩身越",
+            "尹修言",
+            "邵清星",
+            "池言身",
+            "盛格博",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "盛野晞",
+            "段汐舒",
+            "晏毅弘",
+            "聂宁乐",
+            "樊宁毅",
+            "邸望丰",
+            "翟弘羽"
+          ]
+        },
+        {
+          "letter": "C",
+          "count": 14,
+          "names": [
+            "陆康静",
+            "萧故舒",
+            "萧故若",
+            "邸舒羽",
+            "葛言思",
+            "郁亦宸",
+            "童其帆",
+            "邵望慎",
+            "陆温知",
+            "樊帆桢",
+            "嵇其丰",
+            "游乐行",
+            "尹格知",
+            "邵弘思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "单选题",
+      "classRate": 56.9,
+      "schoolRate": 70.92,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "A",
+          "count": 19,
+          "names": [
+            "陆康静",
+            "樊静知",
+            "萧故舒",
+            "桂宸琛",
+            "尹修言",
+            "阮格嘉",
+            "葛言思",
+            "郁亦宸",
+            "盛格博",
+            "童其帆",
+            "桑越知",
+            "桑毅身",
+            "陆温知",
+            "葛博乐",
+            "盛野晞",
+            "聂宁乐",
+            "游乐行",
+            "阮其其",
+            "邱温慎"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 6,
+          "names": [
+            "桑行毅",
+            "邵望慎",
+            "樊帆桢",
+            "尹格知",
+            "邵弘思",
+            "段静文"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "单选题",
+      "classRate": 60.34,
+      "schoolRate": 65.77,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "A",
+          "count": 19,
+          "names": [
+            "林桢新",
+            "萧故若",
+            "嵇鼎星",
+            "聂语沐",
+            "邸舒羽",
+            "韩身越",
+            "池言身",
+            "童其帆",
+            "邵望慎",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "晏毅弘",
+            "樊帆桢",
+            "游乐行",
+            "阮其其",
+            "尹格知",
+            "郁远思",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 4,
+          "names": [
+            "樊静知",
+            "陆温知",
+            "林雅其",
+            "邸望丰"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "单选题",
+      "classRate": 36.21,
+      "schoolRate": 53.47,
+      "correctAnswer": "B",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 32,
+          "names": [
+            "陆康静",
+            "林桢新",
+            "游树若",
+            "萧故舒",
+            "萧故若",
+            "嵇鼎星",
+            "聂语沐",
+            "萧景远",
+            "尹修言",
+            "葛言思",
+            "郁行野",
+            "沈遥若",
+            "桑毅身",
+            "樊望宁",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "晏毅弘",
+            "温越云",
+            "沈物树",
+            "聂宁乐",
+            "樊帆桢",
+            "嵇其丰",
+            "鄢慎舒",
+            "阮其其",
+            "萧星康",
+            "邱温慎",
+            "邸望丰",
+            "郁远思",
+            "段丰舒",
+            "饶遥书",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 5,
+          "names": [
+            "邵清星",
+            "桑行毅",
+            "池言身",
+            "陆温知",
+            "林雅其"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "阅读理解",
+      "classRate": 62.07,
+      "schoolRate": 73.71,
+      "correctAnswer": "B",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 10,
+          "names": [
+            "嵇鼎星",
+            "韩身越",
+            "尹修言",
+            "邵清星",
+            "桑宸未",
+            "林雅其",
+            "阮其其",
+            "廖羽宁",
+            "郁远思",
+            "段丰舒"
+          ]
+        },
+        {
+          "letter": "C",
+          "count": 9,
+          "names": [
+            "陆康静",
+            "游树若",
+            "聂语沐",
+            "桑行毅",
+            "盛格博",
+            "樊望宁",
+            "盛野晞",
+            "晏毅弘",
+            "邵弘思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "阅读理解",
+      "classRate": 58.62,
+      "schoolRate": 60.74,
+      "correctAnswer": "B",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 24,
+          "names": [
+            "林桢新",
+            "游树若",
+            "萧故舒",
+            "萧故若",
+            "桂宸琛",
+            "邵清星",
+            "郁亦宸",
+            "盛格博",
+            "郁行野",
+            "沈遥若",
+            "桑越知",
+            "邵望慎",
+            "温雅物",
+            "桑宸未",
+            "邸清修",
+            "樊帆桢",
+            "嵇其丰",
+            "阮其其",
+            "萧星康",
+            "池知鼎",
+            "段静文",
+            "郁远思",
+            "段丰舒",
+            "饶遥书"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "阅读理解",
+      "classRate": 31.03,
+      "schoolRate": 44.97,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 39,
+          "names": [
+            "陆康静",
+            "樊静知",
+            "游树若",
+            "萧故舒",
+            "萧故若",
+            "嵇鼎星",
+            "聂语沐",
+            "萧景远",
+            "邸舒羽",
+            "尹修言",
+            "邵清星",
+            "桑行毅",
+            "葛言思",
+            "池言身",
+            "盛格博",
+            "郁行野",
+            "童其帆",
+            "桑越知",
+            "桑毅身",
+            "邵望慎",
+            "温雅物",
+            "樊望宁",
+            "桑宸未",
+            "邸清修",
+            "段汐舒",
+            "晏毅弘",
+            "温越云",
+            "沈物树",
+            "聂宁乐",
+            "樊帆桢",
+            "嵇其丰",
+            "游乐行",
+            "阮其其",
+            "樊宁毅",
+            "邸望丰",
+            "邵弘思",
+            "段静文",
+            "郁远思",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 1,
+          "names": [
+            "韩身越"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "阅读理解",
+      "classRate": 63.79,
+      "schoolRate": 76.4,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 15,
+          "names": [
+            "萧故舒",
+            "萧故若",
+            "聂语沐",
+            "尹修言",
+            "邵清星",
+            "童其帆",
+            "邵望慎",
+            "陆温知",
+            "盛野晞",
+            "晏毅弘",
+            "温越云",
+            "嵇其丰",
+            "邸望丰",
+            "邵弘思",
+            "段丰舒"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 4,
+          "names": [
+            "郁亦宸",
+            "池言身",
+            "林雅其",
+            "郁远思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "阅读理解",
+      "classRate": 50,
+      "schoolRate": 59.84,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 19,
+          "names": [
+            "聂语沐",
+            "萧景远",
+            "邸舒羽",
+            "尹修言",
+            "阮格嘉",
+            "邵清星",
+            "桑行毅",
+            "葛言思",
+            "郁亦宸",
+            "沈遥若",
+            "陆温知",
+            "盛野晞",
+            "晏毅弘",
+            "樊帆桢",
+            "嵇其丰",
+            "阮其其",
+            "樊宁毅",
+            "廖羽宁",
+            "翟弘羽"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 5,
+          "names": [
+            "萧故舒",
+            "池言身",
+            "童其帆",
+            "葛博乐",
+            "萧星康"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "阅读理解",
+      "classRate": 51.72,
+      "schoolRate": 77.52,
+      "correctAnswer": "D",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 17,
+          "names": [
+            "樊静知",
+            "萧故若",
+            "嵇鼎星",
+            "聂语沐",
+            "萧景远",
+            "尹修言",
+            "阮格嘉",
+            "葛言思",
+            "池言身",
+            "郁行野",
+            "童其帆",
+            "邸清修",
+            "温越云",
+            "樊帆桢",
+            "游乐行",
+            "段静文",
+            "翟弘羽"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 8,
+          "names": [
+            "桑行毅",
+            "盛格博",
+            "邵望慎",
+            "陆温知",
+            "葛博乐",
+            "盛野晞",
+            "阮其其",
+            "萧星康"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "阅读理解",
+      "classRate": 65.52,
+      "schoolRate": 82.21,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 11,
+          "names": [
+            "萧故若",
+            "嵇鼎星",
+            "邸舒羽",
+            "尹修言",
+            "邵清星",
+            "葛言思",
+            "童其帆",
+            "陆温知",
+            "温越云",
+            "嵇其丰",
+            "游乐行"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 6,
+          "names": [
+            "聂语沐",
+            "韩身越",
+            "池言身",
+            "温雅物",
+            "盛野晞",
+            "聂宁乐"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "阅读理解",
+      "classRate": 63.79,
+      "schoolRate": 71.92,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 11,
+          "names": [
+            "萧故若",
+            "萧景远",
+            "温雅物",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "沈物树",
+            "游乐行",
+            "阮其其",
+            "樊宁毅",
+            "邱温慎"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 6,
+          "names": [
+            "陆康静",
+            "尹修言",
+            "晏毅弘",
+            "林雅其",
+            "邵弘思",
+            "翟弘羽"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "type": "完形填空",
+      "classRate": 55.17,
+      "schoolRate": 65.32,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 13,
+          "names": [
+            "韩身越",
+            "池言身",
+            "盛格博",
+            "桑越知",
+            "邵望慎",
+            "樊望宁",
+            "沈物树",
+            "樊帆桢",
+            "阮其其",
+            "尹格知",
+            "邸望丰",
+            "池知鼎",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 7,
+          "names": [
+            "聂语沐",
+            "桑行毅",
+            "童其帆",
+            "陆温知",
+            "盛野晞",
+            "晏毅弘",
+            "嵇其丰"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "type": "完形填空",
+      "classRate": 51.72,
+      "schoolRate": 62.75,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 17,
+          "names": [
+            "游树若",
+            "尹修言",
+            "阮格嘉",
+            "邵清星",
+            "桑行毅",
+            "盛格博",
+            "邵望慎",
+            "桑宸未",
+            "葛博乐",
+            "盛野晞",
+            "晏毅弘",
+            "温越云",
+            "嵇其丰",
+            "阮其其",
+            "樊宁毅",
+            "段静文",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 9,
+          "names": [
+            "陆康静",
+            "聂语沐",
+            "韩身越",
+            "葛言思",
+            "陆温知",
+            "樊帆桢",
+            "林雅其",
+            "游乐行",
+            "邵弘思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "type": "完形填空",
+      "classRate": 58.62,
+      "schoolRate": 68.68,
+      "correctAnswer": "D",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "A",
+          "count": 16,
+          "names": [
+            "萧故若",
+            "嵇鼎星",
+            "聂语沐",
+            "葛言思",
+            "桑毅身",
+            "葛博乐",
+            "晏毅弘",
+            "温越云",
+            "樊帆桢",
+            "嵇其丰",
+            "林雅其",
+            "游乐行",
+            "阮其其",
+            "樊宁毅",
+            "邵弘思",
+            "段静文"
+          ]
+        },
+        {
+          "letter": "C",
+          "count": 6,
+          "names": [
+            "萧景远",
+            "池言身",
+            "盛格博",
+            "童其帆",
+            "桑宸未",
+            "翟弘羽"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "type": "完形填空",
+      "classRate": 48.28,
+      "schoolRate": 56.82,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 27,
+          "names": [
+            "陆康静",
+            "游树若",
+            "萧故若",
+            "聂语沐",
+            "萧景远",
+            "郁亦宸",
+            "池言身",
+            "桑毅身",
+            "温雅物",
+            "桑宸未",
+            "邸清修",
+            "盛野晞",
+            "段汐舒",
+            "晏毅弘",
+            "温越云",
+            "樊帆桢",
+            "嵇其丰",
+            "游乐行",
+            "鄢慎舒",
+            "阮其其",
+            "樊宁毅",
+            "尹格知",
+            "邱温慎",
+            "池知鼎",
+            "段丰舒",
+            "饶遥书",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 2,
+          "names": [
+            "尹修言",
+            "童其帆"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "type": "完形填空",
+      "classRate": 32.76,
+      "schoolRate": 53.13,
+      "correctAnswer": "D",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "B",
+          "count": 25,
+          "names": [
+            "樊静知",
+            "聂语沐",
+            "萧景远",
+            "尹修言",
+            "邵清星",
+            "桑行毅",
+            "郁亦宸",
+            "郁行野",
+            "桑毅身",
+            "陆温知",
+            "樊望宁",
+            "桑宸未",
+            "盛野晞",
+            "段汐舒",
+            "樊帆桢",
+            "嵇其丰",
+            "林雅其",
+            "游乐行",
+            "阮其其",
+            "尹格知",
+            "邸望丰",
+            "段静文",
+            "郁远思",
+            "段丰舒",
+            "翟弘羽"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 13,
+          "names": [
+            "游树若",
+            "萧故若",
+            "嵇鼎星",
+            "邸舒羽",
+            "葛言思",
+            "盛格博",
+            "童其帆",
+            "葛博乐",
+            "邸清修",
+            "温越云",
+            "沈物树",
+            "樊宁毅",
+            "邱温慎"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "type": "完形填空",
+      "classRate": 44.83,
+      "schoolRate": 34.9,
+      "correctAnswer": "B",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "A",
+          "count": 21,
+          "names": [
+            "萧景远",
+            "邸舒羽",
+            "阮格嘉",
+            "邵清星",
+            "桑行毅",
+            "盛格博",
+            "郁行野",
+            "童其帆",
+            "桑越知",
+            "桑毅身",
+            "温雅物",
+            "樊望宁",
+            "邸清修",
+            "盛野晞",
+            "聂宁乐",
+            "樊帆桢",
+            "游乐行",
+            "鄢慎舒",
+            "邱温慎",
+            "邵弘思",
+            "段静文"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 6,
+          "names": [
+            "陆温知",
+            "温越云",
+            "尹格知",
+            "郁远思",
+            "段丰舒",
+            "翟弘羽"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "type": "完形填空",
+      "classRate": 62.07,
+      "schoolRate": 72.04,
+      "correctAnswer": "D",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "A",
+          "count": 16,
+          "names": [
+            "樊静知",
+            "聂语沐",
+            "尹修言",
+            "阮格嘉",
+            "童其帆",
+            "桑毅身",
+            "邵望慎",
+            "桑宸未",
+            "段汐舒",
+            "聂宁乐",
+            "樊帆桢",
+            "嵇其丰",
+            "游乐行",
+            "段静文",
+            "郁远思",
+            "段丰舒"
+          ]
+        },
+        {
+          "letter": "C",
+          "count": 5,
+          "names": [
+            "桑行毅",
+            "葛言思",
+            "郁行野",
+            "林雅其",
+            "阮其其"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "type": "完形填空",
+      "classRate": 27.59,
+      "schoolRate": 26.4,
+      "correctAnswer": "C",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 22,
+          "names": [
+            "樊静知",
+            "游树若",
+            "萧故舒",
+            "嵇鼎星",
+            "桂宸琛",
+            "郁亦宸",
+            "童其帆",
+            "沈遥若",
+            "桑毅身",
+            "樊望宁",
+            "邸清修",
+            "盛野晞",
+            "温越云",
+            "沈物树",
+            "嵇其丰",
+            "林雅其",
+            "鄢慎舒",
+            "尹格知",
+            "邵弘思",
+            "段丰舒",
+            "翟弘羽",
+            "饶遥书"
+          ]
+        },
+        {
+          "letter": "B",
+          "count": 19,
+          "names": [
+            "林桢新",
+            "萧故若",
+            "萧景远",
+            "阮格嘉",
+            "邵清星",
+            "桑行毅",
+            "葛言思",
+            "池言身",
+            "盛格博",
+            "陆温知",
+            "温雅物",
+            "葛博乐",
+            "樊帆桢",
+            "阮其其",
+            "萧星康",
+            "廖羽宁",
+            "邸望丰",
+            "段静文",
+            "韩若其"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "type": "完形填空",
+      "classRate": 62.07,
+      "schoolRate": 72.26,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 14,
+          "names": [
+            "樊静知",
+            "嵇鼎星",
+            "邸舒羽",
+            "尹修言",
+            "邵清星",
+            "郁亦宸",
+            "童其帆",
+            "邵望慎",
+            "樊望宁",
+            "葛博乐",
+            "晏毅弘",
+            "林雅其",
+            "邱温慎",
+            "邵弘思"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 7,
+          "names": [
+            "萧故若",
+            "聂语沐",
+            "韩身越",
+            "郁行野",
+            "桑宸未",
+            "樊帆桢",
+            "廖羽宁"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "type": "完形填空",
+      "classRate": 24.14,
+      "schoolRate": 29.42,
+      "correctAnswer": "A",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 24,
+          "names": [
+            "林桢新",
+            "嵇鼎星",
+            "桂宸琛",
+            "萧景远",
+            "尹修言",
+            "阮格嘉",
+            "邵清星",
+            "郁亦宸",
+            "池言身",
+            "盛格博",
+            "沈遥若",
+            "桑越知",
+            "陆温知",
+            "沈物树",
+            "嵇其丰",
+            "鄢慎舒",
+            "阮其其",
+            "萧星康",
+            "樊宁毅",
+            "邸望丰",
+            "段静文",
+            "郁远思",
+            "段丰舒",
+            "韩若其"
+          ]
+        },
+        {
+          "letter": "D",
+          "count": 19,
+          "names": [
+            "陆康静",
+            "游树若",
+            "聂语沐",
+            "邸舒羽",
+            "韩身越",
+            "桑毅身",
+            "樊望宁",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "盛野晞",
+            "晏毅弘",
+            "聂宁乐",
+            "林雅其",
+            "邱温慎",
+            "廖羽宁",
+            "邵弘思",
+            "翟弘羽",
+            "饶遥书"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "type": "完形填空",
+      "classRate": 58.62,
+      "schoolRate": 70.92,
+      "correctAnswer": "D",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "C",
+          "count": 20,
+          "names": [
+            "嵇鼎星",
+            "萧景远",
+            "邸舒羽",
+            "尹修言",
+            "阮格嘉",
+            "桑行毅",
+            "盛格博",
+            "沈遥若",
+            "桑越知",
+            "温雅物",
+            "桑宸未",
+            "葛博乐",
+            "邸清修",
+            "温越云",
+            "嵇其丰",
+            "游乐行",
+            "阮其其",
+            "萧星康",
+            "廖羽宁",
+            "段丰舒"
+          ]
+        },
+        {
+          "letter": "A",
+          "count": 3,
+          "names": [
+            "萧故舒",
+            "段汐舒",
+            "郁远思"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "type": "完形填空",
+      "classRate": 56.9,
+      "schoolRate": 61.52,
+      "correctAnswer": "B",
+      "answeredCount": 58,
+      "unanswered": 0,
+      "topWrongOptions": [
+        {
+          "letter": "D",
+          "count": 10,
+          "names": [
+            "樊静知",
+            "萧故舒",
+            "尹修言",
+            "邵清星",
+            "桑行毅",
+            "邵望慎",
+            "嵇其丰",
+            "樊宁毅",
+            "邵弘思",
+            "郁远思"
+          ]
+        },
+        {
+          "letter": "C",
+          "count": 8,
+          "names": [
+            "邸舒羽",
+            "陆温知",
+            "樊望宁",
+            "桑宸未",
+            "葛博乐",
+            "段汐舒",
+            "聂宁乐",
+            "游乐行"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "type": "主观题",
+      "classRate": 65.52,
+      "schoolRate": 80.54,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 60,
+      "type": "主观题",
+      "classRate": 51.72,
+      "schoolRate": 57.94,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 61,
+      "type": "主观题",
+      "classRate": 62.07,
+      "schoolRate": 78.19,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 62,
+      "type": "主观题",
+      "classRate": 31.03,
+      "schoolRate": 37.47,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 63,
+      "type": "主观题",
+      "classRate": 13.79,
+      "schoolRate": 25.5,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 64,
+      "type": "主观题",
+      "classRate": 37.93,
+      "schoolRate": 46.76,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 65,
+      "type": "主观题",
+      "classRate": 65.52,
+      "schoolRate": 71.36,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 66,
+      "type": "主观题",
+      "classRate": 57.64,
+      "schoolRate": 62.6,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    },
+    {
+      "id": 67,
+      "type": "主观题",
+      "classRate": 59.72,
+      "schoolRate": 60.98,
+      "correctAnswer": "",
+      "answeredCount": 0,
+      "unanswered": 0,
+      "topWrongOptions": []
+    }
+  ]
+}

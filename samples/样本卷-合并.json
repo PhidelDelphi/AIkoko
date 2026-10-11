@@ -1,0 +1,1685 @@
+{
+ "type": "afr-merged",
+ "exam": "2026年高考英语真题1",
+ "assignment": "2026年高考英语真题1",
+ "generatedAt": "2026-10-11",
+ "modules": {
+  "essay": {
+   "articles": [
+    {
+     "id": "art-20261011-emily-snowstorm",
+     "title": "风雪困车 · 陌生人的善意",
+     "source": "2026年高考英语真题1 · 读后续写",
+     "type": "continuation",
+     "hw": "2026年高考英语真题1",
+     "story": [
+      "Emily Sanders, a 25-year-old from Detroit, Michigan, set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas. Although she had heard warnings about an approaching snowstorm, she didn't give it much thought. She assumed that much like in Michigan, police would simply detour (使绕道) traffic around any closed sections of the highway. But that didn't happen. As the snow came down more and more heavily, Emily was directed off the highway. She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
+      "The blinding whiteout made driving nearly impossible. At one point, Emily's car got stuck. After a struggle, she managed to free the vehicle and continued inching along the snow-covered road. As night fell, panic set in. While Emily was driving on a narrow stretch of road, her car slid into a ditch (沟). She tried to call for help but found no signal on her phone. Seeing no hope of immediate rescue, Emily decided to spend the night in her car. She wrapped herself in a blanket, waiting for morning. To stay warm, she ran her engine for a few minutes every now and then. Eventually, she fell asleep.",
+      "Emily awoke to a gentle knock on her car window. Standing outside were Daniel and his wife Rachel, who noticed the stranded (被困的) vehicle on their way home and stopped to see if they could help. When Emily rolled down the window, Rachel asked if she was okay and told her it was not safe to stay overnight in the car. With genuine warmth in her voice, Rachel said they could take Emily to a nearby cafe they knew. Grateful and relieved, Emily accepted the offer.",
+      "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined."
+     ],
+     "openers": [
+      "Daniel and Rachel suggested that Emily continue her journey by train",
+      "Three days later, Emily returned to get her car."
+     ],
+     "step1": [
+      {
+       "paras": "Para 1-2",
+       "main": "圣诞前夜驱车赴多伦多会男友，暴雪中被逼下高速、迷路，夜里连人带车滑进沟中；手机无信号，只能裹毯子在车里过夜。",
+       "implied": "困境的根源不是天气而是侥幸心理（didn't give it much thought / she assumed…）——原文用\"假设落空\"为\"善意的珍贵\"蓄力。",
+       "feelings": "自信轻松 → 紧张恐慌 → 无助疲惫（panic set in / wrapped herself / fell asleep）"
+      },
+      {
+       "paras": "Para 3",
+       "main": "清晨被轻敲车窗声唤醒，Daniel 与妻子 Rachel 因 noticed the stranded vehicle 停车相助，邀她去附近咖啡馆。",
+       "implied": "gentle knock 与黑夜的恐惧形成对照——陌生人的主动相帮是善意的第一次显形；\"not safe to stay overnight\" 说明帮助始于安全担忧。",
+       "feelings": "惊（awoke to a knock）→ 疑 → 感激宽慰（Grateful and relieved）"
+      },
+      {
+       "paras": "Para 4",
+       "main": "咖啡馆里夫妇请她喝热巧克力，耐心听她倾诉：距目的地约一百英里、车彻底被困、假期计划可能泡汤。",
+       "implied": "倾听本身就是帮助；三重困境（距离/车辆/计划）精确铺出续写必须解开的三个结。",
+       "feelings": "绝境中得一丝暖意（desperate situation / listened patiently）"
+      }
+     ],
+     "step2": [
+      {
+       "q": "文章中什么发生了改变，从状态 A 变成了状态 B？",
+       "a": "Emily 的处境与心境：from <b>stranded and desperate in a frozen ditch</b> to <b>rescued, warmed and back on her way</b>——由\"被暴雪困住的孤身旅行者\"变为\"被陌生人接住的幸运儿\"。"
+      },
+      {
+       "q": "造成状态 A 的原因是什么？什么转机 / 契机造成了状态 B？",
+       "a": "A 的原因：<b>侥幸心撞上极端天气</b>——无视暴雪预警、想当然以为警察能绕道管制。<br>B 的契机：<b>Daniel 与 Rachel 的主动相助</b>——注意到被困车辆、停车敲窗、带她进咖啡馆暖身。"
+      },
+      {
+       "q": "What message does the story try to convey?",
+       "a": "The kindness of strangers can turn one's darkest hour into the warmest memory of a lifetime.<br><span class='er-muted' style='font-size:12px'>（另一表述）A random act of generosity in a snowstorm warms more than any heater — it restores our faith in humanity.</span>"
+      }
+     ],
+     "step3": {
+      "guide": "🏠 <b>环境场所</b>　对某地或某个场景集中描写<br>📦 <b>特殊物品</b>　作者特意给镜头特写的物件<br>💔 <b>人物关系</b>　明示或暗示的关系状态<br>⚖️ <b>两难冲突</b>　主角面临的两难选择<br>❓ <b>悬念留白</b>　未解释的话、带省略号的话",
+      "items": [
+       {
+        "icon": "⚖️",
+        "name": "三重困境",
+        "type": "两难冲突 · 任务型",
+        "cls": "c-wp",
+        "extract": "<i>she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.</i>",
+        "reuse": "续写必须逐一解开：交通方案（火车）、车辆处置（拖去修）、假期走向（如期赴约）。",
+        "effect": "三重困境＝续写的任务清单，段首句 \"by train\" 已递来第一把钥匙。",
+        "refs": [
+         {
+          "p": 4,
+          "q": "she was about a hundred miles from her destination"
+         }
+        ]
+       },
+       {
+        "icon": "💔",
+        "name": "陌生的善意",
+        "type": "人物关系 · 递进型",
+        "cls": "c-gx",
+        "extract": "<i>Standing outside were Daniel and his wife Rachel, who noticed the stranded vehicle on their way home and stopped to see if they could help.</i>",
+        "reuse": "善意要升级而非重复：咖啡馆倾听 → 提出方案 → 拖车修车 → 送站赠别 → 婉拒酬谢，每一步加温。",
+        "effect": "夫妇是主题载体——\"素不相识\"的分量越重，善意越可贵。",
+        "refs": [
+         {
+          "p": 3,
+          "q": "Standing outside were Daniel and his wife Rachel"
+         }
+        ]
+       },
+       {
+        "icon": "🏠",
+        "name": "暴雪与放晴",
+        "type": "环境场所 · 对比型",
+        "cls": "c-hj",
+        "extract": "<i>The blinding whiteout made driving nearly impossible.</i>",
+        "reuse": "Para 2 以放晴对暴雪：<i>The weather had cleared, painting a peaceful, bright scene…</i>——环境对比承载心境反转。",
+        "effect": "雪夜越可怖，暖意越珍贵——环境的底色功能。",
+        "refs": [
+         {
+          "p": 2,
+          "q": "The blinding whiteout made driving nearly impossible"
+         }
+        ]
+       },
+       {
+        "icon": "📦",
+        "name": "热巧克力",
+        "type": "特殊物品 · 递进型",
+        "cls": "c-ln",
+        "extract": "<i>the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation</i>",
+        "reuse": "温暖小物可递进：热巧克力 → 自制曲奇 → 雨刮下的便签——一件比一件私人化。",
+        "effect": "小物件是善意的可见形态，用它收束最有余韵。",
+        "refs": [
+         {
+          "p": 4,
+          "q": "bought Emily a hot chocolate"
+         }
+        ]
+       },
+       {
+        "icon": "❓",
+        "name": "圣诞之约",
+        "type": "悬念留白 · 收束型",
+        "cls": "c-ln",
+        "extract": "<i>set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas</i>",
+        "reuse": "假期计划能否保住贯穿全文焦虑，结尾必须给出着落（范文：her holiday plan was saved by the couple!）。",
+        "effect": "开篇的心愿＝结尾的回响，首尾闭环成就\"完整\"。",
+        "refs": [
+         {
+          "p": 1,
+          "q": "with high hopes of reaching Toronto to meet her boyfriend for Christmas"
+         }
+        ]
+       }
+      ],
+      "patterns": "对比兑现：<i>…had once been…, but now…</i>（暴雪→放晴）　｜　呼应兑现：复用原文关键词＋升级（<i>stranded → previously stranded, now cleaned and checked</i>；<i>high hopes → her holiday plan was saved</i>）"
+     },
+     "step4": {
+      "p1": {
+       "keywords": "suggested … by train / tow … out of the ditch / agreed with immense gratitude",
+       "plots": [
+        "<b>情节A</b>：夫妇的建议与保证——坐火车继续旅程，他们负责把车拖出、请相熟的修理工检修（承接段首句，解开三重困境的前两重）。",
+        "<b>情节B</b>：Emily 的情绪转变——从惊魂未定到 immense gratitude（无灵主语＋身体证据）。",
+        "<b>情节C</b>（段末）：送站＋暖心小物＋车窗外的告别——收在\"假期计划得救\"的宽慰上。"
+       ]
+      },
+      "p2": {
+       "keywords": "three days later / cleared / a note tucked under the wiper",
+       "plots": [
+        "<b>情节A</b>：天气放晴的环境对比；取车所见——车已修好、雨刮下压着便签（物象特写）。",
+        "<b>情节B</b>：与夫妇重逢——推谢酬金（brushed aside her monetary thanks），\"it was their pleasure to help\"。",
+        "<b>情节C</b>（结尾三选一）：<span class='er-chip er-chip-end'>close-up shot 特写镜头（便签字迹）</span><span class='er-chip er-chip-end'>natural ending 自然结尾</span><span class='er-chip er-chip-end'>elevation 主题升华（random act of generosity）</span>"
+       ]
+      }
+     },
+     "step5": [
+      {
+       "t": "烂尾楼（伏笔未回收）",
+       "desc": "原文埋下的关键线索——三重困境、热巧克力、圣诞之约——相当于<b>开了工的地基</b>，续写却不把它们盖起来。埋线索不回收，作文就成了<b>烂尾楼</b>；这是\"与原文融洽度\"的直接失分点。",
+       "checks": [
+        {
+         "q": "火车建议被采纳，旅程得以继续（回应一百英里困境）"
+        },
+        {
+         "q": "车被拖出并修好（回应 completely stuck）"
+        },
+        {
+         "q": "圣诞假期计划保住（回应 meet her boyfriend for Christmas）"
+        },
+        {
+         "q": "暖心小物延续善意（呼应热巧克力）"
+        }
+       ],
+       "pred": "常见病例：取车走人一笔带过，忘了圣诞之约要有着落。"
+      },
+      {
+       "t": "说明书（只写结论，不写表现）",
+       "desc": "典型现象：<i>Emily was very happy. They were kind to her.</i>——只交付<b>结果</b>，不展示<b>过程</b>。happy 是什么样子（呼吸、眼眶、脚步）？kind 是什么动作（敲窗、递物、拖车）？阅卷人要的是<b>演示</b>，不是通知。",
+       "checks": [
+        {
+         "q": "获救与告别有画面感（镜头可见）"
+        },
+        {
+         "q": "情绪变化有身体证据"
+        }
+       ],
+       "pred": "常见病例：全篇找不到一个可以拍成画面的句子。"
+      },
+      {
+       "t": "失忆症（人物性格断崖）",
+       "desc": "Rachel 在原文里 \"with genuine warmth in her voice\"，续写却突然变成公事公办的陌生人——人物性格<b>一夜失忆</b>。原文给每位角色定了调，续写是同一个人故事的下一页。",
+       "checks": [
+        {
+         "q": "Rachel 依然温暖（便签/曲奇/婉拒酬谢）"
+        },
+        {
+         "q": "Daniel 有主动戏份（拖车/开车送站）"
+        }
+       ],
+       "pred": "常见病例：Para 2 里夫妇只剩\"给了她车\"一个动作，温度归零。"
+      },
+      {
+       "t": "跑龙套（主角变配角）",
+       "desc": "有些续写里 Emily 全程被推着走：建议就接受、车修好就取走——<b>主角成了自己故事的局外人</b>。她应有反应、有选择、有情感回应，至少一处主动。",
+       "checks": [
+        {
+         "q": "Emily 至少一处主动（主动道谢/回赠/许诺）"
+        },
+        {
+         "q": "夫妇的建议 Emily 有犹豫或思考的过程"
+        }
+       ],
+       "pred": "常见病例：通篇只有夫妇在动，Emily 像行李。"
+      }
+     ],
+     "step6": {
+      "qs": [],
+      "pairs": [
+       {
+        "title": "Para. 1　　Scene 1 · The knock at the window（相遇善意）",
+        "text": "<b>How to show the couple's kindness the moment they appeared?</b><br>To depict the knock on the car window and Emily's first reaction.<br><br>① ✗ Daniel and Rachel were kind and helpful. (Tell)<br>➜ Snow crunching under their boots, Daniel <b>rapped gently</b> on the frosted glass while Rachel <b>cupped her hands</b> to peer through the ice flowers. (Show)<br>技巧：分词状语 ｜ 动作链 ｜ 细节特写<br><br>② ✗ Emily felt surprised and hopeful again. (Tell)<br>➜ <b>Hope flickered</b> in her chest like a match struck in the dark; her frozen fingers <b>scrambled</b> for the window handle. (Show)<br>技巧：明喻 ｜ 无灵主语 ｜ 身体细节<br><br>③ ✗ Rachel's voice was warm. (Tell)<br>➜ “It isn't safe to stay in the car overnight,” Rachel said, <b>her voice a patch of warmth</b> in the biting cold. (Show)<br>技巧：直接引语 ｜ 隐喻 ｜ 寒暖对比",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-1-knock.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       },
+       {
+        "title": "Para. 1　　Scene 2 · Hot chocolate in the cafe（倾听暖心）",
+        "text": "<b>How to show the warmth of the cafe after the frozen night?</b><br>To depict the hot chocolate and the couple's patient listening.<br><br>① ✗ The cafe was warm and Emily relaxed. (Tell)<br>➜ The hot chocolate <b>sent up a curl of steam</b>; feeling <b>seeped back into</b> her numb fingers, one slow heartbeat at a time. (Show)<br>技巧：细节特写 ｜ 身体感知 ｜ 节奏感<br><br>② ✗ Emily told them about her trouble. (Tell)<br>➜ The whole story <b>spilled out</b>—the storm, the ditch, the ruined holiday—while the couple <b>leaned in</b>, nodding, never interrupting. (Show)<br>技巧：破折号列举 ｜ 动作传情<br><br>③ ✗ The couple listened patiently. (Tell)<br>➜ They listened <b>the way people listen when they mean it</b>, their eyes never wandering to the snow outside. (Show)<br>技巧：定语从句传情 ｜ 对比收焦",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-2-choco.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       },
+       {
+        "title": "Para. 1　　Scene 3 · Homemade cookies（赠物传情）",
+        "text": "<b>How to make a small gift carry great kindness?</b><br>To depict Rachel pressing the homemade cookies into Emily's hands.<br><br>① ✗ Rachel gave Emily some cookies. (Tell)<br>➜ Rachel <b>pressed a bag of homemade cookies</b> into her hands—<b>still warm</b>, as if the oven's kindness refused to fade. (Show)<br>技巧：动词精准(pressed) ｜ 拟人<br><br>② ✗ Emily was moved by the gift. (Tell)<br>➜ Emily <b>held the bag to her chest</b> as if it were <b>a piece of home</b> she could carry onto the train. (Show)<br>技巧：明喻 ｜ 动作外化情感<br><br>③ ✗ The cookies tasted good on the journey. (Tell)<br>➜ Each cookie <b>tasted of butter and brown sugar—and of strangers who treat you like family</b>. (Show)<br>技巧：味觉写实 ｜ 一句双关升华",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-3-cookies.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       },
+       {
+        "title": "Para. 1　　Scene 4 · Through the train window（渐远告别）",
+        "text": "<b>How to show the farewell without saying goodbye?</b><br>To depict watching the couple through the window as the train pulls away.<br><br>① ✗ Emily watched them until they disappeared. (Tell)<br>➜ Through the frosted window, she watched Daniel and Rachel <b>shrink into two dots</b> in the endless white, <b>their waves slower and slower</b>. (Show)<br>技巧：远景镜头 ｜ 独立主格<br><br>② ✗ Emily felt safe and grateful on the train. (Tell)<br>➜ The fear of the night before <b>melted with the frost on the glass</b>, <b>replaced by</b> a quiet, glowing gratitude. (Show)<br>技巧：无灵主语 ｜ 对比<br><br>③ ✗ The train left the snowy town. (Tell)<br>➜ <b>Clickety-clack, clickety-clack</b>—each turn of the wheels carried her farther from the ditch and <b>closer to the Christmas she had almost lost</b>. (Show)<br>技巧：拟声词 ｜ 首尾呼应",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-4-train.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       },
+       {
+        "title": "Para. 2　　Scene 5 · The cleared morning（雨过天晴）",
+        "text": "<b>How to let the weather speak for Emily's mood?</b><br>To depict the cleared sky and the peaceful scene three days later.<br><br>① ✗ Three days later, the weather became fine. (Tell)<br>➜ Three days later, the storm had <b>given way to a sky so blue it seemed rinsed</b>, sunlight <b>laying long gold ribbons</b> across the snow. (Show)<br>技巧：拟人(rinsed) ｜ 光影描写<br><br>② ✗ The village looked beautiful after the storm. (Tell)<br>➜ Frosted trees <b>glittered like chandeliers</b>, and the once-hostile road <b>slept peacefully under its thick white blanket</b>. (Show)<br>技巧：明喻 ｜ 拟人 ｜ 前后对比<br><br>③ ✗ Emily drove back to get her car happily. (Tell)<br>➜ Her footsteps <b>crunched lighter</b> than they had three days ago—<b>some roads feel shorter when your heart is light</b>. (Show)<br>技巧：细节对照 ｜ 哲理句",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-5-cleared.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       },
+       {
+        "title": "Para. 2　　Scene 6 · The note under the wiper（物象收束）",
+        "text": "<b>How to end with an object that carries the theme?</b><br>To depict the note under the wiper and Emily's final feelings.<br><br>① ✗ Emily found a note under the wiper. (Tell)<br>➜ <b>Tucked under the wiper</b>, a note in Rachel's graceful hand simply read: “Safe travels. Merry Christmas.” (Show)<br>技巧：过去分词开头 ｜ 特写镜头<br><br>② ✗ Emily was deeply moved by the note. (Tell)<br>➜ Emily <b>read it twice</b>, the paper <b>trembling</b> slightly in her hand—as if the words were <b>warm to the touch</b>. (Show)<br>技巧：动作外化 ｜ 通感<br><br>③ ✗ Emily would never forget their kindness. (Tell)<br>➜ Some kindness <b>arrives like a knock on the window</b>—and stays with you <b>long after the snow has melted</b>. (Show)<br>技巧：回环呼应(knock) ｜ 升华收束",
+        "imgs": [
+         {
+          "src": "assets/essay/emily-6-note.jpg",
+          "x": 0,
+          "y": 0,
+          "w": 300,
+          "h": 200
+         }
+        ],
+        "layout": "r"
+       }
+      ],
+      "extra": "<p class='er-muted'>（此区可导入补充语料）</p>"
+     },
+     "step7": {
+      "text": "<p class='er-muted'>导入学生作文，全班一起评价并提出改进意见。<br>点击下方按钮导入文字或图片。</p>",
+      "images": []
+     },
+     "step8": {
+      "text": "<b>Para 1</b><br>Daniel and Rachel suggested that Emily continue her journey by train. They also assured her that they would <b>tow her car out of the ditch</b> and have their trusted mechanic <b>thoroughly check it</b> in their garage. Comforted by their <b>profound kindness</b>, Emily agreed with immense gratitude. Later, the warm-hearted couple drove her to the railway station, where Rachel <b>pressed a bag of homemade cookies</b> into her hands for the journey. As the train pulled away from the snowy platform, Emily watched their warm smiles fading into the distance, her anxiety and desperation <b>replaced by a newfound sense of security</b>. Obviously, her holiday plan was saved by the couple!<br><br><b>Para 2</b><br>Three days later, Emily returned to get her car. The weather had cleared, <b>painting a peaceful, bright scene</b> over the once stormy landscape. Arriving at the couple's garage as prearranged, she was met by her previously stranded vehicle, now <b>cleaned and thoroughly checked</b>. A note <b>tucked under the wiper</b>, written in Rachel's graceful hand, simply read: “Safe travels. Merry Christmas.” <b>Overcome with emotion</b>, Emily found Daniel and Rachel inside. They <b>brushed aside her monetary thanks</b> with the same genuine warmth, saying it was their pleasure to help. Indeed, the couple's <b>random act of generosity</b> transformed Emily's moment of crisis into her most <b>enduring memory</b> of the Christmas season."
+     }
+    },
+    {
+     "id": "art-20261011-college-essentials",
+     "title": "Ranking My College Life Essentials · 大学生活三优先",
+     "source": "2026年高考英语真题1 · 应用文",
+     "type": "practical",
+     "hw": "2026年高考英语真题1",
+     "stepsMeta": [
+      "① 审题拆解",
+      "② 定位基调",
+      "③ 谋篇布局",
+      "④ 建构要点",
+      "⑤ 反馈问题",
+      "⑥ 输入语料",
+      "⑦ 评价升格",
+      "⑧ 共赏佳作"
+     ],
+     "rowLabels": [
+      "题干信息",
+      "隐含要求",
+      "易错预警"
+     ],
+     "fuLabels": [
+      "台阶",
+      "示范"
+     ],
+     "story": [
+      "你校英文报“Opinion”栏目正在征稿，请同学们对未来大学生活中的学习(Study)、社交(Socialize)和睡眠(Sleep)这三件事按重要性进行排序，并阐述理由。",
+      "请你写一篇短文向该栏目投稿。",
+      "注意：",
+      "(1)写作词数应为80左右。",
+      "(2)请按如下格式在答题纸的相应位置作答。",
+      "Ranking My College Life Essentials"
+     ],
+     "openers": [],
+     "step1": [
+      {
+       "paras": "Who am I?",
+       "main": "校英文报“Opinion”栏目投稿人——一名展望大学生活的学生。",
+       "implied": "投稿＝公开发表，读者是全校同学；不是写信，没有称呼语和落款。",
+       "feelings": "写成 Dear Editor…Yours 书信格式——栏目投稿只需标题＋正文。"
+      },
+      {
+       "paras": "To whom?",
+       "main": "全校同学（Opinion 栏目的读者）。",
+       "implied": "同龄人视角：语言平视、清晰自然，可以有个性，不必客套。",
+       "feelings": "自封头衔或以“学生会”名义说话——学生投稿无需身份包装。"
+      },
+      {
+       "paras": "What?",
+       "main": "把 Study / Socialize / Sleep 三件事按重要性排序，并阐述理由。",
+       "implied": "排序本身是第一任务（先后合理即可）；理由要和排序严格呼应，≥2条。",
+       "feelings": "三件事都夸重要却给不出先后——无排序＝任务缺失。"
+      },
+      {
+       "paras": "Where?",
+       "main": "校英文报 Opinion 栏目。",
+       "implied": "观点类栏目期待“观点鲜明＋论证简洁”，结尾可加一句共鸣或号召。",
+       "feelings": "写成通知或活动安排——征稿投稿是观点短文，不是通知。"
+      },
+      {
+       "paras": "Why?",
+       "main": "引导同学思考如何平衡大学三件大事。",
+       "implied": "理由要落到成长层面（认知/职业/人际/健康），不能停在口号。",
+       "feelings": "只写“学习很重要”——理由不登梯，⑤“内容宽泛空洞”的病根。"
+      },
+      {
+       "paras": "★ 任务卡合成",
+       "card": "一篇 80 词左右的 Opinion 栏目投稿：亮出三件事排序 → 用两三层理由支撑第一优先 → 一句升华收束。",
+       "tag": "［平视（同龄读者） · 理性带温度 · 联结配方：契合＋感情 · 时态：将来展望＋现在论证］",
+       "hint": "动笔前默念一遍——排序是你的观点，理由是你的梯子。"
+      }
+     ],
+     "step2": [
+      {
+       "q": "① 交际目的：这篇投稿最终要做什么？",
+       "opts": [
+        {
+         "t": "A. 告知型：客观罗列三件事的相关信息",
+         "v": false,
+         "why": "只报信息没有观点，栏目要的是“Opinion”。"
+        },
+        {
+         "t": "B. 促成型：亮出排序并说理，让同学觉得值得参考（分享＝告知的温度版）",
+         "v": true,
+         "why": "投稿＝观点＋理由，本质是说服同伴接受一种取舍思路。"
+        },
+        {
+         "t": "C. 表现型：堆砌高级词汇展示语言实力",
+         "v": false,
+         "why": "语言为观点服务；炫技会挤掉说理空间。"
+        },
+        {
+         "t": "D. 修复型：澄清大家对大学生活的误解",
+         "v": false,
+         "why": "题干没有争议需要修复。"
+        }
+       ],
+       "a": "落点 B。观点投稿＝带温度的告知：排序是观点，理由是说服。一般性对照：通知＝告知 · 邀请/请求＝促成 · 申请＝表现 · 道歉＝修复——本文居“促成”一端，但火力比邀请信温和。"
+      },
+      {
+       "q": "② 关系定位：我与读者的语域格位？",
+       "opts": [
+        {
+         "t": "A. 正式：公文体、机构口吻",
+         "v": false,
+         "why": "投稿人是学生个人，公文腔失真。"
+        },
+        {
+         "t": "B. 半正式偏正式：书面完整句＋精准用词",
+         "v": true,
+         "why": "书面发表需要完整句和质感（范文：fundamental to our sustainable learning and growth）。"
+        },
+        {
+         "t": "C. 平视：同龄人的清晰自然",
+         "v": true,
+         "why": "读者是同学，说理平视不端架子（范文坦承 I'm not an outgoing person）。"
+        },
+        {
+         "t": "D. 非正式：缩略语、感叹号连发",
+         "v": false,
+         "why": "书面栏目不接受聊天体。"
+        }
+       ],
+       "a": "落点 B＋C（配方）：半正式偏正式的书面质感＋对同龄人的平视清晰。语域由“载体（校报）＋关系（同学）”共同决定。"
+      },
+      {
+       "q": "③ 情感分寸：对自己的排序该多笃定？",
+       "opts": [
+        {
+         "t": "A. 施压：不这样排你就输了",
+         "v": false,
+         "why": "排序无标准答案，霸道失风度。"
+        },
+        {
+         "t": "B. 得体留白：观点鲜明＋承认取舍的相对性",
+         "v": true,
+         "why": "范文(一)承认 though vital, sleep can be flexibly arranged——鲜明而有分寸。"
+        },
+        {
+         "t": "C. 零度：只列事实不表态",
+         "v": false,
+         "why": "Opinion 栏目拒绝骑墙。"
+        },
+        {
+         "t": "D. 卑微：我的排序可能毫无价值",
+         "v": false,
+         "why": "自我贬低让观点失重。"
+        }
+       ],
+       "a": "落点 B。排序不是标准答案，理由才是说服力——“得体留白”让笃定有风度：亮明我的排序，同时承认他人取舍的合理。"
+      },
+      {
+       "q": "④ 联结路径：怎样让同学读到最后？",
+       "opts": [
+        {
+         "t": "A. 道理单向输出：只讲大道理",
+         "v": false,
+         "why": "单向说教留不住同龄读者。"
+        },
+        {
+         "t": "B. 契合：戳中共同纠结（熬夜/社恐/DDL）",
+         "v": true,
+         "why": "睡眠与社交是大学生活的公共话题，共鸣自带。"
+        },
+        {
+         "t": "C. 感情：真实个人画像",
+         "v": true,
+         "why": "范文：As a curious explorer, I simply can't resist…——个人色彩让观点可信。"
+        },
+        {
+         "t": "D. 身份：抬出专家权威背书",
+         "v": false,
+         "why": "同学间用不着 honor 这套；引用认知科学可作“契合”的佐证，不是抬身份。"
+        }
+       ],
+       "a": "落点 B＋C。联结三通道：契合是“正好”、感情是“想你”、身份是“配您”——同龄投稿走前两道即可，科学细节（neurons form new connections）是契合的佐证。"
+      }
+     ],
+     "step3": {
+      "guide": "梯子爬到顶，就是思想性。……层次性＝爬的过程，思想性＝顶层风景。80 词投稿选<b>一把梯爬两三级</b>即可：排序题首选 ⛏深度梯（排序理由＝由表及里），也可 ⛰高度梯（个人→集体→社会）做结尾升华。",
+      "items": [
+       {
+        "icon": "⛏",
+        "name": "深度梯",
+        "type": "由表及里",
+        "cls": "c-wp",
+        "extract": "现象→原因→本质",
+        "reuse": "<i>Sleep forms new connections（现象）→ recharges us for the next day（原因）→ fundamental to sustainable learning and growth（本质）</i>",
+        "effect": "适用：阐述某件事为什么排第一。"
+       },
+       {
+        "icon": "⛰",
+        "name": "高度梯",
+        "type": "由小到大",
+        "cls": "c-gx",
+        "extract": "个人→集体→社会",
+        "reuse": "<i>Sleep recharges me（个人）→ a well-rested class learns better（集体）→ healthy habits sustain society（社会）</i>",
+        "effect": "适用：把个人排序接上更大的意义。"
+       },
+       {
+        "icon": "🪜",
+        "name": "认知梯",
+        "type": "由低到高",
+        "cls": "c-hj",
+        "extract": "了解→实践→创造",
+        "reuse": "<i>Knowing the rule → practicing time-blocking → creating my own balance</i>",
+        "effect": "适用：给出可操作的平衡做法。"
+       },
+       {
+        "icon": "🎈",
+        "name": "抽象梯",
+        "type": "由实到虚",
+        "cls": "c-ln",
+        "extract": "具体事实→意义价值",
+        "reuse": "<i>A good night's sleep（具体）→ the quiet engine of every ambition（价值）</i>",
+        "effect": "适用：结尾升华一句。"
+       }
+      ],
+      "patterns": "登梯衔接句式：<i>…which explains why…</i> / <i>What lies beneath… is…</i> / <i>More than…, it…</i>",
+      "build": {
+       "pick": "两个理由点各配一梯：理由①（Sleep 第一）走 ⛏深度梯——认知科学佐证由表及里；理由②（Study 其次 / Socialize 让位）走 ⛰高度梯——从个人选择接到持续成长。范文(一)即深度梯三级示范。",
+       "runs": [
+        {
+         "ladder": "深度梯",
+         "point": "要点：Sleep ranks first（认知益处）",
+         "cls": "c-wp",
+         "steps": [
+          {
+           "lvl": "表 · 现象",
+           "sent": "During sleep, our neurons form new connections."
+          },
+          {
+           "lvl": "里 · 原因",
+           "sent": "It recharges us for the next day and helps us memorize what we've learnt."
+          },
+          {
+           "lvl": "顶 · 本质",
+           "sent": "Sleep is fundamental to our sustainable learning and growth."
+          }
+         ],
+         "note": "登顶句对接③猪肚的主体段层次①——一句顶三句。"
+        },
+        {
+         "ladder": "高度梯",
+         "point": "要点：Study next / Socialize moderate",
+         "cls": "c-gx",
+         "steps": [
+          {
+           "lvl": "表 · 个人",
+           "sent": "As a curious explorer, I simply can't resist broadening my horizons."
+          },
+          {
+           "lvl": "里 · 成长",
+           "sent": "Studying also prepares me for future career."
+          },
+          {
+           "lvl": "顶 · 价值",
+           "sent": "Setting clear priorities leads to a balanced and fulfilling life."
+          }
+         ],
+         "note": "结尾“balanced and fulfilling life”正是高度梯的顶——与⑧收束句呼应。"
+        }
+       ]
+      }
+     },
+     "step4": {
+      "overview": "凤亮出排序 → 猪用梯子撑起理由 → 豹收束点价值",
+      "sections": [
+       {
+        "icon": "🐦",
+        "part": "凤头 · 开头段",
+        "budget": "约15词 · 1-2句",
+        "cls": "c-wp",
+        "goal": "一句话亮出排序（观点即标题的回答）",
+        "micro": "排序句 →（可加）定调句",
+        "plots": [
+         "范文(一)：In my future college life, I'll prioritize sufficient sleep over my study, while socializing comes last.",
+         "自检：15 词内排序是否清晰？三个对象是否全部点名？"
+        ]
+       },
+       {
+        "icon": "🐗",
+        "part": "猪肚 · 主体段",
+        "budget": "约45词 · 3-4句",
+        "cls": "c-hj",
+        "goal": "第一优先的理由登梯＋其余两件事的让位逻辑",
+        "micro": "层次①（排第一的理由·深度梯）→ 层次②（第二的理由）→ 个性化句（个人画像）",
+        "plots": [
+         "层次①：Sleep ranks first…neurons form new connections（深度梯表→里）",
+         "层次②：With sufficient sleep, study comes next…prepares me for future career",
+         "个性化句：I'm not an outgoing person and tend to seek inner recognition.",
+         "自检：三个对象是否都有交代？第一优先是否爬了两级以上？"
+        ]
+       },
+       {
+        "icon": "🐆",
+        "part": "豹尾 · 结尾段",
+        "budget": "约20词 · 1-2句",
+        "cls": "c-ln",
+        "goal": "把排序升为价值观（抽象梯/高度梯登顶）",
+        "micro": "升华句 →（可加）共鸣句",
+        "plots": [
+         "范文(一)：I do believe setting clear priorities can help me live a more balanced and fulfilling life.",
+         "自检：是否回应了标题 Ranking？是否比开头多了一层意思？"
+        ]
+       }
+      ]
+     },
+     "step5": [
+      {
+       "t": "立意偏离主题",
+       "src": "审题病 · 五维①内容连贯",
+       "bad": "✗ College life is colorful and we should enjoy it.（无排序无理由）",
+       "good": "✓ I'll prioritize sufficient sleep over my study, while socializing comes last.",
+       "note": "回看①任务卡：排序是第一任务。",
+       "checks": [
+        {
+         "q": "首段是否给出明确先后？"
+        }
+       ]
+      },
+      {
+       "t": "要点遗漏缺失",
+       "src": "审题病 · 五维①内容完整",
+       "bad": "✗ Sleep is the most important thing in college.（只讲一件事，另两件失踪）",
+       "good": "✓ …study comes next… Moderate socializing is essential…（三件事全部点名）",
+       "note": "回看①：三对象一个都不能少。",
+       "checks": [
+        {
+         "q": "Study/Socialize/Sleep 是否各有着落？"
+        }
+       ]
+      },
+      {
+       "t": "格式杂糅混乱",
+       "src": "审题病 · 五维⑤格式规范",
+       "bad": "✗ Dear Editor, I am writing to submit my article… Yours, Li Hua（书信格式塞进投稿）",
+       "good": "✓ 标题 Ranking My College Life Essentials ＋ 正文直接开讲。",
+       "note": "投稿＝标题＋正文；称呼落款反成格式错误。",
+       "checks": []
+      },
+      {
+       "t": "人称错位失联",
+       "src": "审题病 · 五维①内容连贯",
+       "bad": "✗ Students should arrange their sleep well.（全文第三人称，像通知）",
+       "good": "✓ In my future college life, I'll prioritize…",
+       "note": "Opinion 投稿亮“我”的观点，第一人称是身份。",
+       "checks": []
+      },
+      {
+       "t": "交际效果欠佳",
+       "src": "基调病 · 五维③语言得体",
+       "bad": "✗ Everyone must follow my ranking.（笃定变施压）",
+       "good": "✓ …though vital, sleep can be flexibly arranged.（得体留白）",
+       "note": "回看②③：鲜明≠霸道。",
+       "checks": []
+      },
+      {
+       "t": "结构松散凌乱",
+       "src": "结构病 · 五维④结构流畅",
+       "bad": "✗ Socializing matters. Sleep helps us study. Study is important.（想到哪写到哪）",
+       "good": "✓ 排序句 → 理由① → 理由② → 收束，一段一条主线。",
+       "note": "回看③：猪肚三句各有岗位。",
+       "checks": []
+      },
+      {
+       "t": "要点重复冗余",
+       "src": "结构病 · 五维④结构流畅",
+       "bad": "✗ Sleep is important. Sleep helps us a lot. Enough sleep is good.（同义反复）",
+       "good": "✓ 一句现象＋一句本质：During sleep, neurons form new connections, recharging us…",
+       "note": "重复≠强调，登梯才是。",
+       "checks": []
+      },
+      {
+       "t": "内容宽泛空洞",
+       "src": "建构病 · 五维②层次思想",
+       "bad": "✗ Study is very important for students.（口号）",
+       "good": "✓ It equips us with professional knowledge and critical thinking.（具体收获）",
+       "note": "回看④：梯子至少爬两级。",
+       "checks": [
+        {
+         "q": "每个理由是否落到具体收获？",
+         "s6": 2
+        }
+       ]
+      },
+      {
+       "t": "思想浅显单薄",
+       "src": "建构病 · 五维②层次思想",
+       "bad": "✗ Because sleep makes us happy.（停在感觉层）",
+       "good": "✓ …fundamental to our sustainable learning and growth.（接到成长本质）",
+       "note": "④深度梯的“顶”就是思想性。",
+       "checks": [
+        {
+         "q": "第一优先是否爬到“本质/价值”级？",
+         "s6": 3
+        }
+       ]
+      },
+      {
+       "t": "内容陈旧老套",
+       "src": "建构病 · 五维②层次思想",
+       "bad": "✗ Early to bed and early to rise makes a man healthy.（套谚语充字数）",
+       "good": "✓ As a curious explorer, I simply can't resist the urge to broaden my horizons.（真实画像）",
+       "note": "个人细节永远比万能模板新。",
+       "checks": []
+      },
+      {
+       "t": "语言单调简单",
+       "src": "语言病 · 五维③语言丰富",
+       "bad": "✗ Sleep is good. Study is good too.（good 连播）",
+       "good": "✓ prioritize / essential / indispensable / fundamental（精准升级）",
+       "note": "回看⑥句式全家桶。",
+       "checks": [
+        {
+         "q": "是否用上 2 个精准升级词？",
+         "s6": 0
+        }
+       ]
+      },
+      {
+       "t": "时态混乱错位",
+       "src": "语言病 · 五维⑤语法准确",
+       "bad": "✗ In my future college life, I prioritized sleep.（将来展望用了过去时）",
+       "good": "✓ I'll prioritize… / comes last.（将来展望＋现在论证）",
+       "note": "回看①任务卡：将来为主＋现在论证理由。",
+       "checks": []
+      }
+     ],
+     "step6": {
+      "qs": [
+       {
+        "p": "凤头 · 开头段",
+        "q": "排序句式：怎么一句话把三件事排出先后？",
+        "corpus": [
+         {
+          "tell": "Sleep is the most important, then study, then socializing.",
+          "show": "I'll <b>prioritize</b> sufficient sleep <b>over</b> my study, <b>while</b> socializing comes last.",
+          "skills": [
+           "prioritize over",
+           "while对比"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "凤头 · 开头段",
+        "q": "定调句：怎么让开头就带个人色彩？",
+        "corpus": [
+         {
+          "tell": "I think sleep is very important for me.",
+          "show": "Ranking my college life essentials, I put <b>a well-rested brain</b> first.",
+          "skills": [
+           "分词状语",
+           "借代"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "猪肚 · 主体段",
+        "q": "层次①现象句：怎么把“睡觉有益”写出认知细节？",
+        "corpus": [
+         {
+          "tell": "Sleep helps us remember things.",
+          "show": "<b>During sleep, our neurons form new connections</b>, a critical process to memorize what we've learnt.",
+          "skills": [
+           "同位语",
+           "认知细节"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "猪肚 · 主体段",
+        "q": "层次①本质句：怎么从“有帮助”登到“不可或缺”？",
+        "corpus": [
+         {
+          "tell": "Sleep is good for study.",
+          "show": "It recharges us for the next day and is <b>fundamental to our sustainable learning and growth</b>.",
+          "skills": [
+           "fundamental to",
+           "抽象名词"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "猪肚 · 主体段",
+        "q": "层次②让位句：怎么写“其余两件如何安排”？",
+        "corpus": [
+         {
+          "tell": "Study is second and socializing is last.",
+          "show": "<b>With sufficient sleep secured, study comes next</b> — socializing, though essential, can be <b>moderate</b>.",
+          "skills": [
+           "with复合结构",
+           "让步"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "猪肚 · 主体段",
+        "q": "个性化句：怎么让理由带上“我”的印记？",
+        "corpus": [
+         {
+          "tell": "I like study more than parties.",
+          "show": "<b>As a curious explorer</b>, I simply can't resist the urge to broaden my horizons.",
+          "skills": [
+           "隐喻身份",
+           "can't resist"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "豹尾 · 结尾段",
+        "q": "升华句：怎么把排序写成价值观？",
+        "corpus": [
+         {
+          "tell": "Good priorities make life good.",
+          "show": "Setting clear priorities is <b>the quiet compass</b> that steers me toward <b>a balanced and fulfilling life</b>.",
+          "skills": [
+           "隐喻",
+           "平衡句式"
+          ]
+         }
+        ]
+       },
+       {
+        "p": "豹尾 · 结尾段",
+        "q": "共鸣句：怎么留给同学一点余韵？",
+        "corpus": [
+         {
+          "tell": "I hope you all think about your priorities.",
+          "show": "May every well-rested morning remind us <b>what truly deserves our energy</b>.",
+          "skills": [
+           "May祈使",
+           "余韵收束"
+          ]
+         }
+        ]
+       }
+      ],
+      "extra": ""
+     },
+     "step7": {
+      "text": "<p class='er-muted'>导入学生作文，全班一起评价并提出改进意见。<br>点击下方按钮导入文字或图片。</p>",
+      "images": []
+     },
+     "fuyao": [
+      "明确排序（三件事给出先后，顺序合理即可）",
+      "第一优先的核心理由（≥2条，有梯子层次）",
+      "另外两件事的安排/让位逻辑（不可完全失踪）",
+      "一句收束（升华或共鸣，回扣标题 Ranking）"
+     ],
+     "step8": {
+      "text": "<b>Ranking My College Life Essentials</b><br><br>In my future college life, I'll <b>prioritize sufficient sleep over</b> my study, while socializing comes last.<br><br>Sleep <b>ranks first</b> in my to-do list for its cognitive benefits. <b>During sleep, our neurons form new connections</b>, a critical process to understand and memorize what we've learnt during the day. It recharges us for the next day and is <b>fundamental to our sustainable learning and growth</b>. With sufficient sleep, study comes next. <b>As a curious explorer</b>, I simply can't resist the urge to broaden my horizons and learn more about the world through studying. It also prepares me for future career. <b>Moderate</b> socializing is essential in forming bonds with people, but I'm not an outgoing person and tend to seek inner recognition.<br><br>I do believe setting clear priorities can help me live <b>a more balanced and fulfilling life</b>.",
+      "eval": [
+       {
+        "dim": "内容完整性和连贯性",
+        "comment": "三件事全部点名且给出先后（Sleep→Study→Socialize）；从排序到理由再到收束，无一句偏离“排序＋理由”任务——①的任务卡完整兑现。"
+       },
+       {
+        "dim": "要点层次性和思想性",
+        "comment": "理由①走深度梯（neurons form new connections → recharges → fundamental to sustainable learning and growth），由表及里三级登顶；结尾以 priorities 升华——④建构的示范。"
+       },
+       {
+        "dim": "语言丰富性和得体性",
+        "comment": "prioritize over / ranks first / fundamental / moderate 精准而不堆砌；I'm not an outgoing person 坦诚的个人画像得体而不煽情——②基调的落点。"
+       },
+       {
+        "dim": "结构严谨性和流畅性",
+        "comment": "凤（15词排序句）→ 猪（两层次＋画像）→ 豹（升华句），With sufficient sleep / but 使让位逻辑清晰——③谋篇的词数预算可现场验证。"
+       },
+       {
+        "dim": "语法规范性和准确性",
+        "comment": "将来展望（I'll prioritize）＋现在论证（ranks / forms / recharges）时态定调清晰；80 词左右达标——⑤语言病一条不犯。"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "mindmap": {
+   "Passage A": {
+    "text": "SoFi Stadium Events This Month\nSoFi Stadium is the go-to destination in the heart of Los Angeles for sports fans. Its calendar is\nalways packed with headline-grabbing events\nUpcoming Football Events\nLos Angeles Rams v Dallas Cowboys\nSaturday, August 9 4:00 PM\nLos Angeles Chargers v New Orleans Saints\nSunday, August 10 5:00 PM\nLos Angeles Chargers v Los Angeles Rams\nSaturday, August 16 4:00 PM\nLos Angeles Rams v Houston Texans\nSunday, August 24 1:25 PM\nNearby Hotels\nWhen attending an event at SoFi Stadium, you’re just a short walk or ride from several\ncomfortable and classy hotels. Right across the street, Sonder Lün Hotel offers spacious rooms and\na rooftop pool. A mile away, the H Hotel Los-Angeles, with its stylish design, is ideal for a nice stay\nbetween events. For those seeking both comfort and convenience, the Renaissance Los Angeles\nAirport Hotel is just a short drive away. If you’re willing to drive a little further, the Ritz-Carlton Los\nAngeles promises luxurious rooms and extensive leisure facilities—perfect for turning a game day\ninto a great weekend escape.\nParking\nSoFi Stadium requires you to park strictly in your assigned zone, and guests must enter through\nthe exact gate indicated on their color-coded digital parking pass. If you enter through the wrong\naccess point, you’ll be turned around and redirected—so plan ahead. Each parking zone consists of\nmultiple lots, designed to efficiently manage traffic across the venue’s network. Make sure to\ndownload your parking pass to your smartphone before arrival. Upon entering the correct zone,\nparking staff will guide you directly to a space. For those wishing to park near friends, all vehicles\nmust have passes for the same zone and arrive together—spaces cannot be saved."
+   },
+   "Passage B": {
+    "text": "Not long ago, my fifth-grade son Kevin asked me about the meaning of a word in a novel.\n“Look it up,” I responded. “But my screen time is off,” he said. I looked pointedly at the bookshelf\nthat held at least three dictionaries, and Kevin sighed (叹气) dramatically. “Can’t you just use your\nphone?” he asked. Suddenly it occurred to me that he did not even know how to use a dictionary.\nI took down one of the dictionaries, and we read it together for a few minutes before I handed it\nto him. It took him a few tries to find the word in question. While going through the pages, he kept\nsaying, wide-eyed: “How can there be this many words?” After a while, he looked at me and asked,\n“Do you know all these words, Mom?” I smiled. “I definitely do not know all these words,” I said.\n“But that’s why this is one of my favorite books.”\nI had my first dictionary as a gift for my 13th birthday. I decided that I wanted to learn as many\nwords as I could and started marking every entry I looked up with a pencil to measure my progress. I\ncontinued to make these pencil marks for years, and when I went off to college, I packed that\ndictionary in my suitcase.\nKevin wanted to see the dictionary. I felt a small pain in my chest. The dictionary was stolen at\nthe end of my freshman year of college. “That’s so sad,” he said, “but you still know all those words,\neven without the book.” I realized that this was true. I still made it through the next three years of\ncollege, even without the book. And it wasn’t, ultimately, the dictionary that got me there—not\nreally.\nNow I understand that although my son may be learning differently, he is still learning. It’s not\nabout the words themselves or how we learn them, but the wanting to know them, the curiosity and\nthe appetite."
+   },
+   "Passage C": {
+    "text": "In line with longstanding initiatives to expand its green spaces, New York City is planting tens\nof thousands of trees each year. They provide shade, lower surface temperatures, absorb a surprising\namount of airborne carbon, remove tiny pollutants, and provide wildlife habitat along with just plain\nbeauty.\nSomething could go wrong, though, according to a new study. Oaks and sweetgums, which\ncurrently account for a majority of the city’s trees, produce huge amounts of a chemical substance\ncalled isoprene. Harmless by itself, isoprene interacts rapidly with polluting nitrogen oxides released\nby vehicles, buildings and industry to form ground-level ozone (臭氧) —a major factor in many\nbreathing problems.\nThe research, carried out by scientists at the Columbia Climate School and other institutions,\nfound that if the city maintains past species patterns in new plantings, isoprene production in\nManhattan in coming decades will go up by about 140%, and resulting summer ozone levels as much\nas 30%.\n“We’re all for planting more trees. They bring so many good things,” said study coauthor\nRóisín Commane. “But if we’re not careful, we could make air quality worse.”\nThe Parks Department is not oblivious to the issue. A study carried out by some of its\nresearchers several years ago concluded that city trees did release isoprene. “We didn’t make a big\ndeal of that,” said Novem Auyeung, a Parks Department senior scientist. She said trees should not be\nviewed as the enemy. “We could plant any trees we want to, if we just rethink our car-centric\nlifestyle,” she said.\n“We’re not going to go cutting down any big old oaks, and neither will the department\ncompletely stop planting new ones,” said Auyeung. “You have to think about what you would lose if\nyou do that.” Oaks are keystone species, she pointed out, providing food and habitat for native\ninsects, birds and other animals."
+   },
+   "Passage D": {
+    "text": "A team of Cambridge psychologists conducted an experiment to compare the cognitive (认知的)\neffects of merely seeing art with actively judging how beautiful it is.\nIn the study, 187 people were invited to visit Kettle’s Yard gallery during an exhibition of\nhandmade clay objects. Participants were randomly divided into two groups: the “beauty” group was\nasked to actively consider and then rate the beauty of each object they viewed, while the control\ngroup just matched a line drawing of the object with the artwork itself. All participants were then\ntested on how they process information, and whether it’s in a more practical or abstract way.\nAcross all participants, those in the beauty group scored almost 14% higher on average than the\ncontrol group in abstract thinking. While they were told the study was about cognitive processes,\nparticipants were asked about interests, with around half saying they had an artistic hobby. Among\nthose, the effect was greater: those with an artistic hobby in the beauty group scored over 25% higher\non average for abstract thinking than those with an artistic hobby in the control group.\nEmotional states of participants were also measured by asking about their feelings while\ncompleting the gallery task. Across all participants, those in the beauty group reported an average of\n23% higher levels of “transformative and self-transcendent feelings”—such as feeling moved,\nenlightened and inspired—than the control group. Importantly, however, the beauty group did not\nreport feeling any happier than the control group, suggesting that it was the engagement with beauty\nthat influenced abstract thinking, rather than any overall positivity from the experience.\n“We usually think in very concrete terms when doing something on a screen,” said Simone\nSchnall, senior author of the study. “It’s becoming much rarer to zone out and just let the mind\nwander, but that’s when we think in ways that broaden our minds. Admiring the beauty of art may be\nthe ideal way to initiate the abstract cognitive processes.”"
+   },
+   "5 of 7": {
+    "text": "Museums, once quiet places filled with history, are now full of digital excitement. By using\nmachine learning and advanced algorithms (算法), these institutions are creating personalized visitor\njourneys, protecting delicate collections, and revealing hidden stories. _____36_____\nAI transforms a standard museum trip into a personalized and interactive adventure. Smart\nrecommendation engines analyze data such as exhibit popularity and visitors’ past behavior to\nsuggest specific exhibits and events, making each visit unique and surprising. _____37_____ These\ndigital assistants engage visitors in dynamic conversations and offer context-sensitive insights that\ndeepen understanding and satisfy curiosity.\nBeyond visitor interaction, AI plays a crucial role in preserving priceless artworks. Since the\nexhibits in museums sustain natural decay (破损) over time, early detection is vital. AI can help\nidentify the slightest signs of decay, such as cracks or discoloration, which are often invisible to the\nhuman eye. _____38_____ Moreover, by predicting future decay patterns, AI helps museums take\npreventive measures and improve preservation strategies.\nAI also significantly enhances the educational value of museums, particularly for children and\nfamilies. _____39_____ For instance, interactive exhibits powered by AI can adjust their content and\ndifficulty level based on the user’s preferences and responses. This adaptability ensures that complex\nhistorical concepts become accessible and engaging for young minds.\nLooking ahead, the rapid advancement of AI promises both exciting possibilities and ethical (伦\n理的) challenges. Museums are working together with AI ethicists to develop fair algorithms.\n_____40_____ Strict policies should be established to protect visitors’ information."
+   },
+   "Cloze": {
+    "text": "I grew up in a little town in northeast Ohio. The __41__ of how little people knew about Ohio\ncame quickly after I went to school in central Pennsylvania. Though I lived __42__ three and a half\nhours away, most of my classmates thought of Ohio as a whole different world. “Do you have to fly\nhome? Do you live on a farm?” The __43__ were never-ending. I was a __44__ in their eyes.\nAs I grow older, I’m more and more __45__ for my small town roots. Sure, my friends and I\nloved to __46__ about how bored we were in the middle of nowhere; __47__, as I finish up my\njunior year of college, I’m convinced that it took __48__ our small town to realize how much we\nactually loved it and what exactly we loved about it.\nThe pace of life is slow and people __49__ connecting to each other. You do more than just talk\nto your neighbors—in a lot of cases, they’re truly an __50__ of your family. Much of this __51__\ncenters around being outside and knowing the ins and outs of the town; being present and mindful of\nyour __52__ is a critical part of the culture.\nAs I move through my college years, I __53__ the visits to my little hometown. I am grateful\nfor the __54__ that I had growing up and know that wherever my next adventure takes me, I can\n__55__ my small town roots to lead me in the right direction."
+   },
+   "Blank Filling": {
+    "text": "Daji, or big open-air fairs, typically take place on specific dates of the lunar calendar, for\nexample, on dates with five or seven as the last digit. It is also common for them 56.________(hold)\nduring traditional Chinese holidays such as the Spring Festival and the Mid-Autumn Festival, as well\nas other local festivals. The exact dates and 57.________(frequent) of daji vary from region to region.\nDaji originated from the ancient folk custom of trading goods, which dates back to 58.________\nHan Dynasty. As transportation and communication 59.________(be) underdeveloped at that time, it\nwas very difficult for households to obtain daily 60.________(necessity). As a solution, people\ngathered at specific locations on set days to trade their surplus (剩余的) items 61.________ what\nthey needed.\nIn addition to being venues for buying and selling, daji are occasions for socializing and\nentertainment. People from near and far crowd into these markets on daji days. 62.________(draw)\nby the aroma ( 香味) of street food, they line up in front of stands 63.________ serve steaming\ndumplings and hot noodle soup. While eating and enjoying street performances, they chat with each\nother and share stories of their daily lives. Before 64.________(head) home, they fill their shopping\nbags with fresh fruit and vegetables from local farmers, at prices significantly 65.________(cheap)\nthan those found in supermarkets."
+   },
+   "Continuation Writing": {
+    "text": "Emily Sanders, a 25-year-old from Detroit, Michigan, set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas. Although she had heard warnings about an approaching snowstorm, she didn't give it much thought. She assumed that much like in Michigan, police would simply detour (使绕道) traffic around any closed sections of the highway. But that didn't happen. As the snow came down more and more heavily, Emily was directed off the highway. She drove on for a while and found herself on an unfamiliar road toward a Canadian town.\n\nThe blinding whiteout made driving nearly impossible. At one point, Emily's car got stuck. After a struggle, she managed to free the vehicle and continued inching along the snow-covered road. As night fell, panic set in. While Emily was driving on a narrow stretch of road, her car slid into a ditch (沟). She tried to call for help but found no signal on her phone. Seeing no hope of immediate rescue, Emily decided to spend the night in her car. She wrapped herself in a blanket, waiting for morning. To stay warm, she ran her engine for a few minutes every now and then. Eventually, she fell asleep.\n\nEmily awoke to a gentle knock on her car window. Standing outside were Daniel and his wife Rachel, who noticed the stranded (被困的) vehicle on their way home and stopped to see if they could help. When Emily rolled down the window, Rachel asked if she was okay and told her it was not safe to stay overnight in the car. With genuine warmth in her voice, Rachel said they could take Emily to a nearby cafe they knew. Grateful and relieved, Emily accepted the offer.\n\nIn the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined."
+   }
+  },
+  "analysis": {
+   "source": "AI分析(官方答案键+错题包实测数据；仅含错题包与官方解析一致的10题)",
+   "generatedAt": "2026-10-11",
+   "classes": {
+    "class9": [
+     {
+      "id": 1,
+      "knowledgePoint": "听力理解·身份推断（入职场景）",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "张冠李戴",
+        "cause": "8人选择A——把“领工牌、介绍同事”的入职接待曲解为商务拜访；排除口诀：get your card this afternoon＝人已在办入职手续。（全班作答 58 人）",
+        "variant": {
+         "stem": "W: Welcome aboard! Your desk is by the window. Let me first introduce you to the team.\nQ: What is the relationship between the speakers?",
+         "options": {
+          "A": "Manager and new employee.",
+          "B": "Saleswoman and customer.",
+          "C": "Old school friends."
+         },
+         "answer": "A",
+         "analysis": "张冠李戴——“welcome aboard / introduce to the team”指向入职，不是推销或叙旧。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "近义干扰",
+        "cause": "11人选择B——job applicant（求职者）与 new staff 只差“是否已入职”一步；抓 this afternoon 才发卡，说明手续已办完。（全班作答 58 人）",
+        "variant": {
+         "stem": "M: I handed in my CV last week, and today they told me I could start on Monday.\nQ: What does the man mean?",
+         "options": {
+          "A": "He has got the job.",
+          "B": "He is still waiting for an interview.",
+          "C": "His application was rejected."
+         },
+         "answer": "A",
+         "analysis": "近义干扰——“start on Monday”说明已录用，别停在 applicant 阶段。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "knowledgePoint": "听力理解·说话人观点态度",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "无中生有",
+        "cause": "19人选择A——“有听众来电想听真声”被过度引申为版权/法律纠纷；原文只字未提 legal problems。（全班作答 58 人）",
+        "variant": {
+         "stem": "W: The app is still in its testing stage, but some users are already selling access to it.\nQ: What does the woman imply?",
+         "options": {
+          "A": "The app will soon be free.",
+          "B": "Some users are using the app improperly.",
+          "C": "The company will stop the test."
+         },
+         "answer": "B",
+         "analysis": "无中生有——卖访问权限属违规使用，原文没有“免费”“停产”之意。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "偷换概念",
+        "cause": "4人选择B——300多首AI新歌≠惠及社区；把“任何人可署名使用她的AI声音并分成”偷换成“造福大众”。（全班作答 58 人）",
+        "variant": {
+         "stem": "M: Our school library opens to villagers every weekend.\nQ: What does the man mean?",
+         "options": {
+          "A": "The library only serves students.",
+          "B": "The villagers donated money to the school.",
+          "C": "Local people can share the library's resources."
+         },
+         "answer": "C",
+         "analysis": "偷换概念——开放给村民＝资源共享，不是“村民捐资”。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "knowledgePoint": "阅读C篇·研究结论推断（说明文）",
+      "options": [
+       {
+        "letter": "D",
+        "errorType": "偷换概念",
+        "cause": "39人选择D——研究警示的是 isoprene 与尾气氮氧化物反应生成臭氧、伤及呼吸，并非“吸碳不如预期”；原文明确肯定树木 absorb carbon 的好处。（全班作答 58 人）",
+        "variant": {
+         "stem": "A new study finds that e-scooters cut car trips only slightly, while producing piles of extra battery waste.\nQ: What does the study imply about e-scooters?",
+         "options": {
+          "A": "They reduce pollution greatly.",
+          "B": "Their green label may be misleading.",
+          "C": "Their batteries last shorter than expected."
+         },
+         "answer": "B",
+         "analysis": "偷换概念——“额外电池垃圾”≠“电池不耐用”，可续写句：the green label may be misleading。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "无中生有",
+        "cause": "1人选择B——“影响其他树生长”在原文无据，系把 provide wildlife habitat 的相邻表述拼凑成答案。（全班作答 58 人）",
+        "variant": {
+         "stem": "The report says city foxes dig under garden fences at night.\nQ: What does the report say about foxes?",
+         "options": {
+          "A": "They attack pets at night.",
+          "B": "They enter gardens by digging.",
+          "C": "They carry diseases to cats."
+         },
+         "answer": "B",
+         "analysis": "无中生有——“攻击宠物”“传染疾病”均为拼凑，原文只讲挖洞进园。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "knowledgePoint": "完形填空·抽象名词辨析（首句顿悟）",
+      "options": [
+       {
+        "letter": "B",
+        "errorType": "近义干扰",
+        "cause": "13人选择B——把“幻象”的语感当答案；fantasy 不与 of + 事实性内容搭配，the realization of“意识到……”才接“别人对俄亥俄了解甚少”。（全班作答 58 人）",
+        "variant": {
+         "stem": "The moment I unpacked, I _____ that dorm life was nothing like home.",
+         "options": {
+          "A": "realized",
+          "B": "fantasized",
+          "C": "hesitated",
+          "D": "regretted"
+         },
+         "answer": "A",
+         "analysis": "近义干扰——realize 接事实从句；fantasize 表“空想”，与“顿悟”相反。"
+        }
+       },
+       {
+        "letter": "A",
+        "errorType": "张冠李戴",
+        "cause": "7人选择A——expectation 是动身前的“期待”，本句讲“到校后很快发生”的顿悟，时间与心态都对不上。（全班作答 58 人）",
+        "variant": {
+         "stem": "_____ to see the world, she packed her bags the day after graduation.",
+         "options": {
+          "A": "Determined",
+          "B": "Expected",
+          "C": "Forced",
+          "D": "Allowed"
+         },
+         "answer": "A",
+         "analysis": "张冠李戴——“期待”是他人视角的词，主动决心用 determined。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "knowledgePoint": "完形填空·副词辨析（only/still/even）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "近义干扰",
+        "cause": "17人选择C——still 表“仍然”不置于数词前；本句强调“只有三个半小时”不算远，与下文同学的夸张提问形成反差，只能用 only。（全班作答 58 人）",
+        "variant": {
+         "stem": "_____ ten students signed up, so the trip was called off.",
+         "options": {
+          "A": "Only",
+          "B": "Still",
+          "C": "Even",
+          "D": "Already"
+         },
+         "answer": "A",
+         "analysis": "副词修饰数词表“仅仅”用 only；still/even/already 无此用法。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "逻辑误用",
+        "cause": "9人选择D——even 表递进“甚至”，此处没有递进对象，只有“距离其实很近”的限缩语气。（全班作答 58 人）",
+        "variant": {
+         "stem": "He speaks three foreign languages, and he is _____ learning a fourth.",
+         "options": {
+          "A": "even",
+          "B": "only",
+          "C": "just",
+          "D": "yet"
+         },
+         "answer": "A",
+         "analysis": "递进补充用 even；only 表限缩，与“还在学第四门”的递进语境相反。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "knowledgePoint": "完形填空·形容词辨析与搭配（thankful for）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "搭配误用",
+        "cause": "27人选择C——suitable for 搭配成立但语义不通；“越长大越____故乡情结”是情感词位，下文 grateful 同向印证 thankful。（全班作答 58 人）",
+        "variant": {
+         "stem": "She is deeply _____ to her teachers for their support.",
+         "options": {
+          "A": "thankful",
+          "B": "suitable",
+          "C": "reliable",
+          "D": "familiar"
+         },
+         "answer": "A",
+         "analysis": "thankful to sb for sth 固定搭配；suitable/reliable 不进入该句型。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "形近误用",
+        "cause": "2人选择D——reliable（可靠的）修饰人或物，不能说“我对根可靠”；注意与 relying 拼写邻近的干扰。（全班作答 58 人）",
+        "variant": {
+         "stem": "We need a _____ witness whose account can be trusted.",
+         "options": {
+          "A": "reliable",
+          "B": "thankful",
+          "C": "suitable",
+          "D": "grateful"
+         },
+         "answer": "A",
+         "analysis": "可靠证人＝reliable；thankful/grateful 表感谢，语义不合。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "knowledgePoint": "完形填空·动词辨析与搭配（complain about）",
+      "options": [
+       {
+        "letter": "B",
+        "errorType": "语境曲解",
+        "cause": "25人选择B——lie about how bored（撒谎说无聊）与 loved to（爱做的事）语义拧；两个少年好友爱干的事是“互相吐槽”。（全班作答 58 人）",
+        "variant": {
+         "stem": "Teenagers often _____ to their parents about too much homework.",
+         "options": {
+          "A": "complain",
+          "B": "lie",
+          "C": "hear",
+          "D": "forget"
+         },
+         "answer": "A",
+         "analysis": "complain to sb about sth 固定搭配；lie about 表撒谎，不合语境。"
+        }
+       },
+       {
+        "letter": "A",
+        "errorType": "主客体颠倒",
+        "cause": "13人选择A——hear about（听说）是信息接收方用的词；主人公吐槽自己的生活，输出端用 complain about。（全班作答 58 人）",
+        "variant": {
+         "stem": "I _____ about the traffic jam from my colleague, so I left home earlier.",
+         "options": {
+          "A": "heard",
+          "B": "complained",
+          "C": "dreamed",
+          "D": "cared"
+         },
+         "answer": "A",
+         "analysis": "hear about＝听说（输入信息）；complain about＝抱怨（输出情绪）。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "knowledgePoint": "完形填空·逻辑连接词（转折）",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "逻辑反向",
+        "cause": "21人选择A——分号前“抱怨无聊”与后“深爱小镇”构成转折；therefore（因此）把逻辑方向接反。（全班作答 58 人）",
+        "variant": {
+         "stem": "The hike was exhausting; _____, every one of us reached the top with a big smile.",
+         "options": {
+          "A": "however",
+          "B": "therefore",
+          "C": "otherwise",
+          "D": "instead"
+         },
+         "answer": "A",
+         "analysis": "前抑后扬用 however；therefore 表因果，与“累却开心”的转折相反。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "语义不合",
+        "cause": "6人选择D——otherwise 表“否则”，需引出相反后果的虚拟语义；此处只是语篇转折。（全班作答 58 人）",
+        "variant": {
+         "stem": "Leave now; _____, you will miss the last bus.",
+         "options": {
+          "A": "otherwise",
+          "B": "however",
+          "C": "therefore",
+          "D": "instead"
+         },
+         "answer": "A",
+         "analysis": "otherwise＝“否则”引出反向后果，此语境专属。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "knowledgePoint": "完形填空·名词辨析（语境照应）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "近义干扰",
+        "cause": "24人选择C——procedure（程序）指办事流程，不与 centers around being outside 搭配；pace of life / connecting to neighbors 都指向“生活方式”。（全班作答 58 人）",
+        "variant": {
+         "stem": "In this company, every _____ follows the same steps: apply, interview, train.",
+         "options": {
+          "A": "procedure",
+          "B": "lifestyle",
+          "C": "personality",
+          "D": "scenery"
+         },
+         "answer": "A",
+         "analysis": "申请-面试-培训是流程＝procedure；lifestyle 指生活方式。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "张冠李戴",
+        "cause": "19人选择D——personality（性格）是个体心理特质，无法被“围绕户外活动”组织起来。（全班作答 58 人）",
+        "variant": {
+         "stem": "Jogging before breakfast is part of his healthy _____.",
+         "options": {
+          "A": "lifestyle",
+          "B": "procedure",
+          "C": "personality",
+          "D": "illusion"
+         },
+         "answer": "A",
+         "analysis": "晨跑习惯＝lifestyle；personality 指性格特征。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "knowledgePoint": "完形填空·动词搭配（trust … to do）",
+      "options": [
+       {
+        "letter": "D",
+        "errorType": "语义反向",
+        "cause": "10人选择D——challenge … to lead（挑战根的引领？）与结尾感恩信赖的基调相反；trust A to B＝相信A会B。（全班作答 58 人）",
+        "variant": {
+         "stem": "Rather than _____ the new guide, the team followed his route with full confidence.",
+         "options": {
+          "A": "trusting",
+          "B": "challenging",
+          "C": "reminding",
+          "D": "praising"
+         },
+         "answer": "B",
+         "analysis": "with full confidence 与 challenge 语义冲突；信赖跟随用 trust。"
+        }
+       },
+       {
+        "letter": "C",
+        "errorType": "搭配混淆",
+        "cause": "8人选择C——remind 不接“sb to lead me”表“提醒引路”，句法与语义双重生硬；trust my roots to lead me＝相信根会引我前行。（全班作答 58 人）",
+        "variant": {
+         "stem": "Please _____ me to call grandma tonight—I always forget.",
+         "options": {
+          "A": "remind",
+          "B": "trust",
+          "C": "thank",
+          "D": "follow"
+         },
+         "answer": "A",
+         "analysis": "remind sb to do 固定搭配；“相信某人会做”才用 trust sb to do。"
+        }
+       }
+      ]
+     }
+    ],
+    "class11": [
+     {
+      "id": 1,
+      "knowledgePoint": "听力理解·身份推断（入职场景）",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "张冠李戴",
+        "cause": "13人选择A——把“领工牌、介绍同事”的入职接待曲解为商务拜访；排除口诀：get your card this afternoon＝人已在办入职手续。（全班作答 57 人）",
+        "variant": {
+         "stem": "W: Welcome aboard! Your desk is by the window. Let me first introduce you to the team.\nQ: What is the relationship between the speakers?",
+         "options": {
+          "A": "Manager and new employee.",
+          "B": "Saleswoman and customer.",
+          "C": "Old school friends."
+         },
+         "answer": "A",
+         "analysis": "张冠李戴——“welcome aboard / introduce to the team”指向入职，不是推销或叙旧。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "近义干扰",
+        "cause": "10人选择B——job applicant（求职者）与 new staff 只差“是否已入职”一步；抓 this afternoon 才发卡，说明手续已办完。（全班作答 57 人）",
+        "variant": {
+         "stem": "M: I handed in my CV last week, and today they told me I could start on Monday.\nQ: What does the man mean?",
+         "options": {
+          "A": "He has got the job.",
+          "B": "He is still waiting for an interview.",
+          "C": "His application was rejected."
+         },
+         "answer": "A",
+         "analysis": "近义干扰——“start on Monday”说明已录用，别停在 applicant 阶段。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "knowledgePoint": "听力理解·说话人观点态度",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "无中生有",
+        "cause": "23人选择A——“有听众来电想听真声”被过度引申为版权/法律纠纷；原文只字未提 legal problems。（全班作答 57 人）",
+        "variant": {
+         "stem": "W: The app is still in its testing stage, but some users are already selling access to it.\nQ: What does the woman imply?",
+         "options": {
+          "A": "The app will soon be free.",
+          "B": "Some users are using the app improperly.",
+          "C": "The company will stop the test."
+         },
+         "answer": "B",
+         "analysis": "无中生有——卖访问权限属违规使用，原文没有“免费”“停产”之意。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "偷换概念",
+        "cause": "5人选择B——300多首AI新歌≠惠及社区；把“任何人可署名使用她的AI声音并分成”偷换成“造福大众”。（全班作答 57 人）",
+        "variant": {
+         "stem": "M: Our school library opens to villagers every weekend.\nQ: What does the man mean?",
+         "options": {
+          "A": "The library only serves students.",
+          "B": "The villagers donated money to the school.",
+          "C": "Local people can share the library's resources."
+         },
+         "answer": "C",
+         "analysis": "偷换概念——开放给村民＝资源共享，不是“村民捐资”。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "knowledgePoint": "阅读C篇·研究结论推断（说明文）",
+      "options": [
+       {
+        "letter": "D",
+        "errorType": "偷换概念",
+        "cause": "35人选择D——研究警示的是 isoprene 与尾气氮氧化物反应生成臭氧、伤及呼吸，并非“吸碳不如预期”；原文明确肯定树木 absorb carbon 的好处。（全班作答 57 人）",
+        "variant": {
+         "stem": "A new study finds that e-scooters cut car trips only slightly, while producing piles of extra battery waste.\nQ: What does the study imply about e-scooters?",
+         "options": {
+          "A": "They reduce pollution greatly.",
+          "B": "Their green label may be misleading.",
+          "C": "Their batteries last shorter than expected."
+         },
+         "answer": "B",
+         "analysis": "偷换概念——“额外电池垃圾”≠“电池不耐用”，可续写句：the green label may be misleading。"
+        }
+       },
+       {
+        "letter": "B",
+        "errorType": "无中生有",
+        "cause": "1人选择B——“影响其他树生长”在原文无据，系把 provide wildlife habitat 的相邻表述拼凑成答案。（全班作答 57 人）",
+        "variant": {
+         "stem": "The report says city foxes dig under garden fences at night.\nQ: What does the report say about foxes?",
+         "options": {
+          "A": "They attack pets at night.",
+          "B": "They enter gardens by digging.",
+          "C": "They carry diseases to cats."
+         },
+         "answer": "B",
+         "analysis": "无中生有——“攻击宠物”“传染疾病”均为拼凑，原文只讲挖洞进园。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "knowledgePoint": "完形填空·抽象名词辨析（首句顿悟）",
+      "options": [
+       {
+        "letter": "B",
+        "errorType": "近义干扰",
+        "cause": "11人选择B——把“幻象”的语感当答案；fantasy 不与 of + 事实性内容搭配，the realization of“意识到……”才接“别人对俄亥俄了解甚少”。（全班作答 57 人）",
+        "variant": {
+         "stem": "The moment I unpacked, I _____ that dorm life was nothing like home.",
+         "options": {
+          "A": "realized",
+          "B": "fantasized",
+          "C": "hesitated",
+          "D": "regretted"
+         },
+         "answer": "A",
+         "analysis": "近义干扰——realize 接事实从句；fantasize 表“空想”，与“顿悟”相反。"
+        }
+       },
+       {
+        "letter": "A",
+        "errorType": "张冠李戴",
+        "cause": "10人选择A——expectation 是动身前的“期待”，本句讲“到校后很快发生”的顿悟，时间与心态都对不上。（全班作答 57 人）",
+        "variant": {
+         "stem": "_____ to see the world, she packed her bags the day after graduation.",
+         "options": {
+          "A": "Determined",
+          "B": "Expected",
+          "C": "Forced",
+          "D": "Allowed"
+         },
+         "answer": "A",
+         "analysis": "张冠李戴——“期待”是他人视角的词，主动决心用 determined。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "knowledgePoint": "完形填空·副词辨析（only/still/even）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "近义干扰",
+        "cause": "25人选择C——still 表“仍然”不置于数词前；本句强调“只有三个半小时”不算远，与下文同学的夸张提问形成反差，只能用 only。（全班作答 57 人）",
+        "variant": {
+         "stem": "_____ ten students signed up, so the trip was called off.",
+         "options": {
+          "A": "Only",
+          "B": "Still",
+          "C": "Even",
+          "D": "Already"
+         },
+         "answer": "A",
+         "analysis": "副词修饰数词表“仅仅”用 only；still/even/already 无此用法。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "逻辑误用",
+        "cause": "10人选择D——even 表递进“甚至”，此处没有递进对象，只有“距离其实很近”的限缩语气。（全班作答 57 人）",
+        "variant": {
+         "stem": "He speaks three foreign languages, and he is _____ learning a fourth.",
+         "options": {
+          "A": "even",
+          "B": "only",
+          "C": "just",
+          "D": "yet"
+         },
+         "answer": "A",
+         "analysis": "递进补充用 even；only 表限缩，与“还在学第四门”的递进语境相反。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "knowledgePoint": "完形填空·形容词辨析与搭配（thankful for）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "搭配误用",
+        "cause": "14人选择C——suitable for 搭配成立但语义不通；“越长大越____故乡情结”是情感词位，下文 grateful 同向印证 thankful。（全班作答 57 人）",
+        "variant": {
+         "stem": "She is deeply _____ to her teachers for their support.",
+         "options": {
+          "A": "thankful",
+          "B": "suitable",
+          "C": "reliable",
+          "D": "familiar"
+         },
+         "answer": "A",
+         "analysis": "thankful to sb for sth 固定搭配；suitable/reliable 不进入该句型。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "形近误用",
+        "cause": "3人选择D——reliable（可靠的）修饰人或物，不能说“我对根可靠”；注意与 relying 拼写邻近的干扰。（全班作答 57 人）",
+        "variant": {
+         "stem": "We need a _____ witness whose account can be trusted.",
+         "options": {
+          "A": "reliable",
+          "B": "thankful",
+          "C": "suitable",
+          "D": "grateful"
+         },
+         "answer": "A",
+         "analysis": "可靠证人＝reliable；thankful/grateful 表感谢，语义不合。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "knowledgePoint": "完形填空·动词辨析与搭配（complain about）",
+      "options": [
+       {
+        "letter": "B",
+        "errorType": "语境曲解",
+        "cause": "20人选择B——lie about how bored（撒谎说无聊）与 loved to（爱做的事）语义拧；两个少年好友爱干的事是“互相吐槽”。（全班作答 57 人）",
+        "variant": {
+         "stem": "Teenagers often _____ to their parents about too much homework.",
+         "options": {
+          "A": "complain",
+          "B": "lie",
+          "C": "hear",
+          "D": "forget"
+         },
+         "answer": "A",
+         "analysis": "complain to sb about sth 固定搭配；lie about 表撒谎，不合语境。"
+        }
+       },
+       {
+        "letter": "A",
+        "errorType": "主客体颠倒",
+        "cause": "8人选择A——hear about（听说）是信息接收方用的词；主人公吐槽自己的生活，输出端用 complain about。（全班作答 57 人）",
+        "variant": {
+         "stem": "I _____ about the traffic jam from my colleague, so I left home earlier.",
+         "options": {
+          "A": "heard",
+          "B": "complained",
+          "C": "dreamed",
+          "D": "cared"
+         },
+         "answer": "A",
+         "analysis": "hear about＝听说（输入信息）；complain about＝抱怨（输出情绪）。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "knowledgePoint": "完形填空·逻辑连接词（转折）",
+      "options": [
+       {
+        "letter": "A",
+        "errorType": "逻辑反向",
+        "cause": "27人选择A——分号前“抱怨无聊”与后“深爱小镇”构成转折；therefore（因此）把逻辑方向接反。（全班作答 57 人）",
+        "variant": {
+         "stem": "The hike was exhausting; _____, every one of us reached the top with a big smile.",
+         "options": {
+          "A": "however",
+          "B": "therefore",
+          "C": "otherwise",
+          "D": "instead"
+         },
+         "answer": "A",
+         "analysis": "前抑后扬用 however；therefore 表因果，与“累却开心”的转折相反。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "语义不合",
+        "cause": "11人选择D——otherwise 表“否则”，需引出相反后果的虚拟语义；此处只是语篇转折。（全班作答 57 人）",
+        "variant": {
+         "stem": "Leave now; _____, you will miss the last bus.",
+         "options": {
+          "A": "otherwise",
+          "B": "however",
+          "C": "therefore",
+          "D": "instead"
+         },
+         "answer": "A",
+         "analysis": "otherwise＝“否则”引出反向后果，此语境专属。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "knowledgePoint": "完形填空·名词辨析（语境照应）",
+      "options": [
+       {
+        "letter": "C",
+        "errorType": "近义干扰",
+        "cause": "28人选择C——procedure（程序）指办事流程，不与 centers around being outside 搭配；pace of life / connecting to neighbors 都指向“生活方式”。（全班作答 57 人）",
+        "variant": {
+         "stem": "In this company, every _____ follows the same steps: apply, interview, train.",
+         "options": {
+          "A": "procedure",
+          "B": "lifestyle",
+          "C": "personality",
+          "D": "scenery"
+         },
+         "answer": "A",
+         "analysis": "申请-面试-培训是流程＝procedure；lifestyle 指生活方式。"
+        }
+       },
+       {
+        "letter": "D",
+        "errorType": "张冠李戴",
+        "cause": "12人选择D——personality（性格）是个体心理特质，无法被“围绕户外活动”组织起来。（全班作答 57 人）",
+        "variant": {
+         "stem": "Jogging before breakfast is part of his healthy _____.",
+         "options": {
+          "A": "lifestyle",
+          "B": "procedure",
+          "C": "personality",
+          "D": "illusion"
+         },
+         "answer": "A",
+         "analysis": "晨跑习惯＝lifestyle；personality 指性格特征。"
+        }
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "knowledgePoint": "完形填空·动词搭配（trust … to do）",
+      "options": [
+       {
+        "letter": "D",
+        "errorType": "语义反向",
+        "cause": "14人选择D——challenge … to lead（挑战根的引领？）与结尾感恩信赖的基调相反；trust A to B＝相信A会B。（全班作答 57 人）",
+        "variant": {
+         "stem": "Rather than _____ the new guide, the team followed his route with full confidence.",
+         "options": {
+          "A": "trusting",
+          "B": "challenging",
+          "C": "reminding",
+          "D": "praising"
+         },
+         "answer": "B",
+         "analysis": "with full confidence 与 challenge 语义冲突；信赖跟随用 trust。"
+        }
+       },
+       {
+        "letter": "C",
+        "errorType": "搭配混淆",
+        "cause": "9人选择C——remind 不接“sb to lead me”表“提醒引路”，句法与语义双重生硬；trust my roots to lead me＝相信根会引我前行。（全班作答 57 人）",
+        "variant": {
+         "stem": "Please _____ me to call grandma tonight—I always forget.",
+         "options": {
+          "A": "remind",
+          "B": "trust",
+          "C": "thank",
+          "D": "follow"
+         },
+         "answer": "A",
+         "analysis": "remind sb to do 固定搭配；“相信某人会做”才用 trust sb to do。"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

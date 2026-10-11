@@ -1,0 +1,609 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 完形填空（A Hometown's Pull 故土的牵引）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "记叙文",
+     "opts": [
+      "议论文",
+      "说明文",
+      "记叙文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "叙事视角 Perspective",
+     "correctText": "第一人称",
+     "opts": [
+      "第一人称",
+      "第二人称",
+      "第三人称有限",
+      "全知视角"
+     ]
+    },
+    {
+     "label": "情感基调预判 Tone",
+     "correctText": "怀旧感恩",
+     "opts": [
+      "怀旧感恩",
+      "紧张刺激",
+      "幽默讽刺",
+      "客观冷静"
+     ]
+    }
+   ],
+   "hints": [
+    "结尾 grateful 和 trust 两个词把情感指向了哪里？",
+    "全文反复出现 I / my，作者是站在什么位置讲故事？",
+    "回忆故乡时，作者的语气是在控诉还是在眷恋？"
+   ],
+   "why": [
+    "首句 I grew up + 尾段感恩收束，是典型的成长回忆型记叙文。",
+    "全文以 my classmates / my hometown 视角展开，第一人称亲历叙事。",
+    "主角把被误解写成了温暖注脚，基调是怀旧的感恩而非抱怨。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与自我",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "故事的核心是作者的什么变化——身份认同还是社会规则？",
+     "why": "离开家乡→重新认识故乡，属于'认识自我与成长'的人与自我主题。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "故乡情结与成长",
+     "groups": {
+      "人与自我": [
+       "故乡情结与成长",
+       "学业与择业",
+       "身心健康"
+      ],
+      "人与社会": [
+       "小镇邻里关系",
+       "城乡差异",
+       "社区文化"
+      ],
+      "人与自然": [
+       "四季风景",
+       "环境保护"
+      ]
+     },
+     "hint": "大学经历让作者重新看见了什么？",
+     "why": "全文由'被误解→离开→读懂故乡'推进，落点是乡情与自我成长。"
+    },
+    {
+     "label": "情感线·开端",
+     "type": "choice",
+     "correctText": "confused and embarrassed",
+     "opts": [
+      "confused and embarrassed",
+      "proud and confident",
+      "angry and upset",
+      "bored and tired"
+     ],
+     "hint": "被同学连珠炮式提问 Do you have to fly home? 时，作者多半是什么感受？",
+     "why": "questions never-ending + a novelty in their eyes——被当稀奇物围观，尴尬又困惑。"
+    },
+    {
+     "label": "情感线·收束与主旨",
+     "type": "choice",
+     "correctText": "离开方知故乡珍贵，根会指引前行",
+     "opts": [
+      {
+       "text": "离开方知故乡珍贵，根会指引前行",
+       "err": null
+      },
+      {
+       "text": "小地方的人见识有限",
+       "err": "反向设置"
+      },
+      {
+       "text": "大学改变了一切",
+       "err": "以偏概全"
+      },
+      {
+       "text": "城乡差距无法跨越",
+       "err": "无中生有"
+      }
+     ],
+     "hint": "trust my small town roots to lead me——作者把故乡放在了什么位置？",
+     "why": "尾段 trust/lead 点题：根不是包袱，是方向。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "起：背景与冲突初现",
+     "opts": [
+      "起：背景与冲突初现",
+      "承：情感转折亮观点",
+      "转：展开写小镇之美",
+      "合：感恩收束与展望"
+     ],
+     "hint": "第一段是在交代什么——故事的起点还是结局？",
+     "why": "去外州上学→被同学当稀奇物，冲突（被误解）在这里埋下。"
+    },
+    {
+     "para": 2,
+     "correctText": "承：情感转折亮观点",
+     "opts": [
+      "起：背景与冲突初现",
+      "承：情感转折亮观点",
+      "转：展开写小镇之美",
+      "合：感恩收束与展望"
+     ],
+     "hint": "complain 之后紧跟的 however，把情感扳向了哪个方向？",
+     "why": "由'抱怨无聊'转为'离开才懂爱'，it took leaving 是全文观点句。"
+    },
+    {
+     "para": 3,
+     "correctText": "转：展开写小镇之美",
+     "opts": [
+      "起：背景与冲突初现",
+      "承：情感转折亮观点",
+      "转：展开写小镇之美",
+      "合：感恩收束与展望"
+     ],
+     "hint": "慢节奏、邻居如家人——这一段在证明什么？",
+     "why": "用 pace/neighbors/being outside 三个细节支撑'为什么爱'。"
+    },
+    {
+     "para": 4,
+     "correctText": "合：感恩收束与展望",
+     "opts": [
+      "起：背景与冲突初现",
+      "承：情感转折亮观点",
+      "转：展开写小镇之美",
+      "合：感恩收束与展望"
+     ],
+     "hint": "look forward to the visits 和 trust...to lead 把文章带到了哪里？",
+     "why": "grateful + trust 收束情感并展望未来，完成闭环。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "Leaving Ohio for college, the writer became a curiosity to classmates who knew little about his home state."
+    },
+    {
+     "para": 2,
+     "summary": "Growing older, he realizes that only after leaving did he understand how much he truly loves his small town."
+    },
+    {
+     "para": 3,
+     "summary": "Small-town life means a slow pace and close bonds, where neighbors feel like an extension of family."
+    },
+    {
+     "para": 4,
+     "summary": "As college years pass, he looks forward to returning and trusts his roots to guide him forward."
+    }
+   ],
+   "trace": [
+    {
+     "q": 41,
+     "type": "语境推断·抽象名词",
+     "stem": "The __41__ of how little people knew about Ohio came quickly after I went to school in central Pennsylvania.",
+     "correctText": "P1 · 同学的夸张提问印证“了解甚少”",
+     "opts": [
+      "P1 · 同学的夸张提问",
+      "P2 · 小镇生活的节奏",
+      "P3 · 邻里交往的方式",
+      "P4 · 返乡探亲的期待"
+     ],
+     "correctQuote": "“Do you have to fly home? Do you live on a farm?”",
+     "hint": "紧随其后的两个问句在演示什么？",
+     "why": "提问内容荒诞＝对俄亥俄一无所知，realization（意识到）接事实；fantasy 不搭。"
+    },
+    {
+     "q": 42,
+     "type": "语境推断·副词",
+     "stem": "Though I lived __42__ three and a half hours away, most of my classmates thought of Ohio as a whole different world.",
+     "correctText": "P1 · though 让步：距离近却被视为异世界",
+     "opts": [
+      "P1 · though 让步逻辑",
+      "P2 · 抱怨与真爱的对照",
+      "P3 · 慢节奏的生活",
+      "P4 · 返乡的期待"
+     ],
+     "correctQuote": "most of my classmates thought of Ohio as a whole different world",
+     "hint": "Though 引导的让步句里，前后是'远'还是'近'才构成反差？",
+     "why": "'只有三小时半车程'却被当作异世界，only 限缩语气制造反差；still/even 无此功能。"
+    },
+    {
+     "q": 44,
+     "type": "语境推断·名词",
+     "stem": "I was a __44__ in their eyes.",
+     "correctText": "P1 · 问个不停→我被当稀奇物",
+     "opts": [
+      "P1 · 提问never-ending",
+      "P2 · 朋友同病相怜",
+      "P3 · 邻里亲如一家",
+      "P4 · 冒险在前方"
+     ],
+     "correctQuote": "The __43__ were never-ending.",
+     "hint": "问题问个不停，我在他们眼里像什么？",
+     "why": "没完没了的提问说明作者被当'稀奇物'看——novelty；problem 带贬义，文中并无敌意。"
+    },
+    {
+     "q": 45,
+     "type": "语境推断·形容词",
+     "stem": "As I grow older, I'm more and more __45__ for my small town roots.",
+     "correctText": "P4 · 结尾 grateful 呼应感恩",
+     "opts": [
+      "P4 · grateful 呼应",
+      "P1 · 被围观的尴尬",
+      "P2 · 抱怨的语气",
+      "P3 · 邻里的热情"
+     ],
+     "correctQuote": "I am grateful for the __54__ that I had growing up",
+     "hint": "结尾哪一个词与'越来越____'构成同向呼应？",
+     "why": "grateful for 与 thankful for 同构同义，情感线贯穿首尾。"
+    },
+    {
+     "q": 46,
+     "type": "语境推断·动词",
+     "stem": "Sure, my friends and I loved to __46__ about how bored we were in the middle of nowhere",
+     "correctText": "P2 · 后半句“离开才懂爱”的反衬",
+     "opts": [
+      "P2 · 抱怨与真爱的对照",
+      "P1 · 同学的提问",
+      "P3 · 邻里交往",
+      "P4 · 返乡计划"
+     ],
+     "correctQuote": "I’m convinced that it took __48__ our small town to realize how much we actually loved it",
+     "hint": "loved to ____ about how bored——少年们爱干的事是什么？",
+     "why": "前半句抱怨、后半句深爱的对照，complain about＝吐槽；lie about（撒谎）语义不通。"
+    },
+    {
+     "q": 47,
+     "type": "语境推断·逻辑连接词",
+     "stem": "Sure, my friends and I loved to complain about how bored we were in the middle of nowhere; __47__, as I finish up my junior year of college, I'm convinced that it took leaving our small town to realize how much we actually loved it",
+     "correctText": "P2 · 抱怨↔深爱的语义转折",
+     "opts": [
+      "P2 · 前抑后扬",
+      "P1 · 误解加深",
+      "P3 · 细节佐证",
+      "P4 · 情感升华"
+     ],
+     "correctQuote": "how much we actually loved it and what exactly we loved about it",
+     "hint": "分号前后的情感方向一致还是相反？",
+     "why": "抱怨→深爱是转折，however；therefore 把方向接反。"
+    },
+    {
+     "q": 48,
+     "type": "语境推断·动名词",
+     "stem": "it took __48__ our small town to realize how much we actually loved it",
+     "correctText": "P4 · 离乡求学后盼返乡",
+     "opts": [
+      "P4 · 离开后思念",
+      "P1 · 同学的误解",
+      "P2 · 抱怨的内容",
+      "P3 · 邻里的帮助"
+     ],
+     "correctQuote": "As I move through my college years",
+     "hint": "作者是在小镇里还是离开后才'realize 多爱它'？",
+     "why": "it took leaving...to realize——离开触发顿悟；protecting/protect 类选项与顿悟逻辑无关。"
+    },
+    {
+     "q": 49,
+     "type": "语境推断·动词",
+     "stem": "The pace of life is slow and people __49__ connecting to each other.",
+     "correctText": "P3 · 邻如家人→重视联结",
+     "opts": [
+      "P3 · 邻如家人的后证",
+      "P1 · 外界的无知",
+      "P2 · 少年的抱怨",
+      "P4 · 未来的冒险"
+     ],
+     "correctQuote": "You do more than just talk to your neighbors—in a lot of cases",
+     "hint": "下一句'邻居是家庭的延伸'暗示人们对联结的态度？",
+     "why": "慢节奏+邻里如家人→value connecting（重视）；fear 与全文温情基调相反。"
+    },
+    {
+     "q": 50,
+     "type": "语境推断·名词",
+     "stem": "in a lot of cases, they're truly an __50__ of your family.",
+     "correctText": "P3 · 不止交谈→家人般的延伸",
+     "opts": [
+      "P3 · 前句铺垫",
+      "P1 · 误解的根源",
+      "P2 · 转折的契机",
+      "P4 · 感恩的对象"
+     ],
+     "correctQuote": "You do more than just talk to your neighbors",
+     "hint": "“不止是聊聊”——邻里关系比普通交谈更深，像家人的什么？",
+     "why": "more than just talk→关系延伸为家人，extension of your family；advantage/honor 搭配不通。"
+    },
+    {
+     "q": 51,
+     "type": "语境推断·名词照应",
+     "stem": "Much of this __51__ centers around being outside and knowing the ins and outs of the town",
+     "correctText": "P3 · 慢节奏与邻里联结=生活方式",
+     "opts": [
+      "P3 · 段首生活方式",
+      "P1 · 家乡的知名度",
+      "P2 · 大学的课程",
+      "P4 · 返乡的频率"
+     ],
+     "correctQuote": "The pace of life is slow",
+     "hint": "this 指代的正是上一句描写的什么？",
+     "why": "this 回指 slow pace / value connecting——统称 lifestyle；procedure 是办事流程。"
+    },
+    {
+     "q": 54,
+     "type": "语境推断·名词",
+     "stem": "I am grateful for the __54__ that I had growing up",
+     "correctText": "P1 · 首句点明成长地→成长经历",
+     "opts": [
+      "P1 · 成长背景",
+      "P2 · 离开的决定",
+      "P3 · 邻里的帮助",
+      "P4 · 未来的冒险"
+     ],
+     "correctQuote": "I grew up in a little town in northeast Ohio.",
+     "hint": "grateful for the ____ that I had growing up——在小镇长大给了他什么？",
+     "why": "growing up 呼应首句成长背景：那段成长经历＝experience；opportunity 无来源。"
+    },
+    {
+     "q": 55,
+     "type": "语境推断·动词搭配",
+     "stem": "I can __55__ my small town roots to lead me in the right direction.",
+     "correctText": "P4 · 无论去向何方→信赖根的指引",
+     "opts": [
+      "P4 · wherever 引出的信赖",
+      "P1 · 同学的提问",
+      "P2 · 抱怨的语气",
+      "P3 · 慢节奏生活"
+     ],
+     "correctQuote": "wherever my next adventure takes me",
+     "hint": "trust A to B 是什么意思？作者对根的态度是怀疑还是信赖？",
+     "why": "trust ... to lead me＝相信根会引路，收束全文感恩基调；challenge 与之相反。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "情节推进技巧",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "被误解的经历之后，作者的情感走向了更深一层还是转向别处？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "contrast",
+     "hint": "第二段的'抱怨'与第三段的'慢生活之美'是什么关系？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "progression",
+     "hint": "写完小镇之美，情感是不是水到渠成地落到感恩与展望？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 4,
+     "type": "词汇复现",
+     "correctText": "small town roots 呼应首句 little town",
+     "item": "my small town roots",
+     "opts": [
+      "small town roots",
+      "college years",
+      "next adventure",
+      "little hometown visits"
+     ],
+     "hint": "尾短语里的哪个词在第一段就出现过？",
+     "why": "roots 复现并升级：从地理坐标变成精神指引，首尾闭环。"
+    },
+    {
+     "para": 2,
+     "type": "连接词",
+     "correctText": "分号后语义反转（抱怨→深爱）",
+     "item": "分号 + as I finish up my junior year",
+     "opts": [
+      "语义反转",
+      "因果顺承",
+      "举例说明",
+      "让步补充"
+     ],
+     "hint": "分号前 loved to complain，分号后 convinced that loved it——逻辑方向变了吗？",
+     "why": "分号+时间状语引出今昔对照，however 类转折语义由结构承担。"
+    },
+    {
+     "para": 3,
+     "type": "词汇同现",
+     "correctText": "小镇生活语义场",
+     "item": "pace of life / slow / neighbors / outside / town",
+     "opts": [
+      "科技与网络",
+      "小镇生活",
+      "校园学习",
+      "职场规则"
+     ],
+     "hint": "这些词共同描绘了哪个场景的图景？",
+     "why": "语义场集中服务'慢节奏邻里生活'，为第④步情节技巧提供语料。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 2,
+     "correctText": "先抑后扬",
+     "opts": [
+      "先抑后扬",
+      "开门见山",
+      "夹叙夹议",
+      "倒叙插叙"
+     ],
+     "hint": "作者先写抱怨再写深爱，这是哪种推进技巧？",
+     "why": "先抑后扬使'离开才懂爱'的顿悟更有说服力。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "熟词生义:novelty n.新奇的人（物）",
+     "para": 1,
+     "sen": "I was a novelty in their eyes.",
+     "ana": "novelty 常作'新颖'讲，此处指'被当稀奇物围观'——为前文 questions never-ending 作结。"
+    },
+    {
+     "kind": "熟词生义:extension n.延伸部分",
+     "para": 3,
+     "sen": "they're truly an extension of your family.",
+     "ana": "extension 不是'电话分机'，而是'家庭的延伸'——邻里亲如一家的点睛之笔。"
+    },
+    {
+     "kind": "熟词生义:finish up v.完成；临近结束",
+     "para": 2,
+     "sen": "as I finish up my junior year of college",
+     "ana": "finish up＝完成、收尾，即'大三快读完了'，暗示时间推移带来视角变化。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "首尾呼应",
+     "para": 4,
+     "sen": "I can trust my small town roots to lead me in the right direction.",
+     "ana": "呼应首段 I grew up in a little town——从'离开'到'信赖引领'，闭环点题。"
+    },
+    {
+     "kind": "直接引语",
+     "para": 1,
+     "sen": "“Do you have to fly home? Do you live on a farm?”",
+     "ana": "用同学夸张的问话再现误解，幽默中带自嘲，也为 novelty 提供注脚。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "高分句型",
+     "en": "It took leaving ... to realize ...",
+     "zh": "直到离开……才意识到……",
+     "usage": "写'事后领悟'类读后续写的顿悟时刻"
+    },
+    {
+     "type": "高分短语",
+     "en": "be thankful for",
+     "zh": "对……心存感激",
+     "usage": "结尾升华情感态度"
+    },
+    {
+     "type": "高分短语",
+     "en": "an extension of your family",
+     "zh": "家人般的延伸",
+     "usage": "描写邻里/友情亲密无间"
+    },
+    {
+     "type": "高分短语",
+     "en": "center around",
+     "zh": "围绕……展开",
+     "usage": "介绍活动或生活重心"
+    },
+    {
+     "type": "话题词汇",
+     "en": "lead sb in the right direction",
+     "zh": "引领某人走向正途",
+     "usage": "成长类续写收束句"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 主旨（故事告诉人们）",
+     "correctText": "离开方知故乡珍贵，根会指引前行",
+     "opts": [
+      "故乡的根给人认同与指引",
+      "小地方的人见识有限",
+      "上大学必然思乡",
+      "城乡差距无法弥合"
+     ],
+     "hint": "trust...to lead me in the right direction 揭示了根的什么作用？",
+     "why": "全文情感线由误解到感恩，落点是根的指引力。"
+    },
+    {
+     "label": "B · 情感落点",
+     "correctText": "感恩与信赖",
+     "opts": [
+      "感恩与信赖",
+      "无奈与叹息",
+      "骄傲与炫耀",
+      "遗憾与自责"
+     ],
+     "hint": "grateful 和 trust 两个词各自传递了什么情感？",
+     "why": "grateful（感激经历）+ trust（信赖指引）双词定格最终态度。"
+    },
+    {
+     "label": "C · 最强支撑",
+     "correctText": "they're truly an extension of your family",
+     "opts": [
+      "they're truly an extension of your family",
+      "The questions were never-ending.",
+      "I lived only three and a half hours away.",
+      "Sure, my friends and I loved to complain"
+     ],
+     "hint": "哪一句最能证明'小镇联结之深'？",
+     "why": "邻居＝家人的延伸，直接支撑'为什么爱小镇'。"
+    },
+    {
+     "label": "D · 读者启示",
+     "correctText": "成长的养分常在身后，离开方知珍贵",
+     "opts": [
+      "成长的养分常在身后，离开方知珍贵",
+      "外出求学胜过留在家乡",
+      "乡下人应当走向大城市",
+      "误解终将随时间消失"
+     ],
+     "hint": "作者的顿悟对你的家乡记忆有什么触动？",
+     "why": "D 题以读者共鸣收束，回扣根与成长的主题。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "roots",
+     "def": "根；家族与故乡的渊源——本文标题性概念"
+    },
+    {
+     "term": "nostalgia",
+     "def": "乡愁；对往昔时光的怀念"
+    },
+    {
+     "term": "sense of belonging",
+     "def": "归属感——小镇给作者的身份认同"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "背景与冲突",
+   "2": "转折与顿悟",
+   "3": "小镇之美",
+   "4": "感恩与展望"
+  },
+  "paraBriefs": {
+   "1": "Misread as a curiosity at college",
+   "2": "Leaving taught him to love",
+   "3": "Slow pace, family-like neighbors",
+   "4": "Grateful; roots will guide him"
+  }
+ }
+}

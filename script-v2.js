@@ -424,16 +424,16 @@ const AFR = (() => {
             },
             scores: {
                 class9: [
-                    { examId: '80240597', studentNo: '44', id: '44', name: '渠可威', score: 92, rank: 1 },
-                    { examId: '80240549', studentNo: '41', id: '41', name: '路通达', score: 88, rank: 2 },
-                    { examId: '80240194', studentNo: '23', id: '23', name: '苏梓量', score: 85, rank: 3 },
-                    { examId: '80240568', studentNo: '42', id: '42', name: '李嘉炜', score: 82, rank: 4 },
-                    { examId: '80240071', studentNo: '5', id: '5', name: '池毅', score: 78, rank: 5 },
-                    { examId: '80240147', studentNo: '21', id: '21', name: '张放', score: 75, rank: 6 },
-                    { examId: '80240328', studentNo: '30', id: '30', name: '冯涵宇', score: 72, rank: 7 },
-                    { examId: '80240246', studentNo: '8', id: '8', name: '陈飞宇', score: 68, rank: 8 },
-                    { examId: '80240089', studentNo: '18', id: '18', name: '刘佳乐', score: 65, rank: 9 },
-                    { examId: '80240407', studentNo: '25', id: '25', name: '刘明富', score: 60, rank: 10 },
+                    { examId: '80249524', studentNo: '44', id: '44', name: '桑行毅', score: 92, rank: 1 },
+                    { examId: '80242498', studentNo: '41', id: '41', name: '童其帆', score: 88, rank: 2 },
+                    { examId: '80247570', studentNo: '23', id: '23', name: '葛言思', score: 85, rank: 3 },
+                    { examId: '80248665', studentNo: '42', id: '42', name: '樊静知', score: 82, rank: 4 },
+                    { examId: '80243726', studentNo: '5', id: '5', name: '邵望慎', score: 78, rank: 5 },
+                    { examId: '80244701', studentNo: '21', id: '21', name: '邵清星', score: 75, rank: 6 },
+                    { examId: '80240908', studentNo: '30', id: '30', name: '陆温知', score: 72, rank: 7 },
+                    { examId: '80241208', studentNo: '8', id: '8', name: '韩身越', score: 68, rank: 8 },
+                    { examId: '80248696', studentNo: '18', id: '18', name: '阮格嘉', score: 65, rank: 9 },
+                    { examId: '80249385', studentNo: '25', id: '25', name: '尹修言', score: 60, rank: 10 },
                 ],
                 class11: [
                     { id: '20241101', name: '陈一', score: 93, rank: 1 },
@@ -629,7 +629,7 @@ const AFR = (() => {
     function updateClassBtnText() {
         const el = document.getElementById('classBtnText');
         if (el) {
-            el.textContent = state.currentClass === 'class9' ? '高三09班' : '高三11班';
+            el.textContent = state.currentClass === 'class9' ? '高三（1）班' : '高三（2）班';
         }
     }
 
@@ -735,7 +735,7 @@ const AFR = (() => {
     }
 
     // 设置手动星标名单（老师指定的额外表彰学生，不管排名）
-    // names: 姓名数组，如 ['高进','颜寒香']
+    // names: 姓名数组，如 ['沈物树','廖羽宁']
     function setStarredNames(names) {
         const hw = getCurrentHomework();
         if (!hw) { notify('No assignment selected', 'error'); return false; }
@@ -3121,7 +3121,7 @@ const AFR = (() => {
 
         let students = [...getCurrentScores()];
         const hw = getCurrentHomework();
-        title.textContent = hw ? `${hw.name} — ${state.currentClass === 'class9' ? '高三09班' : '高三11班'}` : 'Scores';
+        title.textContent = hw ? `${hw.name} — ${state.currentClass === 'class9' ? '高三（1）班' : '高三（2）班'}` : 'Scores';
 
         const validQuestions = hw && hw.config ? hw.config.validQuestions : null;
 
@@ -4706,7 +4706,7 @@ const AFR = (() => {
         const pkg = {
             assignment: hw.name,
             class: state.currentClass,
-            className: state.currentClass === 'class9' ? '高三09班' : '高三11班',
+            className: state.currentClass === 'class9' ? '高三（1）班' : '高三（2）班',
             exportedAt: new Date().toISOString().slice(0, 10),
             standard: { red: '<60% 详细评讲', yellow: '60%~70% 快速评讲', note: '请只为下列题目生成分析，每题只针对topWrongOptions列出的两个错误选项' },
             questions: redYellow.map(q => {
@@ -5810,8 +5810,8 @@ const AFR = (() => {
         saveKnowledge(true);  // 先存当前编辑内容
         const fromCls = state.currentClass;
         const toCls = fromCls === 'class9' ? 'class11' : 'class9';
-        const fromName = fromCls === 'class9' ? '高三09班' : '高三11班';
-        const toName = toCls === 'class9' ? '高三09班' : '高三11班';
+        const fromName = fromCls === 'class9' ? '高三（1）班' : '高三（2）班';
+        const toName = toCls === 'class9' ? '高三（1）班' : '高三（2）班';
         const fromObj = ensureKnowledgeModeObj(hw, fromCls);
         const toObj = ensureKnowledgeModeObj(hw, toCls);
         const curMode = state.knowledgeMode;
@@ -11603,7 +11603,7 @@ const AFR = (() => {
             for (let i = 0; i < metaRows.length; i++) {
                 const row = metaRows[i] || [];
                 const first = String(row[0] || '').trim();
-                // 分班标题行（如"…-高三11班物化地-英语-答题明细"）切换班级段
+                // 分班标题行（如"…-高三（2）班物化地-英语-答题明细"）切换班级段
                 if (first.includes('班') && first.length > 8) {
                     metaClass = /11班/.test(first) ? 'class11' : 'class9';
                     continue;

@@ -1,0 +1,477 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 阅读A篇（SoFi Stadium Guide 观赛指南）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "应用文（信息海报）",
+     "opts": [
+      "记叙文",
+      "说明文",
+      "议论文",
+      "应用文（信息海报）"
+     ]
+    },
+    {
+     "label": "文本来源 Source",
+     "correctText": "场馆官方发布",
+     "opts": [
+      "场馆官方发布",
+      "游客博客",
+      "报纸评论",
+      "旅行社广告"
+     ]
+    },
+    {
+     "label": "目标读者 Reader",
+     "correctText": "计划观赛的体育迷与游客",
+     "opts": [
+      "计划观赛的体育迷与游客",
+      "球队管理层",
+      "酒店经营者",
+      "交通工程师"
+     ]
+    }
+   ],
+   "hints": [
+    "文章是讲述经历，还是分板块给出实用信息？",
+    "赛程表、酒店、停车三块内容为谁服务？",
+    "文中的 you 指的是哪类人？"
+   ],
+   "why": [
+    "分板块罗列信息、无情节推进，是典型的信息类应用文。",
+    "内容全部围绕观赛的实际需求展开。",
+    "第二人称 you + 祈使句，面向计划前往的观众。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与社会",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "赛事、住宿、停车规则——讨论的是哪类主题？",
+     "why": "公共场馆服务信息属人与社会的社会生活类。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "体育赛事信息与出行",
+     "groups": {
+      "人与社会": [
+       "体育赛事信息与出行",
+       "场馆管理规则",
+       "酒店业竞争"
+      ],
+      "人与自我": [
+       "观赛计划与消费选择",
+       "时间管理"
+      ],
+      "人与自然": [
+       "场馆选址与气候",
+       "绿化"
+      ]
+     },
+     "hint": "football games / hotels / parking pass 共同指向哪个话题？",
+     "why": "三大板块都是'去看比赛'的实用信息。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "SoFi 本月赛程与观赛配套信息（住宿/停车）",
+     "opts": [
+      {
+       "text": "SoFi 本月赛程与观赛配套信息（住宿/停车）",
+       "err": null
+      },
+      {
+       "text": "SoFi 是洛杉矶最好的体育场",
+       "err": "无中生有（未比较）"
+      },
+      {
+       "text": "SoFi 停车非常困难应放弃驾车",
+       "err": "曲解文意（是规则严格非劝阻）"
+      },
+      {
+       "text": "Rams 队本赛季战绩出色",
+       "err": "无中生有"
+      }
+     ],
+     "hint": "三大板块分别回答了观客的哪三类问题？",
+     "why": "何时看赛（赛程）、住哪（酒店）、怎么停（规则）——信息海报的主旨即信息覆盖面。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "objective 客观中立",
+     "opts": [
+      "objective 客观中立",
+      "cautionary 理性提醒",
+      "critical 批判否定",
+      "indifferent 冷漠无关",
+      "optimistic 乐观积极",
+      "skeptical 怀疑质疑",
+      "enthusiastic 热情推崇",
+      "defensive 辩护维护"
+     ],
+     "hint": "海报是在推销、警告，还是平实地告知？",
+     "why": "信息客观呈现，规则部分虽严格但语气是提示而非警告。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "总起：场馆定位",
+     "opts": [
+      "总起：场馆定位",
+      "板块：本月赛程",
+      "板块：周边酒店",
+      "板块：停车规则"
+     ],
+     "hint": "首句 go-to destination 是在给整个文档定什么调？",
+     "why": "一句话说明场馆地位，统领下文三大信息板块。"
+    },
+    {
+     "para": 2,
+     "correctText": "板块：本月赛程",
+     "opts": [
+      "总起：场馆定位",
+      "板块：本月赛程",
+      "板块：周边酒店",
+      "板块：停车规则"
+     ],
+     "hint": "四场对阵与时间构成了哪个板块？",
+     "why": "Upcoming Football Events 小标题下按日期列出四场比赛。"
+    },
+    {
+     "para": 3,
+     "correctText": "板块：周边酒店",
+     "opts": [
+      "总起：场馆定位",
+      "板块：本月赛程",
+      "板块：周边酒店",
+      "板块：停车规则"
+     ],
+     "hint": "从 across the street 到 a little further，酒店的排列有什么规律？",
+     "why": "按距离由近及远介绍四家酒店，方便读者按需选择。"
+    },
+    {
+     "para": 4,
+     "correctText": "板块：停车规则",
+     "opts": [
+      "总起：场馆定位",
+      "板块：本月赛程",
+      "板块：周边酒店",
+      "板块：停车规则"
+     ],
+     "hint": "assigned zone / parking pass / 一起到达——这一段在强调什么？",
+     "why": "停车规则严格且必须提前准备，是海报的提醒重点。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "SoFi Stadium, in the heart of Los Angeles, is a top destination for sports fans."
+    },
+    {
+     "para": 2,
+     "summary": "Four football games are scheduled this month, from Aug 9 to Aug 24."
+    },
+    {
+     "para": 3,
+     "summary": "Four hotels near the stadium are introduced, ordered from closest to farthest."
+    },
+    {
+     "para": 4,
+     "summary": "Parking requires a digital pass for an assigned zone, and cars arriving together can park near each other."
+    }
+   ],
+   "trace": [
+    {
+     "q": 21,
+     "type": "细节理解·信息比对",
+     "stem": "Which team will play the most games at the stadium this month?",
+     "correctText": "P2 · Rams 三次出场（对手含 Cowboys/Rams内战/Texans）",
+     "opts": [
+      "P2 · 数赛程：Rams 出现三次",
+      "P2 · 只看首场比赛",
+      "P2 · 只看周末场次",
+      "P3 · 酒店名单"
+     ],
+     "correctQuote": "Los Angeles Rams v Dallas Cowboys",
+     "hint": "把四场对阵里的队名数一数，哪队出现最多？",
+     "why": "Rams 出现三次（含 Chargers v Rams），其余队各一至两次——需逐行计数而非凭印象。"
+    },
+    {
+     "q": 22,
+     "type": "细节理解·距离比较",
+     "stem": "Which hotel is nearest to the stadium?",
+     "correctText": "P3 · across the street＝一街之隔最近",
+     "opts": [
+      "P3 · Right across the street",
+      "P3 · A mile away",
+      "P3 · a short drive away",
+      "P3 · a little further"
+     ],
+     "correctQuote": "Right across the street, Sonder Lün Hotel offers spacious rooms and",
+     "hint": "四家酒店的距离词哪个表示'一街之隔'？",
+     "why": "across the street＜a mile away＜short drive＜a little further，距离层级要排清楚。"
+    },
+    {
+     "q": 23,
+     "type": "细节理解·规则要求",
+     "stem": "What do you need to do if you want to park at the stadium?",
+     "correctText": "P4 · 须持停车通行证",
+     "opts": [
+      "P4 · 提前下载停车通行证",
+      "P4 · 现场呼叫工作人员",
+      "P4 · 预付停车费",
+      "P4 · 自行选择任意区域"
+     ],
+     "correctQuote": "download your parking pass to your smartphone before arrival",
+     "hint": "进停车场必须出示什么？它在到达前要做什么处理？",
+     "why": "凭证通行：pass 须提前下载到手机；C 预付费、A 呼叫员工均无据。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "信息组织方式",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "场馆定位之后，读者最想知道的具体信息是什么？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "progression",
+     "hint": "看完赛程，观赛还有哪个配套问题要解决？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "progression",
+     "hint": "住的问题解决后，到达场馆还剩什么事项？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 4,
+     "type": "指代",
+     "correctText": "you ＝ 计划驾车的观赛者",
+     "item": "SoFi Stadium requires you to park strictly in your assigned zone",
+     "opts": [
+      "计划驾车的观赛者",
+      "酒店前台",
+      "停车场员工",
+      "球队球员"
+     ],
+     "hint": "requires you to park 的 you 是哪类人群？",
+     "why": "海报的隐性读者＝驾车观赛者，第二人称贯穿。"
+    },
+    {
+     "para": 3,
+     "type": "词汇链",
+     "correctText": "酒店距离词汇链",
+     "item": "Right across the street / A mile away / a short drive / a little further",
+     "opts": [
+      "酒店距离词汇链",
+      "比赛得分词汇链",
+      "天气变化词汇链",
+      "购票流程词汇链"
+     ],
+     "hint": "这四个短语在比较什么？",
+     "why": "距离由近及远的表达序列，是信息排序的常见手法。"
+    },
+    {
+     "para": 4,
+     "type": "连接词",
+     "correctText": "If 引导的条件提示",
+     "item": "If you enter through the wrong access point, you'll be turned around and redirected",
+     "opts": [
+      "条件提示（后果警告）",
+      "因果说明",
+      "让步补充",
+      "总结收束"
+     ],
+     "hint": "If 从句在提醒什么？主句的被动语态传递了谁的意志？",
+     "why": "条件+后果是规则类文本的典型句式，配合被动语态强化规则的不可协商。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 1,
+     "correctText": "分类呈现",
+     "opts": [
+      "分类呈现",
+      "时间顺序",
+      "因果论证",
+      "对比反衬"
+     ],
+     "hint": "赛程/酒店/停车三大板块按什么逻辑组织？",
+     "why": "按观赛需求分类，一目了然，是信息类文本的组织方式。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "require sb to do + 过去分词后置定语",
+     "para": 4,
+     "sen": "SoFi Stadium requires you to park strictly in your assigned zone, and guests must enter through the exact gate indicated on their color-coded digital parking pass.",
+     "ana": "require sb to do 句型；indicated on... 过去分词后置修饰 gate——规则描述的精确表达。"
+    },
+    {
+     "kind": "条件句 + 被动语态",
+     "para": 4,
+     "sen": "If you enter through the wrong access point, you'll be turned around and redirected—so plan ahead.",
+     "ana": "If 条件 + will be done 被动预测后果；破折号后祈使句给建议——规则文本三件套。"
+    },
+    {
+     "kind": "those + 现在分词作后置定语",
+     "para": 4,
+     "sen": "For those wishing to park near friends, all vehicles must have passes for the same zone and arrive together—spaces cannot be saved.",
+     "ana": "those wishing to...＝'想……的人'；must have/arrive 并列要求；cannot be saved 被动收束。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "祈使句群",
+     "para": 4,
+     "sen": "Make sure to download your parking pass to your smartphone before arrival.",
+     "ana": "Make sure to + 动词原形，海报体最常用的指令句式。"
+    },
+    {
+     "kind": "夸张修饰",
+     "para": 1,
+     "sen": "Its calendar is always packed with headline-grabbing events",
+     "ana": "packed with（挤满）+ headline-grabbing（抢占头条的）叠加渲染场馆热度。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "话题词汇",
+     "en": "color-coded digital parking pass",
+     "zh": "分色数字停车通行证",
+     "usage": "场馆规则类阅读高频"
+    },
+    {
+     "type": "话题词汇",
+     "en": "assigned zone",
+     "zh": "指定区域",
+     "usage": "规则说明类文本"
+    },
+    {
+     "type": "高分短语",
+     "en": "a short walk or ride from...",
+     "zh": "步行或乘车片刻即达",
+     "usage": "位置描述"
+    },
+    {
+     "type": "高分短语",
+     "en": "be turned around and redirected",
+     "zh": "被调头并重新引导",
+     "usage": "流程规则描述"
+    },
+    {
+     "type": "话题词汇",
+     "en": "headline-grabbing events",
+     "zh": "备受瞩目的事件",
+     "usage": "活动宣传语境"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "提供本月观赛的实用信息（赛程/住宿/停车）",
+     "opts": [
+      "提供本月观赛的实用信息（赛程/住宿/停车）",
+      "宣传洛杉矶旅游业",
+      "比较四支球队实力",
+      "解释停车新规的出台背景"
+     ],
+     "hint": "三大板块共同服务读者的哪个目的？",
+     "why": "信息海报的目的＝让读者拿到行动所需的全套信息。"
+    },
+    {
+     "label": "B · 信息组织",
+     "correctText": "按需求分板块呈现",
+     "opts": [
+      "按需求分板块呈现",
+      "按时间顺序叙事",
+      "按利弊对比论证",
+      "按空间由远及近描写"
+     ],
+     "hint": "赛程→酒店→停车，板块的排列依据是什么？",
+     "why": "按观赛决策链组织信息，便于快速检索。"
+    },
+    {
+     "label": "C · 最关键规则",
+     "correctText": "车辆须持同区通行证且同时到达",
+     "opts": [
+      "车辆须持同区通行证且同时到达",
+      "提前预订酒店可获折扣",
+      "比赛当天场馆关闭部分入口",
+      "酒店提供往返班车"
+     ],
+     "hint": "想在好友旁边停车，条件有几个？",
+     "why": "same zone + arrive together 双条件，spaces cannot be saved 补充禁止事项。"
+    },
+    {
+     "label": "D · 读者价值",
+     "correctText": "按图索骥规划观赛行程",
+     "opts": [
+      "按图索骥规划观赛行程",
+      "学习体育场建筑知识",
+      "了解洛杉矶历史",
+      "评估球队转会策略"
+     ],
+     "hint": "读完海报，读者能立刻去做哪三件事？",
+     "why": "选场次、订酒店、办停车证——信息即行动指南。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "parking pass",
+     "def": "停车通行证——入场凭证，须提前下载"
+    },
+    {
+     "term": "assigned zone",
+     "def": "指定区域——票证绑定的停车区"
+    },
+    {
+     "term": "venue",
+     "def": "场馆——活动举办的场地"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "总起",
+   "2": "赛程",
+   "3": "酒店",
+   "4": "停车"
+  },
+  "paraBriefs": {
+   "1": "Top destination for sports fans",
+   "2": "Four games, Aug 9–24",
+   "3": "Hotels from closest to farthest",
+   "4": "Strict pass-based parking rules"
+  }
+ }
+}

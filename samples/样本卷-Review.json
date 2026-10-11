@@ -1,0 +1,759 @@
+{
+  "assignment": "样本卷01",
+  "source": "AI分析(官方答案键+错题包实测数据；仅含错题包与官方解析一致的10题)",
+  "generatedAt": "2026-10-11",
+  "classes": {
+    "class9": [
+      {
+        "id": 1,
+        "knowledgePoint": "听力理解·身份推断（入职场景）",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "张冠李戴",
+            "cause": "8人选择A——把“领工牌、介绍同事”的入职接待曲解为商务拜访；排除口诀：get your card this afternoon＝人已在办入职手续。（全班作答 58 人）",
+            "variant": {
+              "stem": "W: Welcome aboard! Your desk is by the window. Let me first introduce you to the team.\nQ: What is the relationship between the speakers?",
+              "options": {
+                "A": "Manager and new employee.",
+                "B": "Saleswoman and customer.",
+                "C": "Old school friends."
+              },
+              "answer": "A",
+              "analysis": "张冠李戴——“welcome aboard / introduce to the team”指向入职，不是推销或叙旧。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "近义干扰",
+            "cause": "11人选择B——job applicant（求职者）与 new staff 只差“是否已入职”一步；抓 this afternoon 才发卡，说明手续已办完。（全班作答 58 人）",
+            "variant": {
+              "stem": "M: I handed in my CV last week, and today they told me I could start on Monday.\nQ: What does the man mean?",
+              "options": {
+                "A": "He has got the job.",
+                "B": "He is still waiting for an interview.",
+                "C": "His application was rejected."
+              },
+              "answer": "A",
+              "analysis": "近义干扰——“start on Monday”说明已录用，别停在 applicant 阶段。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "knowledgePoint": "听力理解·说话人观点态度",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "无中生有",
+            "cause": "19人选择A——“有听众来电想听真声”被过度引申为版权/法律纠纷；原文只字未提 legal problems。（全班作答 58 人）",
+            "variant": {
+              "stem": "W: The app is still in its testing stage, but some users are already selling access to it.\nQ: What does the woman imply?",
+              "options": {
+                "A": "The app will soon be free.",
+                "B": "Some users are using the app improperly.",
+                "C": "The company will stop the test."
+              },
+              "answer": "B",
+              "analysis": "无中生有——卖访问权限属违规使用，原文没有“免费”“停产”之意。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "偷换概念",
+            "cause": "4人选择B——300多首AI新歌≠惠及社区；把“任何人可署名使用她的AI声音并分成”偷换成“造福大众”。（全班作答 58 人）",
+            "variant": {
+              "stem": "M: Our school library opens to villagers every weekend.\nQ: What does the man mean?",
+              "options": {
+                "A": "The library only serves students.",
+                "B": "The villagers donated money to the school.",
+                "C": "Local people can share the library's resources."
+              },
+              "answer": "C",
+              "analysis": "偷换概念——开放给村民＝资源共享，不是“村民捐资”。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "knowledgePoint": "阅读C篇·研究结论推断（说明文）",
+        "options": [
+          {
+            "letter": "D",
+            "errorType": "偷换概念",
+            "cause": "39人选择D——研究警示的是 isoprene 与尾气氮氧化物反应生成臭氧、伤及呼吸，并非“吸碳不如预期”；原文明确肯定树木 absorb carbon 的好处。（全班作答 58 人）",
+            "variant": {
+              "stem": "A new study finds that e-scooters cut car trips only slightly, while producing piles of extra battery waste.\nQ: What does the study imply about e-scooters?",
+              "options": {
+                "A": "They reduce pollution greatly.",
+                "B": "Their green label may be misleading.",
+                "C": "Their batteries last shorter than expected."
+              },
+              "answer": "B",
+              "analysis": "偷换概念——“额外电池垃圾”≠“电池不耐用”，可续写句：the green label may be misleading。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "无中生有",
+            "cause": "1人选择B——“影响其他树生长”在原文无据，系把 provide wildlife habitat 的相邻表述拼凑成答案。（全班作答 58 人）",
+            "variant": {
+              "stem": "The report says city foxes dig under garden fences at night.\nQ: What does the report say about foxes?",
+              "options": {
+                "A": "They attack pets at night.",
+                "B": "They enter gardens by digging.",
+                "C": "They carry diseases to cats."
+              },
+              "answer": "B",
+              "analysis": "无中生有——“攻击宠物”“传染疾病”均为拼凑，原文只讲挖洞进园。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "knowledgePoint": "完形填空·抽象名词辨析（首句顿悟）",
+        "options": [
+          {
+            "letter": "B",
+            "errorType": "近义干扰",
+            "cause": "13人选择B——把“幻象”的语感当答案；fantasy 不与 of + 事实性内容搭配，the realization of“意识到……”才接“别人对俄亥俄了解甚少”。（全班作答 58 人）",
+            "variant": {
+              "stem": "The moment I unpacked, I _____ that dorm life was nothing like home.",
+              "options": {
+                "A": "realized",
+                "B": "fantasized",
+                "C": "hesitated",
+                "D": "regretted"
+              },
+              "answer": "A",
+              "analysis": "近义干扰——realize 接事实从句；fantasize 表“空想”，与“顿悟”相反。"
+            }
+          },
+          {
+            "letter": "A",
+            "errorType": "张冠李戴",
+            "cause": "7人选择A——expectation 是动身前的“期待”，本句讲“到校后很快发生”的顿悟，时间与心态都对不上。（全班作答 58 人）",
+            "variant": {
+              "stem": "_____ to see the world, she packed her bags the day after graduation.",
+              "options": {
+                "A": "Determined",
+                "B": "Expected",
+                "C": "Forced",
+                "D": "Allowed"
+              },
+              "answer": "A",
+              "analysis": "张冠李戴——“期待”是他人视角的词，主动决心用 determined。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "knowledgePoint": "完形填空·副词辨析（only/still/even）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "近义干扰",
+            "cause": "17人选择C——still 表“仍然”不置于数词前；本句强调“只有三个半小时”不算远，与下文同学的夸张提问形成反差，只能用 only。（全班作答 58 人）",
+            "variant": {
+              "stem": "_____ ten students signed up, so the trip was called off.",
+              "options": {
+                "A": "Only",
+                "B": "Still",
+                "C": "Even",
+                "D": "Already"
+              },
+              "answer": "A",
+              "analysis": "副词修饰数词表“仅仅”用 only；still/even/already 无此用法。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "逻辑误用",
+            "cause": "9人选择D——even 表递进“甚至”，此处没有递进对象，只有“距离其实很近”的限缩语气。（全班作答 58 人）",
+            "variant": {
+              "stem": "He speaks three foreign languages, and he is _____ learning a fourth.",
+              "options": {
+                "A": "even",
+                "B": "only",
+                "C": "just",
+                "D": "yet"
+              },
+              "answer": "A",
+              "analysis": "递进补充用 even；only 表限缩，与“还在学第四门”的递进语境相反。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "knowledgePoint": "完形填空·形容词辨析与搭配（thankful for）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "搭配误用",
+            "cause": "27人选择C——suitable for 搭配成立但语义不通；“越长大越____故乡情结”是情感词位，下文 grateful 同向印证 thankful。（全班作答 58 人）",
+            "variant": {
+              "stem": "She is deeply _____ to her teachers for their support.",
+              "options": {
+                "A": "thankful",
+                "B": "suitable",
+                "C": "reliable",
+                "D": "familiar"
+              },
+              "answer": "A",
+              "analysis": "thankful to sb for sth 固定搭配；suitable/reliable 不进入该句型。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "形近误用",
+            "cause": "2人选择D——reliable（可靠的）修饰人或物，不能说“我对根可靠”；注意与 relying 拼写邻近的干扰。（全班作答 58 人）",
+            "variant": {
+              "stem": "We need a _____ witness whose account can be trusted.",
+              "options": {
+                "A": "reliable",
+                "B": "thankful",
+                "C": "suitable",
+                "D": "grateful"
+              },
+              "answer": "A",
+              "analysis": "可靠证人＝reliable；thankful/grateful 表感谢，语义不合。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "knowledgePoint": "完形填空·动词辨析与搭配（complain about）",
+        "options": [
+          {
+            "letter": "B",
+            "errorType": "语境曲解",
+            "cause": "25人选择B——lie about how bored（撒谎说无聊）与 loved to（爱做的事）语义拧；两个少年好友爱干的事是“互相吐槽”。（全班作答 58 人）",
+            "variant": {
+              "stem": "Teenagers often _____ to their parents about too much homework.",
+              "options": {
+                "A": "complain",
+                "B": "lie",
+                "C": "hear",
+                "D": "forget"
+              },
+              "answer": "A",
+              "analysis": "complain to sb about sth 固定搭配；lie about 表撒谎，不合语境。"
+            }
+          },
+          {
+            "letter": "A",
+            "errorType": "主客体颠倒",
+            "cause": "13人选择A——hear about（听说）是信息接收方用的词；主人公吐槽自己的生活，输出端用 complain about。（全班作答 58 人）",
+            "variant": {
+              "stem": "I _____ about the traffic jam from my colleague, so I left home earlier.",
+              "options": {
+                "A": "heard",
+                "B": "complained",
+                "C": "dreamed",
+                "D": "cared"
+              },
+              "answer": "A",
+              "analysis": "hear about＝听说（输入信息）；complain about＝抱怨（输出情绪）。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "knowledgePoint": "完形填空·逻辑连接词（转折）",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "逻辑反向",
+            "cause": "21人选择A——分号前“抱怨无聊”与后“深爱小镇”构成转折；therefore（因此）把逻辑方向接反。（全班作答 58 人）",
+            "variant": {
+              "stem": "The hike was exhausting; _____, every one of us reached the top with a big smile.",
+              "options": {
+                "A": "however",
+                "B": "therefore",
+                "C": "otherwise",
+                "D": "instead"
+              },
+              "answer": "A",
+              "analysis": "前抑后扬用 however；therefore 表因果，与“累却开心”的转折相反。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "语义不合",
+            "cause": "6人选择D——otherwise 表“否则”，需引出相反后果的虚拟语义；此处只是语篇转折。（全班作答 58 人）",
+            "variant": {
+              "stem": "Leave now; _____, you will miss the last bus.",
+              "options": {
+                "A": "otherwise",
+                "B": "however",
+                "C": "therefore",
+                "D": "instead"
+              },
+              "answer": "A",
+              "analysis": "otherwise＝“否则”引出反向后果，此语境专属。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "knowledgePoint": "完形填空·名词辨析（语境照应）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "近义干扰",
+            "cause": "24人选择C——procedure（程序）指办事流程，不与 centers around being outside 搭配；pace of life / connecting to neighbors 都指向“生活方式”。（全班作答 58 人）",
+            "variant": {
+              "stem": "In this company, every _____ follows the same steps: apply, interview, train.",
+              "options": {
+                "A": "procedure",
+                "B": "lifestyle",
+                "C": "personality",
+                "D": "scenery"
+              },
+              "answer": "A",
+              "analysis": "申请-面试-培训是流程＝procedure；lifestyle 指生活方式。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "张冠李戴",
+            "cause": "19人选择D——personality（性格）是个体心理特质，无法被“围绕户外活动”组织起来。（全班作答 58 人）",
+            "variant": {
+              "stem": "Jogging before breakfast is part of his healthy _____.",
+              "options": {
+                "A": "lifestyle",
+                "B": "procedure",
+                "C": "personality",
+                "D": "illusion"
+              },
+              "answer": "A",
+              "analysis": "晨跑习惯＝lifestyle；personality 指性格特征。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "knowledgePoint": "完形填空·动词搭配（trust … to do）",
+        "options": [
+          {
+            "letter": "D",
+            "errorType": "语义反向",
+            "cause": "10人选择D——challenge … to lead（挑战根的引领？）与结尾感恩信赖的基调相反；trust A to B＝相信A会B。（全班作答 58 人）",
+            "variant": {
+              "stem": "Rather than _____ the new guide, the team followed his route with full confidence.",
+              "options": {
+                "A": "trusting",
+                "B": "challenging",
+                "C": "reminding",
+                "D": "praising"
+              },
+              "answer": "B",
+              "analysis": "with full confidence 与 challenge 语义冲突；信赖跟随用 trust。"
+            }
+          },
+          {
+            "letter": "C",
+            "errorType": "搭配混淆",
+            "cause": "8人选择C——remind 不接“sb to lead me”表“提醒引路”，句法与语义双重生硬；trust my roots to lead me＝相信根会引我前行。（全班作答 58 人）",
+            "variant": {
+              "stem": "Please _____ me to call grandma tonight—I always forget.",
+              "options": {
+                "A": "remind",
+                "B": "trust",
+                "C": "thank",
+                "D": "follow"
+              },
+              "answer": "A",
+              "analysis": "remind sb to do 固定搭配；“相信某人会做”才用 trust sb to do。"
+            }
+          }
+        ]
+      }
+    ],
+    "class11": [
+      {
+        "id": 1,
+        "knowledgePoint": "听力理解·身份推断（入职场景）",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "张冠李戴",
+            "cause": "13人选择A——把“领工牌、介绍同事”的入职接待曲解为商务拜访；排除口诀：get your card this afternoon＝人已在办入职手续。（全班作答 57 人）",
+            "variant": {
+              "stem": "W: Welcome aboard! Your desk is by the window. Let me first introduce you to the team.\nQ: What is the relationship between the speakers?",
+              "options": {
+                "A": "Manager and new employee.",
+                "B": "Saleswoman and customer.",
+                "C": "Old school friends."
+              },
+              "answer": "A",
+              "analysis": "张冠李戴——“welcome aboard / introduce to the team”指向入职，不是推销或叙旧。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "近义干扰",
+            "cause": "10人选择B——job applicant（求职者）与 new staff 只差“是否已入职”一步；抓 this afternoon 才发卡，说明手续已办完。（全班作答 57 人）",
+            "variant": {
+              "stem": "M: I handed in my CV last week, and today they told me I could start on Monday.\nQ: What does the man mean?",
+              "options": {
+                "A": "He has got the job.",
+                "B": "He is still waiting for an interview.",
+                "C": "His application was rejected."
+              },
+              "answer": "A",
+              "analysis": "近义干扰——“start on Monday”说明已录用，别停在 applicant 阶段。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "knowledgePoint": "听力理解·说话人观点态度",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "无中生有",
+            "cause": "23人选择A——“有听众来电想听真声”被过度引申为版权/法律纠纷；原文只字未提 legal problems。（全班作答 57 人）",
+            "variant": {
+              "stem": "W: The app is still in its testing stage, but some users are already selling access to it.\nQ: What does the woman imply?",
+              "options": {
+                "A": "The app will soon be free.",
+                "B": "Some users are using the app improperly.",
+                "C": "The company will stop the test."
+              },
+              "answer": "B",
+              "analysis": "无中生有——卖访问权限属违规使用，原文没有“免费”“停产”之意。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "偷换概念",
+            "cause": "5人选择B——300多首AI新歌≠惠及社区；把“任何人可署名使用她的AI声音并分成”偷换成“造福大众”。（全班作答 57 人）",
+            "variant": {
+              "stem": "M: Our school library opens to villagers every weekend.\nQ: What does the man mean?",
+              "options": {
+                "A": "The library only serves students.",
+                "B": "The villagers donated money to the school.",
+                "C": "Local people can share the library's resources."
+              },
+              "answer": "C",
+              "analysis": "偷换概念——开放给村民＝资源共享，不是“村民捐资”。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "knowledgePoint": "阅读C篇·研究结论推断（说明文）",
+        "options": [
+          {
+            "letter": "D",
+            "errorType": "偷换概念",
+            "cause": "35人选择D——研究警示的是 isoprene 与尾气氮氧化物反应生成臭氧、伤及呼吸，并非“吸碳不如预期”；原文明确肯定树木 absorb carbon 的好处。（全班作答 57 人）",
+            "variant": {
+              "stem": "A new study finds that e-scooters cut car trips only slightly, while producing piles of extra battery waste.\nQ: What does the study imply about e-scooters?",
+              "options": {
+                "A": "They reduce pollution greatly.",
+                "B": "Their green label may be misleading.",
+                "C": "Their batteries last shorter than expected."
+              },
+              "answer": "B",
+              "analysis": "偷换概念——“额外电池垃圾”≠“电池不耐用”，可续写句：the green label may be misleading。"
+            }
+          },
+          {
+            "letter": "B",
+            "errorType": "无中生有",
+            "cause": "1人选择B——“影响其他树生长”在原文无据，系把 provide wildlife habitat 的相邻表述拼凑成答案。（全班作答 57 人）",
+            "variant": {
+              "stem": "The report says city foxes dig under garden fences at night.\nQ: What does the report say about foxes?",
+              "options": {
+                "A": "They attack pets at night.",
+                "B": "They enter gardens by digging.",
+                "C": "They carry diseases to cats."
+              },
+              "answer": "B",
+              "analysis": "无中生有——“攻击宠物”“传染疾病”均为拼凑，原文只讲挖洞进园。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "knowledgePoint": "完形填空·抽象名词辨析（首句顿悟）",
+        "options": [
+          {
+            "letter": "B",
+            "errorType": "近义干扰",
+            "cause": "11人选择B——把“幻象”的语感当答案；fantasy 不与 of + 事实性内容搭配，the realization of“意识到……”才接“别人对俄亥俄了解甚少”。（全班作答 57 人）",
+            "variant": {
+              "stem": "The moment I unpacked, I _____ that dorm life was nothing like home.",
+              "options": {
+                "A": "realized",
+                "B": "fantasized",
+                "C": "hesitated",
+                "D": "regretted"
+              },
+              "answer": "A",
+              "analysis": "近义干扰——realize 接事实从句；fantasize 表“空想”，与“顿悟”相反。"
+            }
+          },
+          {
+            "letter": "A",
+            "errorType": "张冠李戴",
+            "cause": "10人选择A——expectation 是动身前的“期待”，本句讲“到校后很快发生”的顿悟，时间与心态都对不上。（全班作答 57 人）",
+            "variant": {
+              "stem": "_____ to see the world, she packed her bags the day after graduation.",
+              "options": {
+                "A": "Determined",
+                "B": "Expected",
+                "C": "Forced",
+                "D": "Allowed"
+              },
+              "answer": "A",
+              "analysis": "张冠李戴——“期待”是他人视角的词，主动决心用 determined。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "knowledgePoint": "完形填空·副词辨析（only/still/even）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "近义干扰",
+            "cause": "25人选择C——still 表“仍然”不置于数词前；本句强调“只有三个半小时”不算远，与下文同学的夸张提问形成反差，只能用 only。（全班作答 57 人）",
+            "variant": {
+              "stem": "_____ ten students signed up, so the trip was called off.",
+              "options": {
+                "A": "Only",
+                "B": "Still",
+                "C": "Even",
+                "D": "Already"
+              },
+              "answer": "A",
+              "analysis": "副词修饰数词表“仅仅”用 only；still/even/already 无此用法。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "逻辑误用",
+            "cause": "10人选择D——even 表递进“甚至”，此处没有递进对象，只有“距离其实很近”的限缩语气。（全班作答 57 人）",
+            "variant": {
+              "stem": "He speaks three foreign languages, and he is _____ learning a fourth.",
+              "options": {
+                "A": "even",
+                "B": "only",
+                "C": "just",
+                "D": "yet"
+              },
+              "answer": "A",
+              "analysis": "递进补充用 even；only 表限缩，与“还在学第四门”的递进语境相反。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "knowledgePoint": "完形填空·形容词辨析与搭配（thankful for）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "搭配误用",
+            "cause": "14人选择C——suitable for 搭配成立但语义不通；“越长大越____故乡情结”是情感词位，下文 grateful 同向印证 thankful。（全班作答 57 人）",
+            "variant": {
+              "stem": "She is deeply _____ to her teachers for their support.",
+              "options": {
+                "A": "thankful",
+                "B": "suitable",
+                "C": "reliable",
+                "D": "familiar"
+              },
+              "answer": "A",
+              "analysis": "thankful to sb for sth 固定搭配；suitable/reliable 不进入该句型。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "形近误用",
+            "cause": "3人选择D——reliable（可靠的）修饰人或物，不能说“我对根可靠”；注意与 relying 拼写邻近的干扰。（全班作答 57 人）",
+            "variant": {
+              "stem": "We need a _____ witness whose account can be trusted.",
+              "options": {
+                "A": "reliable",
+                "B": "thankful",
+                "C": "suitable",
+                "D": "grateful"
+              },
+              "answer": "A",
+              "analysis": "可靠证人＝reliable；thankful/grateful 表感谢，语义不合。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "knowledgePoint": "完形填空·动词辨析与搭配（complain about）",
+        "options": [
+          {
+            "letter": "B",
+            "errorType": "语境曲解",
+            "cause": "20人选择B——lie about how bored（撒谎说无聊）与 loved to（爱做的事）语义拧；两个少年好友爱干的事是“互相吐槽”。（全班作答 57 人）",
+            "variant": {
+              "stem": "Teenagers often _____ to their parents about too much homework.",
+              "options": {
+                "A": "complain",
+                "B": "lie",
+                "C": "hear",
+                "D": "forget"
+              },
+              "answer": "A",
+              "analysis": "complain to sb about sth 固定搭配；lie about 表撒谎，不合语境。"
+            }
+          },
+          {
+            "letter": "A",
+            "errorType": "主客体颠倒",
+            "cause": "8人选择A——hear about（听说）是信息接收方用的词；主人公吐槽自己的生活，输出端用 complain about。（全班作答 57 人）",
+            "variant": {
+              "stem": "I _____ about the traffic jam from my colleague, so I left home earlier.",
+              "options": {
+                "A": "heard",
+                "B": "complained",
+                "C": "dreamed",
+                "D": "cared"
+              },
+              "answer": "A",
+              "analysis": "hear about＝听说（输入信息）；complain about＝抱怨（输出情绪）。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "knowledgePoint": "完形填空·逻辑连接词（转折）",
+        "options": [
+          {
+            "letter": "A",
+            "errorType": "逻辑反向",
+            "cause": "27人选择A——分号前“抱怨无聊”与后“深爱小镇”构成转折；therefore（因此）把逻辑方向接反。（全班作答 57 人）",
+            "variant": {
+              "stem": "The hike was exhausting; _____, every one of us reached the top with a big smile.",
+              "options": {
+                "A": "however",
+                "B": "therefore",
+                "C": "otherwise",
+                "D": "instead"
+              },
+              "answer": "A",
+              "analysis": "前抑后扬用 however；therefore 表因果，与“累却开心”的转折相反。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "语义不合",
+            "cause": "11人选择D——otherwise 表“否则”，需引出相反后果的虚拟语义；此处只是语篇转折。（全班作答 57 人）",
+            "variant": {
+              "stem": "Leave now; _____, you will miss the last bus.",
+              "options": {
+                "A": "otherwise",
+                "B": "however",
+                "C": "therefore",
+                "D": "instead"
+              },
+              "answer": "A",
+              "analysis": "otherwise＝“否则”引出反向后果，此语境专属。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "knowledgePoint": "完形填空·名词辨析（语境照应）",
+        "options": [
+          {
+            "letter": "C",
+            "errorType": "近义干扰",
+            "cause": "28人选择C——procedure（程序）指办事流程，不与 centers around being outside 搭配；pace of life / connecting to neighbors 都指向“生活方式”。（全班作答 57 人）",
+            "variant": {
+              "stem": "In this company, every _____ follows the same steps: apply, interview, train.",
+              "options": {
+                "A": "procedure",
+                "B": "lifestyle",
+                "C": "personality",
+                "D": "scenery"
+              },
+              "answer": "A",
+              "analysis": "申请-面试-培训是流程＝procedure；lifestyle 指生活方式。"
+            }
+          },
+          {
+            "letter": "D",
+            "errorType": "张冠李戴",
+            "cause": "12人选择D——personality（性格）是个体心理特质，无法被“围绕户外活动”组织起来。（全班作答 57 人）",
+            "variant": {
+              "stem": "Jogging before breakfast is part of his healthy _____.",
+              "options": {
+                "A": "lifestyle",
+                "B": "procedure",
+                "C": "personality",
+                "D": "illusion"
+              },
+              "answer": "A",
+              "analysis": "晨跑习惯＝lifestyle；personality 指性格特征。"
+            }
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "knowledgePoint": "完形填空·动词搭配（trust … to do）",
+        "options": [
+          {
+            "letter": "D",
+            "errorType": "语义反向",
+            "cause": "14人选择D——challenge … to lead（挑战根的引领？）与结尾感恩信赖的基调相反；trust A to B＝相信A会B。（全班作答 57 人）",
+            "variant": {
+              "stem": "Rather than _____ the new guide, the team followed his route with full confidence.",
+              "options": {
+                "A": "trusting",
+                "B": "challenging",
+                "C": "reminding",
+                "D": "praising"
+              },
+              "answer": "B",
+              "analysis": "with full confidence 与 challenge 语义冲突；信赖跟随用 trust。"
+            }
+          },
+          {
+            "letter": "C",
+            "errorType": "搭配混淆",
+            "cause": "9人选择C——remind 不接“sb to lead me”表“提醒引路”，句法与语义双重生硬；trust my roots to lead me＝相信根会引我前行。（全班作答 57 人）",
+            "variant": {
+              "stem": "Please _____ me to call grandma tonight—I always forget.",
+              "options": {
+                "A": "remind",
+                "B": "trust",
+                "C": "thank",
+                "D": "follow"
+              },
+              "answer": "A",
+              "analysis": "remind sb to do 固定搭配；“相信某人会做”才用 trust sb to do。"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

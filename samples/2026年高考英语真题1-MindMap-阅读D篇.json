@@ -1,0 +1,521 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 阅读D篇（The Power of Judging Beauty 审美判断的力量）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "说明文（研究报告）",
+     "opts": [
+      "议论文",
+      "说明文（研究报告）",
+      "记叙文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "文本来源 Source",
+     "correctText": "科学新闻报道",
+     "opts": [
+      "科学新闻报道",
+      "美术馆导览手册",
+      "心理学教材",
+      "访谈实录"
+     ]
+    },
+    {
+     "label": "目标读者 Reader",
+     "correctText": "对科学与教育感兴趣的大众",
+     "opts": [
+      "对科学与教育感兴趣的大众",
+      "陶艺工匠",
+      "临考学生",
+      "美术馆策展人"
+     ]
+    }
+   ],
+   "hints": [
+    "实验、分组、百分比数据——这是在报道什么？",
+    "作者是研究者本人还是转述研究的记者？",
+    "审美与认知的关系对谁最有启发？"
+   ],
+   "why": [
+    "实验报告式结构+数据引用，是科学新闻的说明文。",
+    "全文转述 Cambridge 团队的研究，非研究者自述。",
+    "少屏幕、多审美的结论面向公众与教育者。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与社会",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "艺术欣赏与认知测试——研究落在哪个交叉领域？",
+     "why": "艺术审美与科学认知的交汇，属人与社会的文学艺术主题。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "艺术与认知研究",
+     "groups": {
+      "人与社会": [
+       "艺术与认知研究",
+       "公共健康",
+       "传媒与网络"
+      ],
+      "人与自我": [
+       "审美体验与成长",
+       "学习方法"
+      ],
+      "人与自然": [
+       "博物馆与环境",
+       "材料与工艺"
+      ]
+     },
+     "hint": "看展时'评判美'竟然改变了思维方式——主题是哪个？",
+     "why": "实验对象是审美判断，测量的是认知改变。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "主动欣赏艺术之美能促进抽象思维",
+     "opts": [
+      {
+       "text": "主动欣赏艺术之美能促进抽象思维",
+       "err": null
+      },
+      {
+       "text": "看艺术展能让人更快乐",
+       "err": "曲解文意（快乐感并未更高）"
+      },
+      {
+       "text": "陶艺比绘画更有审美价值",
+       "err": "无中生有"
+      },
+      {
+       "text": "抽象思维决定艺术天赋",
+       "err": "因果颠倒"
+      }
+     ],
+     "hint": "14% 和 25% 两组数字共同指向什么能力？",
+     "why": "abstract thinking 的提升是两组数据的公约数。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "objective 客观中立",
+     "opts": [
+      "objective 客观中立",
+      "cautionary 理性提醒",
+      "critical 批判否定",
+      "indifferent 冷漠无关",
+      "optimistic 乐观积极",
+      "skeptical 怀疑质疑",
+      "enthusiastic 热情推崇",
+      "defensive 辩护维护"
+     ],
+     "hint": "研究者对结论的表述是断言还是留有余地（may be the ideal way）？",
+     "why": "数据陈述+may be 的措辞，保持研究报告的客观分寸。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "研究引入：问题与团队",
+     "opts": [
+      "研究引入：问题与团队",
+      "方法设计：分组与任务",
+      "核心发现：两组数据",
+      "机制辨析：情感对照",
+      "意义引申：研究者解读"
+     ],
+     "hint": "Cambridge 心理学家想比较的是什么？",
+     "why": "首段提出研究问题：只'看'与主动'判美'对认知的影响有何不同。"
+    },
+    {
+     "para": 2,
+     "correctText": "方法设计：分组与任务",
+     "opts": [
+      "研究引入：问题与团队",
+      "方法设计：分组与任务",
+      "核心发现：两组数据",
+      "机制辨析：情感对照",
+      "意义引申：研究者解读"
+     ],
+     "hint": "187人如何被分成两组？两组的任务差在哪里？",
+     "why": "randomly divided + 两组任务对照，是实验设计的骨架。"
+    },
+    {
+     "para": 3,
+     "correctText": "核心发现：两组数据",
+     "opts": [
+      "研究引入：问题与团队",
+      "方法设计：分组与任务",
+      "核心发现：两组数据",
+      "机制辨析：情感对照",
+      "意义引申：研究者解读"
+     ],
+     "hint": "14% 与 25% 分别说明了什么？",
+     "why": "整体差14%；有艺术爱好者中差25%——主效应+调节效应。"
+    },
+    {
+     "para": 4,
+     "correctText": "机制辨析：情感对照",
+     "opts": [
+      "研究引入：问题与团队",
+      "方法设计：分组与任务",
+      "核心发现：两组数据",
+      "机制辨析：情感对照",
+      "意义引申：研究者解读"
+     ],
+     "hint": "审美组'自我超越感'更高但'并不更快乐'——这个对照排除了什么解释？",
+     "why": "排除'单纯积极情绪'的替代解释，锁定'美的投入'本身。"
+    },
+    {
+     "para": 5,
+     "correctText": "意义引申：研究者解读",
+     "opts": [
+      "研究引入：问题与团队",
+      "方法设计：分组与任务",
+      "核心发现：两组数据",
+      "机制辨析：情感对照",
+      "意义引申：研究者解读"
+     ],
+     "hint": "Schnall 把屏幕思维与走神神游对比，想说明什么？",
+     "why": "借研究者之口把实验结论引申到数字生活方式。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "Cambridge psychologists ran an experiment comparing merely seeing art with actively judging its beauty."
+    },
+    {
+     "para": 2,
+     "summary": "187 visitors were split into a beauty-rating group and a control group, then tested on practical vs abstract thinking."
+    },
+    {
+     "para": 3,
+     "summary": "The beauty group scored 14% higher overall in abstract thinking, and 25% higher among artistic-hobby holders."
+    },
+    {
+     "para": 4,
+     "summary": "Beauty-group visitors reported more self-transcendent feelings but not more happiness, isolating beauty as the cause."
+    },
+    {
+     "para": 5,
+     "summary": "Schnall suggests that admiring beauty may be an ideal way to trigger abstract thinking rarely exercised on screens."
+    }
+   ],
+   "trace": [
+    {
+     "q": 32,
+     "type": "细节理解·实验任务",
+     "stem": "What was the beauty group asked to do with the clay objects?",
+     "correctText": "P2 · 主动评判并给每件作品的美打分",
+     "opts": [
+      "P2 · 评判并给美打分",
+      "P2 · 画出轮廓",
+      "P2 · 比较价格",
+      "P2 · 复制每件作品"
+     ],
+     "correctQuote": "then rate the beauty of each object they viewed",
+     "hint": "beauty 组比 control 组多做的那件事是什么？",
+     "why": "rate the beauty＝给美评级（B）；Draw outlines 是 control 组的线条匹配任务的混淆项。"
+    },
+    {
+     "q": 33,
+     "type": "数据比较",
+     "stem": "Which participants got the highest score on average in the test?",
+     "correctText": "P3 · 有艺术爱好的审美组（高出25%）",
+     "opts": [
+      "P3 · 审美组且有艺术爱好",
+      "P3 · 审美组无艺术爱好",
+      "P3 · 对照组且有艺术爱好",
+      "P3 · 对照组无艺术爱好"
+     ],
+     "correctQuote": "those with an artistic hobby in the beauty group scored over 25% higher on average for abstract thinking than those with an artistic hobby in the control group.",
+     "hint": "25% 这个最大差值出现在哪两组之间？",
+     "why": "over 25% higher 限定 beauty×artistic-hobby 组最高——A。"
+    },
+    {
+     "q": 34,
+     "type": "实验目的推断",
+     "stem": "Why were the participants' emotional states measured?",
+     "correctText": "P4 · 排除情绪替代解释，锁定真正因素",
+     "opts": [
+      "P4 · 发现其对艺术的态度",
+      "P4 · 判断思维方式类型",
+      "P4 · 检验任务难度",
+      "P4 · 确定结果背后的因素"
+     ],
+     "correctQuote": "rather than any overall positivity from the experience.",
+     "hint": "如果审美组只是'更开心'才得分高，实验还成立吗？测量情绪是为了排除什么？",
+     "why": "测情绪是为排除'快乐驱使'的替代解释，确定结果背后的真实因素（D）。"
+    },
+    {
+     "q": 35,
+     "type": "主旨结论",
+     "stem": "What is the major finding of the study regarding the appreciation of art?",
+     "correctText": "P5 · 审美欣赏激发抽象思维",
+     "opts": [
+      "P5 · 激发抽象认知过程",
+      "P4 · 增进情感联结",
+      "P4 · 需要批判性思维",
+      "P4 · 带来积极情绪"
+     ],
+     "correctQuote": "Admiring the beauty of art may be the ideal way to initiate the abstract cognitive processes.",
+     "hint": "结论句里 initiate 的宾语是什么？",
+     "why": "核心变量是 abstract thinking（D）；'更快乐'被 P4 明确排除。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "说明方法",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "提出研究问题后，接着展示的是实验的什么？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "causality",
+     "hint": "分组设置与随后两组数据的差值是什么关系？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "progression",
+     "hint": "主发现之后，研究还要排除哪类替代解释？"
+    },
+    {
+     "from": 4,
+     "to": 5,
+     "answer": "progression",
+     "hint": "机制厘清后，研究者把结论引向了哪种生活方式的讨论？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 2,
+     "type": "指代",
+     "correctText": "they = Participants（受试者）",
+     "item": "how they process information",
+     "opts": [
+      "陶艺作品",
+      "受试者",
+      "心理学家",
+      "线条画"
+     ],
+     "hint": "tested on how they process information——被测的是谁的信息处理方式？",
+     "why": "they 回指 All participants，代词向最近复数先行词取值。"
+    },
+    {
+     "para": 4,
+     "type": "连接词",
+     "correctText": "Importantly, however 双重强调转折",
+     "item": "Importantly, however, the beauty group did not report feeling any happier",
+     "opts": [
+      "让步转折并强调",
+      "因果递进",
+      "举例列举",
+      "总结收束"
+     ],
+     "hint": "Importantly 与 however 叠用，作者要读者特别注意到哪个反差？",
+     "why": "'超越感更高但快乐不更高'——转折锁定美的专效性。"
+    },
+    {
+     "para": 3,
+     "type": "词汇链",
+     "correctText": "scored / higher / average / abstract thinking 数据链",
+     "item": "scored almost 14% higher on average than the control group in abstract thinking",
+     "opts": [
+      "实验数据比较链",
+      "旅行行程链",
+      "艺术流派链",
+      "陶艺制作链"
+     ],
+     "hint": "scored/higher/average 组成了什么性质的语义场？",
+     "why": "数据比较词汇链是研究报告的语篇标识。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 3,
+     "correctText": "列数字+作比较",
+     "opts": [
+      "列数字+作比较",
+      "下定义",
+      "分类别",
+      "打比方"
+     ],
+     "hint": "14%、25% 以及 beauty/control 两组的反复对举，用了哪两种方法？",
+     "why": "数字与对照是实验说明的双引擎。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "被动语态 + 过去分词",
+     "para": 2,
+     "sen": "Participants were randomly divided into two groups: the “beauty” group was asked to actively consider and then rate the beauty of each object they viewed",
+     "ana": "were divided / was asked 双被动交代实验流程；they viewed 过去分词短语修饰 object。"
+    },
+    {
+     "kind": "比较结构 + 状语密集",
+     "para": 3,
+     "sen": "those in the beauty group scored almost 14% higher on average than the control group in abstract thinking",
+     "ana": "those in... 泛指替代 + almost 14% higher...than... 比较框架 + in abstract thinking 限定维度——数据句模板。"
+    },
+    {
+     "kind": "形式主语 + 表语从句",
+     "para": 5,
+     "sen": "It's becoming much rarer to zone out and just let the mind wander, but that's when we think in ways that broaden our minds.",
+     "ana": "It 形式主语；that's when 引导表语从句；in ways that... 定语从句嵌套——收束句兼有哲思。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "对照",
+     "para": 4,
+     "sen": "the beauty group did not report feeling any happier than the control group",
+     "ana": "以'快乐未增'反衬'超越感提升'——用对照锁定因果专属。"
+    },
+    {
+     "kind": "引用",
+     "para": 5,
+     "sen": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
+     "ana": "援引第一作者的话引申结论，并自然带出屏幕生活的现实关切。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "话题词汇",
+     "en": "abstract thinking",
+     "zh": "抽象思维",
+     "usage": "认知/教育类读写"
+    },
+    {
+     "type": "话题词汇",
+     "en": "cognitive processes",
+     "zh": "认知过程",
+     "usage": "心理学话题"
+    },
+    {
+     "type": "话题词汇",
+     "en": "control group",
+     "zh": "对照组",
+     "usage": "实验说明必备"
+    },
+    {
+     "type": "高分短语",
+     "en": "zone out",
+     "zh": "走神；放空",
+     "usage": "描述精神状态"
+    },
+    {
+     "type": "高分短语",
+     "en": "self-transcendent feelings",
+     "zh": "自我超越感",
+     "usage": "情感描写升级表达"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "报道一项证明'主动审美促进抽象思维'的实验",
+     "opts": [
+      "报道一项证明'主动审美促进抽象思维'的实验",
+      "推广Kettle's Yard美术馆",
+      "批评屏幕对思维的伤害",
+      "指导陶艺创作"
+     ],
+     "hint": "实验、数据、机制、引申——文章的主轴是哪项研究？",
+     "why": "全文以研究为骨架，写作目的是科学传播。"
+    },
+    {
+     "label": "B · 研究设计亮点",
+     "correctText": "随机分组对照+多轮测量",
+     "opts": [
+      "随机分组对照+多轮测量",
+      "单一组自我对比",
+      "长期追踪十年",
+      "纯问卷访谈"
+     ],
+     "hint": "randomly divided 和 beauty/control 双组设计保证了什么？",
+     "why": "随机+对照是因果推断的方法论根基。"
+    },
+    {
+     "label": "C · 数据的作用",
+     "correctText": "量化审美组在抽象思维上的优势并排除快乐解释",
+     "opts": [
+      "量化审美组在抽象思维上的优势并排除快乐解释",
+      "证明陶艺展人气很高",
+      "说明艺术爱好可以培养",
+      "比较两所大学的水平"
+     ],
+     "hint": "14%/25%/23% 三组数据各负责论证哪一步？",
+     "why": "主效应→调节效应→排除替代解释，数据链完整。"
+    },
+    {
+     "label": "D · 读者启示",
+     "correctText": "少刷屏幕，多走进美术馆主动审美",
+     "opts": [
+      "少刷屏幕，多走进美术馆主动审美",
+      "练习给陶艺品估价",
+      "培养抽象思维应放弃具体思考",
+      "研究者应少做实验多思考"
+     ],
+     "hint": "Schnall 把屏幕思维与 mind wander 对比，给读者的行动提示是什么？",
+     "why": "研究引申到生活方式——行动建议呼之欲出。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "abstract thinking",
+     "def": "抽象思维——超越具体事物的概念化思考"
+    },
+    {
+     "term": "control group",
+     "def": "对照组——接受基线任务以供比较的小组"
+    },
+    {
+     "term": "self-transcendent",
+     "def": "自我超越的——超出个人利害的情绪体验（如感动、顿悟）"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "研究引入",
+   "2": "方法设计",
+   "3": "核心发现",
+   "4": "机制辨析",
+   "5": "意义引申"
+  },
+  "paraBriefs": {
+   "1": "Question & Cambridge team",
+   "2": "187 visitors, two groups",
+   "3": "14% / 25% gains",
+   "4": "Not happiness but beauty",
+   "5": "Screens vs mind-wandering"
+  }
+ }
+}

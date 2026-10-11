@@ -137,6 +137,10 @@ python -m http.server 8766 --bind 127.0.0.1
 
 > 🎁 **30 秒看满数据效果**：启动后点右上角 **⚙ → Import Backup**，选择 [`docs/演示备份-知明.json`](docs/演示备份-知明.json)，即可加载一个完整的虚构班级（16 名学生、67 题、含各板块演示数据）。*演示姓名均为虚构。*
 
+### 🧪 完整样本数据
+
+[`samples/`](samples/) 内置一套**真实讲评流程的完整样本**（2026 高考英语真题 I 卷）：试卷与答案 PDF/DOCX、听力音频、两个班 116 名学生的答题明细 Excel、以及全部板块的 AI 分析 JSON（含合并包与错题包）。**所有姓名与准考证号均经脚本自动脱敏为虚构**，可放心用于体验、教学与二次开发——逐步导入指引见 [`samples/README.md`](samples/README.md)。
+
 浏览器要求：Chrome / Edge（推荐）/ Firefox / Safari。更新页面后请 **Ctrl+Shift+R** 强制刷新。
 
 ## 🔒 数据安全与隐私
@@ -158,6 +162,7 @@ AIkoko/
 ├── extension-高考真题.json  # 博见真题拓展包（板块内导入）
 ├── libs/                   # 离线第三方库（xlsx / fabric / pdf.js + 中文 cmaps / jszip ...）
 ├── skills/                 # 10 个 AI 备课技能（提示词工程 + JSON Schema + 示例）
+├── samples/                # 完整样本数据（真题卷×PDF/音频/明细表/全板块JSON，已脱敏）
 ├── docs/
 │   ├── 开发纪要.md          # 架构决策、踩坑实录、修改守则
 │   ├── 演示备份-知明.json   # 一键导入的虚构演示数据

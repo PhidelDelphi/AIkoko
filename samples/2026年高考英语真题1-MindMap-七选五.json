@@ -1,0 +1,536 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 七选五（AI Redefines Museums AI重塑博物馆）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "说明文",
+     "opts": [
+      "记叙文",
+      "说明文",
+      "议论文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "空格分布 Blank Spots",
+     "correctText": "段尾1处（36），段中4处（37-40）",
+     "opts": [
+      "段首2处，段中3处",
+      "段尾1处，段中4处",
+      "段中5处",
+      "段首1处，段尾4处"
+     ]
+    },
+    {
+     "label": "语篇结构 Structure",
+     "correctText": "总起+四方面+展望",
+     "opts": [
+      "总起+四方面+展望",
+      "时间顺序叙事",
+      "正反对比论证",
+      "问题—解决单一主线"
+     ]
+    }
+   ],
+   "hints": [
+    "五个空有四个藏在段落中间，这意味着它们更像'承上启下的桥'还是'段首主题句'？",
+    "36空前的排比（creating/protecting/revealing）需要一个总括句还是细节句？",
+    "末段 Looking ahead 预示了什么走向？"
+   ],
+   "why": [
+    "列举三个动名词短语后接总括句，是七选五的典型'段尾总结'设计。",
+    "段中空承上启下，前后两句都要读。",
+    "总-分-总结构：首段总起，中段分说，末段展望收束。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与社会",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "博物馆、观众、政策——科技应用落在哪个主题群？",
+     "why": "AI技术在社会文化机构的应用，属人与社会。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "AI与博物馆",
+     "groups": {
+      "人与社会": [
+       "AI与博物馆",
+       "数字技术与教育",
+       "算法伦理"
+      ],
+      "人与自我": [
+       "个人观展体验",
+       "职业选择"
+      ],
+      "人与自然": [
+       "文物保护与环境",
+       "建筑材料"
+      ]
+     },
+     "hint": "recommendation engines、digital assistants、preservation——故事发生地是哪里？",
+     "why": "全部细节锚定在博物馆场景。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "AI正在多方面重塑博物馆并带来新挑战",
+     "opts": [
+      {
+       "text": "AI正在多方面重塑博物馆并带来新挑战",
+       "err": null
+      },
+      {
+       "text": "AI将取代博物馆讲解员",
+       "err": "以偏概全（只是一方面）"
+      },
+      {
+       "text": "博物馆应拒绝使用AI",
+       "err": "反向设置"
+      },
+      {
+       "text": "博物馆收藏因AI而贬值",
+       "err": "无中生有"
+      }
+     ],
+     "hint": "In short 之后的那句话是不是全文的总括？",
+     "why": "C 项 in all respects 总揽个性化、保护、教育、伦理四个方面。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "objective 客观中立",
+     "opts": [
+      "objective 客观中立",
+      "cautionary 理性提醒",
+      "critical 批判否定",
+      "indifferent 冷漠无关",
+      "optimistic 乐观积极",
+      "skeptical 怀疑质疑",
+      "enthusiastic 热情推崇",
+      "defensive 辩护维护"
+     ],
+     "hint": "既讲exciting possibilities又讲ethical challenges，作者站队了吗？",
+     "why": "机遇与挑战并陈，是客观平衡的说明口吻。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "总起：博物馆的数字化转变",
+     "opts": [
+      "总起：博物馆的数字化转变",
+      "分说1：个性化参观",
+      "分说2：保护修复",
+      "分说3：教育价值",
+      "分说4：伦理与展望"
+     ],
+     "hint": "首段的三个动名词短语是不是后文四个方面的预告？",
+     "why": "creating journeys（P2）/ protecting collections（P3）/ revealing stories（P4）——总起句地图。"
+    },
+    {
+     "para": 2,
+     "correctText": "分说1：个性化参观",
+     "opts": [
+      "总起：博物馆的数字化转变",
+      "分说1：个性化参观",
+      "分说2：保护修复",
+      "分说3：教育价值",
+      "分说4：伦理与展望"
+     ],
+     "hint": "recommendation engines 和 digital assistants 服务于观展的哪个环节？",
+     "why": "围绕参观体验的个性化与互动性展开。"
+    },
+    {
+     "para": 3,
+     "correctText": "分说2：保护修复",
+     "opts": [
+      "总起：博物馆的数字化转变",
+      "分说1：个性化参观",
+      "分说2：保护修复",
+      "分说3：教育价值",
+      "分说4：伦理与展望"
+     ],
+     "hint": "decay、restoration、preventive measures 构成了哪个功能场景？",
+     "why": "AI检测破损并预测衰减，服务文物保护。"
+    },
+    {
+     "para": 4,
+     "correctText": "分说3：教育价值",
+     "opts": [
+      "总起：博物馆的数字化转变",
+      "分说1：个性化参观",
+      "分说2：保护修复",
+      "分说3：教育价值",
+      "分说4：伦理与展望"
+     ],
+     "hint": "adjust content and difficulty——AI在教育上的关键能力是什么？",
+     "why": "自适应调整让复杂历史概念适合孩子。"
+    },
+    {
+     "para": 5,
+     "correctText": "分说4：伦理与展望",
+     "opts": [
+      "总起：博物馆的数字化转变",
+      "分说1：个性化参观",
+      "分说2：保护修复",
+      "分说3：教育价值",
+      "分说4：伦理与展望"
+     ],
+     "hint": "ethicists、privacy、strict policies——末段的态度是只唱赞歌吗？",
+     "why": "展望中带伦理审视，客观平衡。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "AI is transforming museums from quiet storehouses into interactive, well-protected spaces (blank 36: overall statement)."
+    },
+    {
+     "para": 2,
+     "summary": "AI personalizes visits via recommendations and virtual guides (blank 37: introduces the guides)."
+    },
+    {
+     "para": 3,
+     "summary": "AI detects decay early and predicts patterns for preservation (blank 38: the benefit of detection)."
+    },
+    {
+     "para": 4,
+     "summary": "AI tailors museum learning for children and families (blank 39: states the tailoring function)."
+    },
+    {
+     "para": 5,
+     "summary": "AI brings both promise and ethical challenges; privacy policies are needed (blank 40: raises the privacy issue)."
+    }
+   ],
+   "trace": [
+    {
+     "q": 36,
+     "type": "段尾总结",
+     "stem": "…these institutions are creating personalized visitor journeys, protecting delicate collections, and revealing hidden stories. _____36_____",
+     "correctText": "C · In short, AI is redefining the museum in all respects.",
+     "opts": [
+      "C · In short 总括三方面",
+      "F · Furthermore 引出讲解员",
+      "G · image recognition 承接上句",
+      "B · privacy issues 展望伦理"
+     ],
+     "correctQuote": "protecting delicate collections, and revealing hidden stories",
+     "hint": "空前的三个并列短语需要一个总括句还是新话题？",
+     "why": "creating/protecting/revealing 三方面被 C 的 in all respects 一网打尽；段尾位置+In short 双重印证。"
+    },
+    {
+     "q": 37,
+     "type": "代词衔接",
+     "stem": "Smart recommendation engines analyze data … to suggest specific exhibits and events, making each visit unique and surprising. _____37_____ These digital assistants engage visitors in dynamic conversations",
+     "correctText": "F · Furthermore, AI-powered virtual guides are replacing traditional tour guides.",
+     "opts": [
+      "F · virtual guides→These digital assistants",
+      "D · It tailors→These assistants",
+      "B · privacy→These assistants",
+      "A · capability→These assistants"
+     ],
+     "correctQuote": "These digital assistants engage visitors in dynamic conversations and offer context-sensitive insights that",
+     "hint": "These digital assistants 的先行内容必须在空格处出现——哪个选项引入了'虚拟讲解员'？",
+     "why": "F 的 virtual guides 被 These digital assistants 复指；Furthermore 与前句递进。"
+    },
+    {
+     "q": 38,
+     "type": "指代+因果衔接",
+     "stem": "AI can help identify the slightest signs of decay, such as cracks or discoloration, which are often invisible to the human eye. _____38_____ Moreover, by predicting future decay patterns, AI helps museums take preventive measures",
+     "correctText": "A · This capability allows for timely restoration.",
+     "opts": [
+      "A · This capability=早期识别能力",
+      "E · store and learn 承接",
+      "G · image recognition 复现",
+      "D · tailors learning 偏教育"
+     ],
+     "correctQuote": "AI can help identify the slightest signs of decay, such as cracks or discoloration, which are often invisible to the",
+     "hint": "This capability 指代的是什么能力？及时修复（timely restoration）依赖哪个前提？",
+     "why": "识别细微破损的能力→及时修复；Moreover 递进到预测，A 承接自然。"
+    },
+    {
+     "q": 39,
+     "type": "指代+例证关系",
+     "stem": "AI also significantly enhances the educational value of museums, particularly for children and families. _____39_____ For instance, interactive exhibits powered by AI can adjust their content and difficulty level based on the user's preferences and responses.",
+     "correctText": "D · It tailors learning experiences to different age groups and learning styles.",
+     "opts": [
+      "D · tailors→For instance adjust",
+      "E · spaces for learning→For instance",
+      "A · timely restoration→For instance",
+      "C · In short→For instance"
+     ],
+     "correctQuote": "interactive exhibits powered by AI can adjust their content and",
+     "hint": "For instance 后的 adjust content and difficulty 是在举例说明哪个概括？",
+     "why": "D 的 tailors learning experiences 与 adjust content/difficulty 构成概括-例证；It 指 AI。"
+    },
+    {
+     "q": 40,
+     "type": "话题衔接",
+     "stem": "Museums are working together with AI ethicists to develop fair algorithms. _____40_____ Strict policies should be established to protect visitors' information.",
+     "correctText": "B · Visitor data collection also raises privacy issues.",
+     "opts": [
+      "B · privacy→protect information",
+      "C · In short→policies",
+      "F · virtual guides→policies",
+      "G · image recognition→information"
+     ],
+     "correctQuote": "Strict policies should be established to protect visitors’ information.",
+     "hint": "protect visitors' information 防的正是空格处提出的什么问题？",
+     "why": "B 提出隐私问题，后句给对策——问题→解决的衔接链。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "衔接策略",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "总起之后进入第一个分说方面，逻辑是并列还是递进？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "parallel",
+     "hint": "个性化参观与保护修复是同一层面的两个方面吗？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "parallel",
+     "hint": "保护与教育也是并列的功能维度吗？"
+    },
+    {
+     "from": 4,
+     "to": 5,
+     "answer": "progression",
+     "hint": "从功能介绍推进到伦理挑战，讨论是不是更深了一层？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 2,
+     "type": "指代",
+     "correctText": "These digital assistants = AI-powered virtual guides",
+     "item": "These digital assistants engage visitors in dynamic conversations",
+     "opts": [
+      "虚拟讲解员",
+      "推荐引擎",
+      "智能展柜",
+      "人类讲解员"
+     ],
+     "hint": "These 复指的名词必须在上文出现过——是哪一个？",
+     "why": "37空 F 引入 virtual guides，These digital assistants 复指之——选句需与下句构成指代链。"
+    },
+    {
+     "para": 3,
+     "type": "词汇复现",
+     "correctText": "decay → timely restoration",
+     "item": "early detection is vital … This capability allows for timely restoration",
+     "opts": [
+      "检测能力→及时修复",
+      "推荐→个性化",
+      "教育→适应",
+      "算法→公平"
+     ],
+     "hint": "capability 复现的是前句哪种能力的名词化？",
+     "why": "detection 的能力直接支持 restoration 的及时性——同现因果链。"
+    },
+    {
+     "para": 5,
+     "type": "逻辑连接词",
+     "correctText": "Looking ahead / also / In short 类路标词",
+     "item": "Looking ahead, the rapid advancement of AI promises both exciting possibilities and ethical challenges",
+     "opts": [
+      "展望收束",
+      "举例引入",
+      "让步转折",
+      "因果总结"
+     ],
+     "hint": "末段开头的 Looking ahead 起什么作用？",
+     "why": "时间路标词把语篇从'现状分说'切换到'未来展望'。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 1,
+     "correctText": "总起概括",
+     "opts": [
+      "总起概括",
+      "设问引入",
+      "引用开篇",
+      "场景描写"
+     ],
+     "hint": "首段的排比与 In short 的总括句构成什么结构？",
+     "why": "总分总的'总'靠段尾总括句实现。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "含空关键句（段尾总结位）",
+     "para": 1,
+     "sen": "By using machine learning and advanced algorithms (算法), these institutions are creating personalized visitor journeys, protecting delicate collections, and revealing hidden stories.",
+     "ana": "By using 方式状语 + 三个动名词并列——空格处应填总括句（C 的 in all respects 与之呼应）。"
+    },
+    {
+     "kind": "含空关键句（例证位）",
+     "para": 4,
+     "sen": "For instance, interactive exhibits powered by AI can adjust their content and difficulty level based on the user's preferences and responses.",
+     "ana": "For instance 说明前句必为概括句；powered by AI 后置定语 + based on 状语——例证句式模板。"
+    },
+    {
+     "kind": "含空关键句（问题-对策位）",
+     "para": 5,
+     "sen": "Strict policies should be established to protect visitors' information.",
+     "ana": "should be established 被动建议句型；前句（40空）须提出问题（privacy issues）才能对接本句对策。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "指代:These digital assistants",
+     "para": 2,
+     "sen": "These digital assistants engage visitors in dynamic conversations and offer context-sensitive insights that deepen understanding and satisfy curiosity.",
+     "ana": "These+复数名词强指代——回锁 37 空 virtual guides，是选题的关键证据。"
+    },
+    {
+     "kind": "指代:This capability",
+     "para": 3,
+     "sen": "This capability allows for timely restoration.",
+     "ana": "This+单数名词回指'识别细微破损的能力'——单复数差异（These/This）是区分 37/38 选项的暗线。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "衔接语料",
+     "en": "In short",
+     "zh": "简言之（总结）",
+     "usage": "段尾概括三个以上并列要点"
+    },
+    {
+     "type": "衔接语料",
+     "en": "Furthermore / Moreover",
+     "zh": "此外；而且（递进）",
+     "usage": "同一段内补充新例"
+    },
+    {
+     "type": "衔接语料",
+     "en": "For instance",
+     "zh": "例如（举例）",
+     "usage": "概括句之后引出例证"
+    },
+    {
+     "type": "衔接语料",
+     "en": "This/These + 名词",
+     "zh": "指代上文的单复数事物",
+     "usage": "七选五强指代定位"
+    },
+    {
+     "type": "话题词汇",
+     "en": "context-sensitive insights",
+     "zh": "情境化洞见",
+     "usage": "科技应用描写"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "介绍 AI 给博物馆带来的多方面变革与挑战",
+     "opts": [
+      "介绍 AI 给博物馆带来的多方面变革与挑战",
+      "劝阻博物馆使用 AI",
+      "推销一款导览App",
+      "比较中外博物馆差异"
+     ],
+     "hint": "四个分说方面加一个展望，作者的介绍是全面盘点还是单点推销？",
+     "why": "总-分-总结构与平衡口吻说明是全景式介绍。"
+    },
+    {
+     "label": "B · 衔接策略",
+     "correctText": "指代词+复现词双链定位",
+     "opts": [
+      "指代词+复现词双链定位",
+      "只看空格前后第一句",
+      "凭选项长短猜测",
+      "按选项字母顺序代入"
+     ],
+     "hint": "These/This/It 这类词对解题起了什么作用？",
+     "why": "代词强指代+词汇复现是七选五最可靠的双重定位器。"
+    },
+    {
+     "label": "C · 最强支撑",
+     "correctText": "36 空 In short 对三个排比的总括",
+     "opts": [
+      "36 空 In short 对三个排比的总括",
+      "38 空 This capability 的指代",
+      "39 空 For instance 的例证",
+      "40 空 Strict policies 的对策"
+     ],
+     "hint": "哪个空的解题证据链最长（排比+总括词+位置）？",
+     "why": "36 空集齐段尾位、总括词、三对一概括三重证据。"
+    },
+    {
+     "label": "D · 读者启示",
+     "correctText": "技术带来的便利与伦理需要同步审视",
+     "opts": [
+      "技术带来的便利与伦理需要同步审视",
+      "AI终将取代人类讲解员",
+      "博物馆只应关注收藏",
+      "隐私政策与观众无关"
+     ],
+     "hint": "末段把 possibilities 和 challenges 并置，想提醒读者什么？",
+     "why": "双面并陈是本文的价值取向——科技向善需制度护航。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "algorithm",
+     "def": "算法——机器学习的计算规则"
+    },
+    {
+     "term": "personalized experience",
+     "def": "个性化体验——依用户数据定制的服务"
+    },
+    {
+     "term": "ethical challenges",
+     "def": "伦理挑战——技术应用的公平与隐私问题"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "总起",
+   "2": "个性化参观",
+   "3": "保护修复",
+   "4": "教育价值",
+   "5": "伦理展望"
+  },
+  "paraBriefs": {
+   "1": "AI transforms museums (blank 36)",
+   "2": "Personalized visits + guides (blank 37)",
+   "3": "Preservation via AI (blank 38)",
+   "4": "Learning tailored by AI (blank 39)",
+   "5": "Ethics & policies (blank 40)"
+  }
+ }
+}

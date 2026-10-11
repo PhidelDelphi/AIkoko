@@ -1,0 +1,582 @@
+{
+  "id": "art-20261011-college-essentials",
+  "title": "Ranking My College Life Essentials · 大学生活三优先",
+  "source": "2026年高考英语真题1 · 应用文",
+  "type": "practical",
+  "hw": "2026年高考英语真题1",
+  "stepsMeta": [
+    "① 审题拆解",
+    "② 定位基调",
+    "③ 谋篇布局",
+    "④ 建构要点",
+    "⑤ 反馈问题",
+    "⑥ 输入语料",
+    "⑦ 评价升格",
+    "⑧ 共赏佳作"
+  ],
+  "rowLabels": [
+    "题干信息",
+    "隐含要求",
+    "易错预警"
+  ],
+  "fuLabels": [
+    "台阶",
+    "示范"
+  ],
+  "story": [
+    "你校英文报“Opinion”栏目正在征稿，请同学们对未来大学生活中的学习(Study)、社交(Socialize)和睡眠(Sleep)这三件事按重要性进行排序，并阐述理由。",
+    "请你写一篇短文向该栏目投稿。",
+    "注意：",
+    "(1)写作词数应为80左右。",
+    "(2)请按如下格式在答题纸的相应位置作答。",
+    "Ranking My College Life Essentials"
+  ],
+  "openers": [],
+  "step1": [
+    {
+      "paras": "Who am I?",
+      "main": "校英文报“Opinion”栏目投稿人——一名展望大学生活的学生。",
+      "implied": "投稿＝公开发表，读者是全校同学；不是写信，没有称呼语和落款。",
+      "feelings": "写成 Dear Editor…Yours 书信格式——栏目投稿只需标题＋正文。"
+    },
+    {
+      "paras": "To whom?",
+      "main": "全校同学（Opinion 栏目的读者）。",
+      "implied": "同龄人视角：语言平视、清晰自然，可以有个性，不必客套。",
+      "feelings": "自封头衔或以“学生会”名义说话——学生投稿无需身份包装。"
+    },
+    {
+      "paras": "What?",
+      "main": "把 Study / Socialize / Sleep 三件事按重要性排序，并阐述理由。",
+      "implied": "排序本身是第一任务（先后合理即可）；理由要和排序严格呼应，≥2条。",
+      "feelings": "三件事都夸重要却给不出先后——无排序＝任务缺失。"
+    },
+    {
+      "paras": "Where?",
+      "main": "校英文报 Opinion 栏目。",
+      "implied": "观点类栏目期待“观点鲜明＋论证简洁”，结尾可加一句共鸣或号召。",
+      "feelings": "写成通知或活动安排——征稿投稿是观点短文，不是通知。"
+    },
+    {
+      "paras": "Why?",
+      "main": "引导同学思考如何平衡大学三件大事。",
+      "implied": "理由要落到成长层面（认知/职业/人际/健康），不能停在口号。",
+      "feelings": "只写“学习很重要”——理由不登梯，⑤“内容宽泛空洞”的病根。"
+    },
+    {
+      "paras": "★ 任务卡合成",
+      "card": "一篇 80 词左右的 Opinion 栏目投稿：亮出三件事排序 → 用两三层理由支撑第一优先 → 一句升华收束。",
+      "tag": "［平视（同龄读者） · 理性带温度 · 联结配方：契合＋感情 · 时态：将来展望＋现在论证］",
+      "hint": "动笔前默念一遍——排序是你的观点，理由是你的梯子。"
+    }
+  ],
+  "step2": [
+    {
+      "q": "① 交际目的：这篇投稿最终要做什么？",
+      "opts": [
+        {
+          "t": "A. 告知型：客观罗列三件事的相关信息",
+          "v": false,
+          "why": "只报信息没有观点，栏目要的是“Opinion”。"
+        },
+        {
+          "t": "B. 促成型：亮出排序并说理，让同学觉得值得参考（分享＝告知的温度版）",
+          "v": true,
+          "why": "投稿＝观点＋理由，本质是说服同伴接受一种取舍思路。"
+        },
+        {
+          "t": "C. 表现型：堆砌高级词汇展示语言实力",
+          "v": false,
+          "why": "语言为观点服务；炫技会挤掉说理空间。"
+        },
+        {
+          "t": "D. 修复型：澄清大家对大学生活的误解",
+          "v": false,
+          "why": "题干没有争议需要修复。"
+        }
+      ],
+      "a": "落点 B。观点投稿＝带温度的告知：排序是观点，理由是说服。一般性对照：通知＝告知 · 邀请/请求＝促成 · 申请＝表现 · 道歉＝修复——本文居“促成”一端，但火力比邀请信温和。"
+    },
+    {
+      "q": "② 关系定位：我与读者的语域格位？",
+      "opts": [
+        {
+          "t": "A. 正式：公文体、机构口吻",
+          "v": false,
+          "why": "投稿人是学生个人，公文腔失真。"
+        },
+        {
+          "t": "B. 半正式偏正式：书面完整句＋精准用词",
+          "v": true,
+          "why": "书面发表需要完整句和质感（范文：fundamental to our sustainable learning and growth）。"
+        },
+        {
+          "t": "C. 平视：同龄人的清晰自然",
+          "v": true,
+          "why": "读者是同学，说理平视不端架子（范文坦承 I'm not an outgoing person）。"
+        },
+        {
+          "t": "D. 非正式：缩略语、感叹号连发",
+          "v": false,
+          "why": "书面栏目不接受聊天体。"
+        }
+      ],
+      "a": "落点 B＋C（配方）：半正式偏正式的书面质感＋对同龄人的平视清晰。语域由“载体（校报）＋关系（同学）”共同决定。"
+    },
+    {
+      "q": "③ 情感分寸：对自己的排序该多笃定？",
+      "opts": [
+        {
+          "t": "A. 施压：不这样排你就输了",
+          "v": false,
+          "why": "排序无标准答案，霸道失风度。"
+        },
+        {
+          "t": "B. 得体留白：观点鲜明＋承认取舍的相对性",
+          "v": true,
+          "why": "范文(一)承认 though vital, sleep can be flexibly arranged——鲜明而有分寸。"
+        },
+        {
+          "t": "C. 零度：只列事实不表态",
+          "v": false,
+          "why": "Opinion 栏目拒绝骑墙。"
+        },
+        {
+          "t": "D. 卑微：我的排序可能毫无价值",
+          "v": false,
+          "why": "自我贬低让观点失重。"
+        }
+      ],
+      "a": "落点 B。排序不是标准答案，理由才是说服力——“得体留白”让笃定有风度：亮明我的排序，同时承认他人取舍的合理。"
+    },
+    {
+      "q": "④ 联结路径：怎样让同学读到最后？",
+      "opts": [
+        {
+          "t": "A. 道理单向输出：只讲大道理",
+          "v": false,
+          "why": "单向说教留不住同龄读者。"
+        },
+        {
+          "t": "B. 契合：戳中共同纠结（熬夜/社恐/DDL）",
+          "v": true,
+          "why": "睡眠与社交是大学生活的公共话题，共鸣自带。"
+        },
+        {
+          "t": "C. 感情：真实个人画像",
+          "v": true,
+          "why": "范文：As a curious explorer, I simply can't resist…——个人色彩让观点可信。"
+        },
+        {
+          "t": "D. 身份：抬出专家权威背书",
+          "v": false,
+          "why": "同学间用不着 honor 这套；引用认知科学可作“契合”的佐证，不是抬身份。"
+        }
+      ],
+      "a": "落点 B＋C。联结三通道：契合是“正好”、感情是“想你”、身份是“配您”——同龄投稿走前两道即可，科学细节（neurons form new connections）是契合的佐证。"
+    }
+  ],
+  "step3": {
+    "guide": "梯子爬到顶，就是思想性。……层次性＝爬的过程，思想性＝顶层风景。80 词投稿选<b>一把梯爬两三级</b>即可：排序题首选 ⛏深度梯（排序理由＝由表及里），也可 ⛰高度梯（个人→集体→社会）做结尾升华。",
+    "items": [
+      {
+        "icon": "⛏",
+        "name": "深度梯",
+        "type": "由表及里",
+        "cls": "c-wp",
+        "extract": "现象→原因→本质",
+        "reuse": "<i>Sleep forms new connections（现象）→ recharges us for the next day（原因）→ fundamental to sustainable learning and growth（本质）</i>",
+        "effect": "适用：阐述某件事为什么排第一。"
+      },
+      {
+        "icon": "⛰",
+        "name": "高度梯",
+        "type": "由小到大",
+        "cls": "c-gx",
+        "extract": "个人→集体→社会",
+        "reuse": "<i>Sleep recharges me（个人）→ a well-rested class learns better（集体）→ healthy habits sustain society（社会）</i>",
+        "effect": "适用：把个人排序接上更大的意义。"
+      },
+      {
+        "icon": "🪜",
+        "name": "认知梯",
+        "type": "由低到高",
+        "cls": "c-hj",
+        "extract": "了解→实践→创造",
+        "reuse": "<i>Knowing the rule → practicing time-blocking → creating my own balance</i>",
+        "effect": "适用：给出可操作的平衡做法。"
+      },
+      {
+        "icon": "🎈",
+        "name": "抽象梯",
+        "type": "由实到虚",
+        "cls": "c-ln",
+        "extract": "具体事实→意义价值",
+        "reuse": "<i>A good night's sleep（具体）→ the quiet engine of every ambition（价值）</i>",
+        "effect": "适用：结尾升华一句。"
+      }
+    ],
+    "patterns": "登梯衔接句式：<i>…which explains why…</i> / <i>What lies beneath… is…</i> / <i>More than…, it…</i>",
+    "build": {
+      "pick": "两个理由点各配一梯：理由①（Sleep 第一）走 ⛏深度梯——认知科学佐证由表及里；理由②（Study 其次 / Socialize 让位）走 ⛰高度梯——从个人选择接到持续成长。范文(一)即深度梯三级示范。",
+      "runs": [
+        {
+          "ladder": "深度梯",
+          "point": "要点：Sleep ranks first（认知益处）",
+          "cls": "c-wp",
+          "steps": [
+            {
+              "lvl": "表 · 现象",
+              "sent": "During sleep, our neurons form new connections."
+            },
+            {
+              "lvl": "里 · 原因",
+              "sent": "It recharges us for the next day and helps us memorize what we've learnt."
+            },
+            {
+              "lvl": "顶 · 本质",
+              "sent": "Sleep is fundamental to our sustainable learning and growth."
+            }
+          ],
+          "note": "登顶句对接③猪肚的主体段层次①——一句顶三句。"
+        },
+        {
+          "ladder": "高度梯",
+          "point": "要点：Study next / Socialize moderate",
+          "cls": "c-gx",
+          "steps": [
+            {
+              "lvl": "表 · 个人",
+              "sent": "As a curious explorer, I simply can't resist broadening my horizons."
+            },
+            {
+              "lvl": "里 · 成长",
+              "sent": "Studying also prepares me for future career."
+            },
+            {
+              "lvl": "顶 · 价值",
+              "sent": "Setting clear priorities leads to a balanced and fulfilling life."
+            }
+          ],
+          "note": "结尾“balanced and fulfilling life”正是高度梯的顶——与⑧收束句呼应。"
+        }
+      ]
+    }
+  },
+  "step4": {
+    "overview": "凤亮出排序 → 猪用梯子撑起理由 → 豹收束点价值",
+    "sections": [
+      {
+        "icon": "🐦",
+        "part": "凤头 · 开头段",
+        "budget": "约15词 · 1-2句",
+        "cls": "c-wp",
+        "goal": "一句话亮出排序（观点即标题的回答）",
+        "micro": "排序句 →（可加）定调句",
+        "plots": [
+          "范文(一)：In my future college life, I'll prioritize sufficient sleep over my study, while socializing comes last.",
+          "自检：15 词内排序是否清晰？三个对象是否全部点名？"
+        ]
+      },
+      {
+        "icon": "🐗",
+        "part": "猪肚 · 主体段",
+        "budget": "约45词 · 3-4句",
+        "cls": "c-hj",
+        "goal": "第一优先的理由登梯＋其余两件事的让位逻辑",
+        "micro": "层次①（排第一的理由·深度梯）→ 层次②（第二的理由）→ 个性化句（个人画像）",
+        "plots": [
+          "层次①：Sleep ranks first…neurons form new connections（深度梯表→里）",
+          "层次②：With sufficient sleep, study comes next…prepares me for future career",
+          "个性化句：I'm not an outgoing person and tend to seek inner recognition.",
+          "自检：三个对象是否都有交代？第一优先是否爬了两级以上？"
+        ]
+      },
+      {
+        "icon": "🐆",
+        "part": "豹尾 · 结尾段",
+        "budget": "约20词 · 1-2句",
+        "cls": "c-ln",
+        "goal": "把排序升为价值观（抽象梯/高度梯登顶）",
+        "micro": "升华句 →（可加）共鸣句",
+        "plots": [
+          "范文(一)：I do believe setting clear priorities can help me live a more balanced and fulfilling life.",
+          "自检：是否回应了标题 Ranking？是否比开头多了一层意思？"
+        ]
+      }
+    ]
+  },
+  "step5": [
+    {
+      "t": "立意偏离主题",
+      "src": "审题病 · 五维①内容连贯",
+      "bad": "✗ College life is colorful and we should enjoy it.（无排序无理由）",
+      "good": "✓ I'll prioritize sufficient sleep over my study, while socializing comes last.",
+      "note": "回看①任务卡：排序是第一任务。",
+      "checks": [
+        {
+          "q": "首段是否给出明确先后？"
+        }
+      ]
+    },
+    {
+      "t": "要点遗漏缺失",
+      "src": "审题病 · 五维①内容完整",
+      "bad": "✗ Sleep is the most important thing in college.（只讲一件事，另两件失踪）",
+      "good": "✓ …study comes next… Moderate socializing is essential…（三件事全部点名）",
+      "note": "回看①：三对象一个都不能少。",
+      "checks": [
+        {
+          "q": "Study/Socialize/Sleep 是否各有着落？"
+        }
+      ]
+    },
+    {
+      "t": "格式杂糅混乱",
+      "src": "审题病 · 五维⑤格式规范",
+      "bad": "✗ Dear Editor, I am writing to submit my article… Yours, Li Hua（书信格式塞进投稿）",
+      "good": "✓ 标题 Ranking My College Life Essentials ＋ 正文直接开讲。",
+      "note": "投稿＝标题＋正文；称呼落款反成格式错误。",
+      "checks": []
+    },
+    {
+      "t": "人称错位失联",
+      "src": "审题病 · 五维①内容连贯",
+      "bad": "✗ Students should arrange their sleep well.（全文第三人称，像通知）",
+      "good": "✓ In my future college life, I'll prioritize…",
+      "note": "Opinion 投稿亮“我”的观点，第一人称是身份。",
+      "checks": []
+    },
+    {
+      "t": "交际效果欠佳",
+      "src": "基调病 · 五维③语言得体",
+      "bad": "✗ Everyone must follow my ranking.（笃定变施压）",
+      "good": "✓ …though vital, sleep can be flexibly arranged.（得体留白）",
+      "note": "回看②③：鲜明≠霸道。",
+      "checks": []
+    },
+    {
+      "t": "结构松散凌乱",
+      "src": "结构病 · 五维④结构流畅",
+      "bad": "✗ Socializing matters. Sleep helps us study. Study is important.（想到哪写到哪）",
+      "good": "✓ 排序句 → 理由① → 理由② → 收束，一段一条主线。",
+      "note": "回看③：猪肚三句各有岗位。",
+      "checks": []
+    },
+    {
+      "t": "要点重复冗余",
+      "src": "结构病 · 五维④结构流畅",
+      "bad": "✗ Sleep is important. Sleep helps us a lot. Enough sleep is good.（同义反复）",
+      "good": "✓ 一句现象＋一句本质：During sleep, neurons form new connections, recharging us…",
+      "note": "重复≠强调，登梯才是。",
+      "checks": []
+    },
+    {
+      "t": "内容宽泛空洞",
+      "src": "建构病 · 五维②层次思想",
+      "bad": "✗ Study is very important for students.（口号）",
+      "good": "✓ It equips us with professional knowledge and critical thinking.（具体收获）",
+      "note": "回看④：梯子至少爬两级。",
+      "checks": [
+        {
+          "q": "每个理由是否落到具体收获？",
+          "s6": 2
+        }
+      ]
+    },
+    {
+      "t": "思想浅显单薄",
+      "src": "建构病 · 五维②层次思想",
+      "bad": "✗ Because sleep makes us happy.（停在感觉层）",
+      "good": "✓ …fundamental to our sustainable learning and growth.（接到成长本质）",
+      "note": "④深度梯的“顶”就是思想性。",
+      "checks": [
+        {
+          "q": "第一优先是否爬到“本质/价值”级？",
+          "s6": 3
+        }
+      ]
+    },
+    {
+      "t": "内容陈旧老套",
+      "src": "建构病 · 五维②层次思想",
+      "bad": "✗ Early to bed and early to rise makes a man healthy.（套谚语充字数）",
+      "good": "✓ As a curious explorer, I simply can't resist the urge to broaden my horizons.（真实画像）",
+      "note": "个人细节永远比万能模板新。",
+      "checks": []
+    },
+    {
+      "t": "语言单调简单",
+      "src": "语言病 · 五维③语言丰富",
+      "bad": "✗ Sleep is good. Study is good too.（good 连播）",
+      "good": "✓ prioritize / essential / indispensable / fundamental（精准升级）",
+      "note": "回看⑥句式全家桶。",
+      "checks": [
+        {
+          "q": "是否用上 2 个精准升级词？",
+          "s6": 0
+        }
+      ]
+    },
+    {
+      "t": "时态混乱错位",
+      "src": "语言病 · 五维⑤语法准确",
+      "bad": "✗ In my future college life, I prioritized sleep.（将来展望用了过去时）",
+      "good": "✓ I'll prioritize… / comes last.（将来展望＋现在论证）",
+      "note": "回看①任务卡：将来为主＋现在论证理由。",
+      "checks": []
+    }
+  ],
+  "step6": {
+    "qs": [
+      {
+        "p": "凤头 · 开头段",
+        "q": "排序句式：怎么一句话把三件事排出先后？",
+        "corpus": [
+          {
+            "tell": "Sleep is the most important, then study, then socializing.",
+            "show": "I'll <b>prioritize</b> sufficient sleep <b>over</b> my study, <b>while</b> socializing comes last.",
+            "skills": [
+              "prioritize over",
+              "while对比"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "凤头 · 开头段",
+        "q": "定调句：怎么让开头就带个人色彩？",
+        "corpus": [
+          {
+            "tell": "I think sleep is very important for me.",
+            "show": "Ranking my college life essentials, I put <b>a well-rested brain</b> first.",
+            "skills": [
+              "分词状语",
+              "借代"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "猪肚 · 主体段",
+        "q": "层次①现象句：怎么把“睡觉有益”写出认知细节？",
+        "corpus": [
+          {
+            "tell": "Sleep helps us remember things.",
+            "show": "<b>During sleep, our neurons form new connections</b>, a critical process to memorize what we've learnt.",
+            "skills": [
+              "同位语",
+              "认知细节"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "猪肚 · 主体段",
+        "q": "层次①本质句：怎么从“有帮助”登到“不可或缺”？",
+        "corpus": [
+          {
+            "tell": "Sleep is good for study.",
+            "show": "It recharges us for the next day and is <b>fundamental to our sustainable learning and growth</b>.",
+            "skills": [
+              "fundamental to",
+              "抽象名词"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "猪肚 · 主体段",
+        "q": "层次②让位句：怎么写“其余两件如何安排”？",
+        "corpus": [
+          {
+            "tell": "Study is second and socializing is last.",
+            "show": "<b>With sufficient sleep secured, study comes next</b> — socializing, though essential, can be <b>moderate</b>.",
+            "skills": [
+              "with复合结构",
+              "让步"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "猪肚 · 主体段",
+        "q": "个性化句：怎么让理由带上“我”的印记？",
+        "corpus": [
+          {
+            "tell": "I like study more than parties.",
+            "show": "<b>As a curious explorer</b>, I simply can't resist the urge to broaden my horizons.",
+            "skills": [
+              "隐喻身份",
+              "can't resist"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "豹尾 · 结尾段",
+        "q": "升华句：怎么把排序写成价值观？",
+        "corpus": [
+          {
+            "tell": "Good priorities make life good.",
+            "show": "Setting clear priorities is <b>the quiet compass</b> that steers me toward <b>a balanced and fulfilling life</b>.",
+            "skills": [
+              "隐喻",
+              "平衡句式"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "豹尾 · 结尾段",
+        "q": "共鸣句：怎么留给同学一点余韵？",
+        "corpus": [
+          {
+            "tell": "I hope you all think about your priorities.",
+            "show": "May every well-rested morning remind us <b>what truly deserves our energy</b>.",
+            "skills": [
+              "May祈使",
+              "余韵收束"
+            ]
+          }
+        ]
+      }
+    ],
+    "extra": ""
+  },
+  "step7": {
+    "text": "<p class='er-muted'>导入学生作文，全班一起评价并提出改进意见。<br>点击下方按钮导入文字或图片。</p>",
+    "images": []
+  },
+  "fuyao": [
+    "明确排序（三件事给出先后，顺序合理即可）",
+    "第一优先的核心理由（≥2条，有梯子层次）",
+    "另外两件事的安排/让位逻辑（不可完全失踪）",
+    "一句收束（升华或共鸣，回扣标题 Ranking）"
+  ],
+  "step8": {
+    "text": "<b>Ranking My College Life Essentials</b><br><br>In my future college life, I'll <b>prioritize sufficient sleep over</b> my study, while socializing comes last.<br><br>Sleep <b>ranks first</b> in my to-do list for its cognitive benefits. <b>During sleep, our neurons form new connections</b>, a critical process to understand and memorize what we've learnt during the day. It recharges us for the next day and is <b>fundamental to our sustainable learning and growth</b>. With sufficient sleep, study comes next. <b>As a curious explorer</b>, I simply can't resist the urge to broaden my horizons and learn more about the world through studying. It also prepares me for future career. <b>Moderate</b> socializing is essential in forming bonds with people, but I'm not an outgoing person and tend to seek inner recognition.<br><br>I do believe setting clear priorities can help me live <b>a more balanced and fulfilling life</b>.",
+    "eval": [
+      {
+        "dim": "内容完整性和连贯性",
+        "comment": "三件事全部点名且给出先后（Sleep→Study→Socialize）；从排序到理由再到收束，无一句偏离“排序＋理由”任务——①的任务卡完整兑现。"
+      },
+      {
+        "dim": "要点层次性和思想性",
+        "comment": "理由①走深度梯（neurons form new connections → recharges → fundamental to sustainable learning and growth），由表及里三级登顶；结尾以 priorities 升华——④建构的示范。"
+      },
+      {
+        "dim": "语言丰富性和得体性",
+        "comment": "prioritize over / ranks first / fundamental / moderate 精准而不堆砌；I'm not an outgoing person 坦诚的个人画像得体而不煽情——②基调的落点。"
+      },
+      {
+        "dim": "结构严谨性和流畅性",
+        "comment": "凤（15词排序句）→ 猪（两层次＋画像）→ 豹（升华句），With sufficient sleep / but 使让位逻辑清晰——③谋篇的词数预算可现场验证。"
+      },
+      {
+        "dim": "语法规范性和准确性",
+        "comment": "将来展望（I'll prioritize）＋现在论证（ranks / forms / recharges）时态定调清晰；80 词左右达标——⑤语言病一条不犯。"
+      }
+    ]
+  }
+}

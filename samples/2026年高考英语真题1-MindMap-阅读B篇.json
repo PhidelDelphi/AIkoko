@@ -1,0 +1,522 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 阅读B篇（The Dictionary and the Appetite 词典与求知欲）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "记叙文",
+     "opts": [
+      "议论文",
+      "说明文",
+      "记叙文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "文本来源 Source",
+     "correctText": "个人故事/教育随笔专栏",
+     "opts": [
+      "科普期刊",
+      "个人故事/教育随笔专栏",
+      "产品说明书",
+      "旅行指南"
+     ]
+    },
+    {
+     "label": "目标读者 Reader",
+     "correctText": "家长与关注教育者",
+     "opts": [
+      "家长与关注教育者",
+      "词典编纂者",
+      "体育爱好者",
+      "软件工程师"
+     ]
+    }
+   ],
+   "hints": [
+    "文章按时间讲了一对母子的什么经历？",
+    "第一人称 Mom 的讲述面向哪类读者最有共鸣？",
+    "结尾的 Now I understand 预示了什么类型的收束？"
+   ],
+   "why": [
+    "亲子间的真实小事+感悟收束，是教育随笔型记叙文。",
+    "以母亲视角写孩子学习，家长读者最易代入。",
+    "'如今我明白'是记叙文从事件走向主题的标志。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与自我",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "从'不会查词典'到'求知欲'，变化发生在哪个层面？",
+     "why": "学习方式与成长认知，属人与自我。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "学习方式与成长",
+     "groups": {
+      "人与自我": [
+       "学习方式与成长",
+       "习惯养成",
+       "自我认知"
+      ],
+      "人与社会": [
+       "亲子交流",
+       "学校教育",
+       "同伴影响"
+      ],
+      "人与自然": [
+       "户外探索",
+       "环境保护"
+      ]
+     },
+     "hint": "纸质词典与电子屏幕之争，最后落在了什么上？",
+     "why": "工具之辨只是表，求知欲与成长是里。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "求知的渴望比学习的工具更重要",
+     "opts": [
+      {
+       "text": "求知的渴望比学习的工具更重要",
+       "err": null
+      },
+      {
+       "text": "纸质词典比电子设备更可靠",
+       "err": "以偏概全（文中未贬低电子设备）"
+      },
+      {
+       "text": "孩子的学习习惯需要强制纠正",
+       "err": "反向设置"
+      },
+      {
+       "text": "母亲对词典被盗耿耿于怀",
+       "err": "曲解文意"
+      }
+     ],
+     "hint": "not the dictionary... but the wanting to know them——重音落在哪个词上？",
+     "why": "but 后的 curiosity and appetite 才是作者要托出的主题。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "touching 温情感人",
+     "opts": [
+      "touching 温情感人",
+      "bitter 怨愤",
+      "skeptical 质疑",
+      "objective 冷静陈述",
+      "critical 批判",
+      "humorous 讽刺",
+      "indifferent 冷漠",
+      "defensive 辩护"
+     ],
+     "hint": "wide-eyed 的儿子与微笑的母亲之间流动着什么气氛？",
+     "why": "亲子共读、旧物回忆与顿悟，温情是全文底色。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "起因：儿子不会查词典",
+     "opts": [
+      "起因：儿子不会查词典",
+      "发展：共读中的惊叹",
+      "插叙：母亲的词典往事",
+      "转折：儿子的话点醒母亲",
+      "升华：求知欲是学习的核心"
+     ],
+     "hint": "故事从哪件小事开始？",
+     "why": "五年级儿子问词义却从未用过纸质词典——冲突起点。"
+    },
+    {
+     "para": 2,
+     "correctText": "发展：共读中的惊叹",
+     "opts": [
+      "起因：儿子不会查词典",
+      "发展：共读中的惊叹",
+      "插叙：母亲的词典往事",
+      "转折：儿子的话点醒母亲",
+      "升华：求知欲是学习的核心"
+     ],
+     "hint": "wide-eyed 的惊叹与母亲的微笑，说明儿子正在经历什么？",
+     "why": "第一次翻纸词典的震撼，为后文'工具与求知'之辨蓄势。"
+    },
+    {
+     "para": 3,
+     "correctText": "插叙：母亲的词典往事",
+     "opts": [
+      "起因：儿子不会查词典",
+      "发展：共读中的惊叹",
+      "插叙：母亲的词典往事",
+      "转折：儿子的话点醒母亲",
+      "升华：求知欲是学习的核心"
+     ],
+     "hint": "13岁生日礼物、铅笔标记、大学行李箱——这段回忆有什么作用？",
+     "why": "插叙词典见证的成长，与被盗形成情感落差。"
+    },
+    {
+     "para": 4,
+     "correctText": "转折：儿子的话点醒母亲",
+     "opts": [
+      "起因：儿子不会查词典",
+      "发展：共读中的惊叹",
+      "插叙：母亲的词典往事",
+      "转折：儿子的话点醒母亲",
+      "升华：求知欲是学习的核心"
+     ],
+     "hint": "you still know all those words, even without the book——这句话把母亲引向了什么思考？",
+     "why": "孩子的天真之语恰恰道破主题：留下的是能力不是物件。"
+    },
+    {
+     "para": 5,
+     "correctText": "升华：求知欲是学习的核心",
+     "opts": [
+      "起因：儿子不会查词典",
+      "发展：共读中的惊叹",
+      "插叙：母亲的词典往事",
+      "转折：儿子的话点醒母亲",
+      "升华：求知欲是学习的核心"
+     ],
+     "hint": "Now I understand 之后，作者把词、方式与渴望排了个序——哪个被放在最后也最重要？",
+     "why": "not...but 结构把 curiosity and appetite 推到句尾焦点。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "Kevin asks for a word's meaning; his mother tells him to look it up, only to find he has never used a paper dictionary."
+    },
+    {
+     "para": 2,
+     "summary": "Reading the dictionary together, Kevin is astonished by the number of words and asks if Mom knows them all."
+    },
+    {
+     "para": 3,
+     "summary": "The mother recalls her 13th-birthday dictionary, its pencil marks measuring her progress, and how it was stolen in college."
+    },
+    {
+     "para": 4,
+     "summary": "Kevin comforts her: she still knows the words without the book—prompting her reflection."
+    },
+    {
+     "para": 5,
+     "summary": "She concludes that learning depends not on tools but on the curiosity and appetite to know."
+    }
+   ],
+   "trace": [
+    {
+     "q": 24,
+     "type": "细节理解",
+     "stem": "What does Kevin usually do to get the meaning of a word?",
+     "correctText": "P1 · screen time is off→平时靠电子设备",
+     "opts": [
+      "P1 · 平时用电子设备",
+      "P1 · 常请教老师",
+      "P2 · 已会查词典",
+      "P3 · 爱读小说"
+     ],
+     "correctQuote": "“But my screen time is off,” he said.",
+     "hint": "screen time is off 意味着他平时查词靠什么？",
+     "why": "屏幕时间被禁用才被迫查纸词典——反推他平时用电子设备。"
+    },
+    {
+     "q": 25,
+     "type": "情感细节",
+     "stem": "How did Kevin feel while looking up the word in the dictionary?",
+     "correctText": "P2 · wide-eyed 的惊叹",
+     "opts": [
+      "P2 · wide-eyed 惊叹",
+      "P2 · 不耐烦",
+      "P1 · 自信满满",
+      "P4 · 难过"
+     ],
+     "correctQuote": "he kept saying, wide-eyed: “How can there be this many words?”",
+     "hint": "睁大眼睛连连感叹，是哪种情绪的外化？",
+     "why": "wide-eyed + 反问＝astonished（震惊）；annoyed/disappointed 均无依据。"
+    },
+    {
+     "q": 26,
+     "type": "细节理解",
+     "stem": "What can we learn about the author's first dictionary?",
+     "correctText": "P3 · 铅笔标记见证努力",
+     "opts": [
+      "P3 · 铅笔标记丈量进步",
+      "P3 · 大学时作为礼物收下",
+      "P4 · 后来送给了Kevin",
+      "P3 · 是珍贵的限量版"
+     ],
+     "correctQuote": "started marking every entry I looked up with a pencil to measure my progress",
+     "hint": "pencil marks 的用途是什么？",
+     "why": "mark...to measure my progress——标记即努力见证（bore witness to her efforts）。"
+    },
+    {
+     "q": 27,
+     "type": "主旨领悟",
+     "stem": "What has the author come to realize about learning?",
+     "correctText": "P5 · 求知欲才是关键",
+     "opts": [
+      "P5 · 求知欲与好奇心最重要",
+      "P5 · 何时开始都不晚",
+      "P5 · 孩子需要榜样",
+      "P5 · 词典仍然有用"
+     ],
+     "correctQuote": "but the wanting to know them, the curiosity and the appetite",
+     "hint": "not...but 句式把重心放在了 but 之后的哪组词？",
+     "why": "关键词 curiosity and appetite 直接对应 Motivation is what really matters。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "叙述技巧",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "发现儿子不会查词典之后，母亲采取了什么行动？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "example",
+     "hint": "儿子的惊叹让母亲想起了自己与词典的哪段经历？"
+    },
+    {
+     "from": 3,
+     "to": 4,
+     "answer": "progression",
+     "hint": "词典往事讲完，故事如何回到当下？"
+    },
+    {
+     "from": 4,
+     "to": 5,
+     "answer": "causality",
+     "hint": "儿子的一句安慰，直接催生了什么？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 4,
+     "type": "指代",
+     "correctText": "it = 拥有并使用词典的经历",
+     "item": "it wasn't, ultimately, the dictionary that got me there",
+     "opts": [
+      "那本词典本身",
+      "大学生活",
+      "被偷的经历",
+      "铅笔标记"
+     ],
+     "hint": "强调句 it wasn't the dictionary that...——真正送我到终点的是什么？",
+     "why": "it was...not... 强调结构排除'词典'本身，指向使用词典积累的能力。"
+    },
+    {
+     "para": 5,
+     "type": "连接词",
+     "correctText": "although 让步引出主题句",
+     "item": "although my son may be learning differently, he is still learning",
+     "opts": [
+      "让步后肯定",
+      "因果推断",
+      "列举并行",
+      "假设推演"
+     ],
+     "hint": "learning differently 与 still learning 之间是转折还是让步后的肯定？",
+     "why": "although 让步+still 肯定，为最后一句的 not...but 奠定立场。"
+    },
+    {
+     "para": 3,
+     "type": "词汇链",
+     "correctText": "dictionary / words / pencil marks / progress",
+     "item": "marking every entry I looked up with a pencil to measure my progress",
+     "opts": [
+      "词典学习词汇链",
+      "旅行行李词汇链",
+      "生日礼物词汇链",
+      "校园盗窃词汇链"
+     ],
+     "hint": "mark / entry / look up / progress 围绕什么活动展开？",
+     "why": "词汇链勾勒'用词典学习'的画面，为'见证努力'提供语境。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 3,
+     "correctText": "插叙",
+     "opts": [
+      "插叙",
+      "倒叙",
+      "顺叙",
+      "夹叙夹议"
+     ],
+     "hint": "13岁生日的回忆是从哪里插入故事的？",
+     "why": "由儿子想看词典触发回忆，插叙丰富情感层次。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "分词状语 + 形容词作伴随",
+     "para": 2,
+     "sen": "While going through the pages, he kept saying, wide-eyed: “How can there be this many words?”",
+     "ana": "While going through 时间状语；wide-eyed 作伴随状语描摹神态——动作+神态+引语的记叙三件套。"
+    },
+    {
+     "kind": "时间状语从句 + 并列",
+     "para": 3,
+     "sen": "I continued to make these pencil marks for years, and when I went off to college, I packed that dictionary in my suitcase.",
+     "ana": "for years 持续性 + when 从句时间跳转，一句话完成岁月跨越，为被盗的失落蓄力。"
+    },
+    {
+     "kind": "not...but 平行 + 名词化",
+     "para": 5,
+     "sen": "It's not about the words themselves or how we learn them, but the wanting to know them, the curiosity and the appetite.",
+     "ana": "not A but B 平行结构；the wanting/appetite 名词化把抽象求知欲写得可触可感——主题句。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "借代:appetite",
+     "para": 5,
+     "sen": "the wanting to know them, the curiosity and the appetite",
+     "ana": "appetite（胃口）借代求知欲——把抽象动机写成身体本能，鲜活有力。"
+    },
+    {
+     "kind": "直接引语",
+     "para": 4,
+     "sen": "“That's so sad,” he said, “but you still know all those words, even without the book.”",
+     "ana": "孩子口中的朴素安慰恰是全文题眼——大人的顿悟借孩子之口说出。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "高分短语",
+     "en": "look up a word",
+     "zh": "查单词",
+     "usage": "学习场景写作"
+    },
+    {
+     "type": "高分短语",
+     "en": "measure one's progress",
+     "zh": "丈量自己的进步",
+     "usage": "成长类续写"
+    },
+    {
+     "type": "高分短语",
+     "en": "go off to college",
+     "zh": "离家上大学",
+     "usage": "人生阶段转折"
+    },
+    {
+     "type": "话题词汇",
+     "en": "wide-eyed",
+     "zh": "睁大眼睛的（惊讶的）",
+     "usage": "神态描写"
+    },
+    {
+     "type": "话题词汇",
+     "en": "the curiosity and the appetite (for knowledge)",
+     "zh": "好奇心与求知欲",
+     "usage": "学习教育主题收束"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "借亲子小事阐明知欲重于工具的成长感悟",
+     "opts": [
+      "借亲子小事阐明知欲重于工具的成长感悟",
+      "推荐一款词典产品",
+      "批评电子设备毒害孩子",
+      "教读者如何查词典"
+     ],
+     "hint": "Now I understand 之后的那句话，是作者最想告诉读者的吗？",
+     "why": "事件为壳，感悟为核——教育随笔的标准写法。"
+    },
+    {
+     "label": "B · 叙述手法",
+     "correctText": "插叙+对话推动",
+     "opts": [
+      "插叙+对话推动",
+      "纯景物描写",
+      "多线并行",
+      "悬念倒叙"
+     ],
+     "hint": "13岁词典的回忆以什么方式插入？母子对话起了什么作用？",
+     "why": "插叙厚情感，对话推情节——两条技巧线交织。"
+    },
+    {
+     "label": "C · 最强支撑",
+     "correctText": "pencil marks 丈量进步的细节",
+     "opts": [
+      "pencil marks 丈量进步的细节",
+      "家中有三本词典",
+      "Kevin 是五年级学生",
+      "词典在大学被盗"
+     ],
+     "hint": "要证明'词典见证努力'，哪个细节最不可替代？",
+     "why": "唯有一个个查过的词才有标记——细节即论证。"
+    },
+    {
+     "label": "D · 读者启示",
+     "correctText": "守护孩子的好奇心，方式可以各异",
+     "opts": [
+      "守护孩子的好奇心，方式可以各异",
+      "必须从小使用纸质词典",
+      "电子设备应全面禁止",
+      "家长应替孩子查生词"
+     ],
+     "hint": "he is still learning 中的 still 对家长说了什么？",
+     "why": "方式不同不等于不学习——宽容与守护是文章的劝导。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "curiosity",
+     "def": "好奇心——学习的原动力"
+    },
+    {
+     "term": "motivation",
+     "def": "动机——本文认定的学习核心"
+    },
+    {
+     "term": "appetite",
+     "def": "胃口；强烈的欲望——文中借代求知欲"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "起因",
+   "2": "发展",
+   "3": "插叙",
+   "4": "转折",
+   "5": "升华"
+  },
+  "paraBriefs": {
+   "1": "Kevin can't use a dictionary",
+   "2": "Astonished by paper pages",
+   "3": "Mom's dictionary story",
+   "4": "Kevin's words spark reflection",
+   "5": "Curiosity is what matters"
+  }
+ }
+}

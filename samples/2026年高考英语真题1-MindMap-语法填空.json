@@ -1,0 +1,555 @@
+{
+ "type": "sixsteps",
+ "version": 1,
+ "title": "2026年高考英语真题1 · 语法填空（Daji: The Big Open-Air Fairs 大集民俗）",
+ "data": {
+  "genre": {
+   "items": [
+    {
+     "label": "语篇类型 Genre",
+     "correctText": "说明文（民俗文化介绍）",
+     "opts": [
+      "记叙文",
+      "说明文（民俗文化介绍）",
+      "议论文",
+      "应用文"
+     ]
+    },
+    {
+     "label": "语篇语法特征 Grammar Profile",
+     "correctText": "非谓语与从句连接词高频",
+     "opts": [
+      "非谓语与从句连接词高频",
+      "比较级与最高级密集",
+      "疑问句与感叹句密集",
+      "虚拟语气为主"
+     ]
+    },
+    {
+     "label": "语篇结构 Structure",
+     "correctText": "总—分：起源时间→社交功能→采买归途",
+     "opts": [
+      "总—分：起源时间→社交功能→采买归途",
+      "问题—分析—解决",
+      "人物—冲突—结局",
+      "现象—争议—结论"
+     ]
+    }
+   ],
+   "hints": [
+    "介绍一种民俗现象的文章，时态会以什么为主？",
+    "括号里的 hold/draw/head 提示你需要判断什么？",
+    "三段分别讲了大集的哪些侧面？"
+   ],
+   "why": [
+    "介绍性说明文以一般现在时为基调，穿插历史过去时。",
+    "括号给动词时，先判'谓语还是非谓语'再判'主动还是被动'。",
+    "起源时间→社交功能→采买归途，说明文的总分推进。"
+   ]
+  },
+  "content": {
+   "items": [
+    {
+     "label": "主题语境·大类",
+     "type": "choice",
+     "correctText": "人与社会",
+     "opts": [
+      "人与自我",
+      "人与社会",
+      "人与自然"
+     ],
+     "hint": "集市、贸易、节日、邻里——属于哪类主题群？",
+     "why": "传统集市是社会文化与经济生活现象。"
+    },
+    {
+     "label": "主题语境·具体话题",
+     "type": "groupedChoice",
+     "correctText": "传统集市与民俗",
+     "groups": {
+      "人与社会": [
+       "传统集市与民俗",
+       "节日与假期",
+       "商贸历史"
+      ],
+      "人与自我": [
+       "童年记忆",
+       "消费习惯"
+      ],
+      "人与自然": [
+       "季节与农时",
+       "乡村景观"
+      ]
+     },
+     "hint": "lunar calendar、Spring Festival、street food 把场景锚定在哪里？",
+     "why": "农历日期、传统节日、集市交易——民俗文化话题。"
+    },
+    {
+     "label": "主旨 Main Idea",
+     "type": "choice",
+     "correctText": "大集的起源、功能与今日集市生活的图景",
+     "opts": [
+      {
+       "text": "大集的起源、功能与今日集市生活的图景",
+       "err": null
+      },
+      {
+       "text": "大集正在被超市彻底取代",
+       "err": "反向设置（末段仍在写热闹采购）"
+      },
+      {
+       "text": "大集只在春节举行",
+       "err": "以偏概全"
+      },
+      {
+       "text": "大集商品价格普遍偏高",
+       "err": "曲解文意（更便宜）"
+      }
+     ],
+     "hint": "三段的'起源—功能—风貌'合起来在介绍什么？",
+     "why": "说明对象是大集这一民俗现象的来龙去脉与现在。"
+    },
+    {
+     "label": "基调 Tone / Attitude",
+     "type": "choice",
+     "correctText": "objective 客观中立",
+     "opts": [
+      "objective 客观中立",
+      "critical 批判否定",
+      "skeptical 怀疑质疑",
+      "enthusiastic 热情推崇",
+      "indifferent 冷漠无关",
+      "cautionary 理性提醒",
+      "defensive 辩护维护",
+      "humorous 幽默调侃"
+     ],
+     "hint": "作者是在介绍知识还是在为 大集 辩护或促销？",
+     "why": "客观陈述起源与功能，无褒贬倾斜。"
+    }
+   ]
+  },
+  "struct": {
+   "paraFuncs": [
+    {
+     "para": 1,
+     "correctText": "起源与时间分布（56-61）",
+     "opts": [
+      "起源与时间分布（56-61）",
+      "社交与娱乐功能（62-63）",
+      "采买归途与实惠（64-65）"
+     ],
+     "hint": "lunar calendar、Han Dynasty——第一段讲的是大集的什么？",
+     "why": "时间依据与历史起源，属背景说明。"
+    },
+    {
+     "para": 2,
+     "correctText": "社交与娱乐功能（62-63）",
+     "opts": [
+      "起源与时间分布（56-61）",
+      "社交与娱乐功能（62-63）",
+      "采买归途与实惠（64-65）"
+     ],
+     "hint": "crowd into、chat、street performances——第二段写大集的哪一面？",
+     "why": "买卖之外的社交娱乐功能。"
+    },
+    {
+     "para": 3,
+     "correctText": "采买归途与实惠（64-65）",
+     "opts": [
+      "起源与时间分布（56-61）",
+      "社交与娱乐功能（62-63）",
+      "采买归途与实惠（64-65）"
+     ],
+     "hint": "fill shopping bags、cheaper——离集前人们收获了什么？",
+     "why": "以物美价廉的采购收束，呼应集市的交易本义。"
+    }
+   ],
+   "paraSummaries": [
+    {
+     "para": 1,
+     "summary": "Daji, held on special lunar dates and festivals, dates back to the Han Dynasty as a trading custom."
+    },
+    {
+     "para": 2,
+     "summary": "Beyond trading, daji are social occasions where crowds enjoy street food and performances."
+    },
+    {
+     "para": 3,
+     "summary": "Before heading home, visitors buy fresh, cheaper produce from local farmers."
+    }
+   ],
+   "trace": [
+    {
+     "q": 56,
+     "type": "非谓语·不定式被动",
+     "stem": "It is also common for them 56.________(hold) during traditional Chinese festivals",
+     "correctText": "to be held",
+     "opts": [
+      "to be held",
+      "being held",
+      "held",
+      "to hold"
+     ],
+     "correctQuote": "It is also common for them 56.________(hold)",
+     "hint": "them 与 hold 之间是主动还是被动关系？for sb ____ 结构用什么形式？",
+     "why": "for them to be held 复合结构；集会被举行，不定式被动式。"
+    },
+    {
+     "q": 57,
+     "type": "词形转换·名词",
+     "stem": "The exact dates and 57.________(frequent) of daji vary from region to region.",
+     "correctText": "frequency",
+     "opts": [
+      "frequent",
+      "frequency",
+      "frequently",
+      "frequencies"
+     ],
+     "correctQuote": "The exact dates and 57.________(frequent) of daji vary from region to region.",
+     "hint": "and 前后的 dates 与空格是并列名词吗？frequent 的名词形式是什么？",
+     "why": "dates and frequency 并列名词作主语；frequent→frequency 派生。"
+    },
+    {
+     "q": 58,
+     "type": "冠词",
+     "stem": "Daji originated from the ancient folk custom of trading goods, which dates back to 58.________ Han Dynasty.",
+     "correctText": "the",
+     "opts": [
+      "a",
+      "an",
+      "the",
+      "不填"
+     ],
+     "correctQuote": "Daji originated from the ancient folk custom of trading goods, which dates back to 58.________",
+     "hint": "朝代名前用什么冠词？",
+     "why": "the Han Dynasty——朝代前定冠词为固定用法。"
+    },
+    {
+     "q": 59,
+     "type": "主谓一致·时态",
+     "stem": "As transportation and communication 59.________(be) underdeveloped at that time",
+     "correctText": "were",
+     "opts": [
+      "was",
+      "were",
+      "are",
+      "is"
+     ],
+     "correctQuote": "As transportation and communication 59.________(be) underdeveloped at that time",
+     "hint": "and 连接的两个主语是单还是复？at that time 把时态定在哪？",
+     "why": "复数主语+过去时间状语→were。"
+    },
+    {
+     "q": 60,
+     "type": "词形转换·复数名词",
+     "stem": "it was very difficult for households to obtain daily 60.________(necessity)",
+     "correctText": "necessities",
+     "opts": [
+      "necessity",
+      "necessities",
+      "necessary",
+      "necessarily"
+     ],
+     "correctQuote": "it was very difficult for households to obtain daily 60.________(necessity)",
+     "hint": "daily necessities 是什么意思？可数名词泛指日用品用单数还是复数？",
+     "why": "daily necessities（日常必需品）固定复数；necessary 是形容词。"
+    },
+    {
+     "q": 61,
+     "type": "介词",
+     "stem": "people gathered at specific locations on set days to trade their surplus items 61.________ what they needed.",
+     "correctText": "for",
+     "opts": [
+      "for",
+      "with",
+      "by",
+      "in"
+     ],
+     "correctQuote": "people gathered at specific locations on set days to trade their surplus (剩余的) items 61.________",
+     "hint": "trade A ____ B——以A换B的固定搭配是哪个介词？",
+     "why": "trade A for B 以A换B；剩余物品换所需。"
+    },
+    {
+     "q": 62,
+     "type": "非谓语·过去分词",
+     "stem": "62.________(draw) by the aroma of street food, they line up in front of stands",
+     "correctText": "Drawn",
+     "opts": [
+      "Drawing",
+      "Drawn",
+      "To draw",
+      "Having drawn"
+     ],
+     "correctQuote": "62.________(draw) by the aroma ( 香味) of street food",
+     "hint": "people 是'吸引'的发出者还是承受者？句首状语用什么形式？",
+     "why": "be drawn by 被吸引；句首状语用过去分词 Drawn。"
+    },
+    {
+     "q": 63,
+     "type": "定语从句关系词",
+     "stem": "they line up in front of stands 63.________ serve steaming dumplings and hot noodle soup.",
+     "correctText": "that/which",
+     "opts": [
+      "that/which",
+      "what",
+      "whose",
+      "where"
+     ],
+     "correctQuote": "they line up in front of stands 63.________ serve steaming",
+     "hint": "先行词 stands 是人还是物？从句缺主语还是状语？",
+     "why": "stands（摊位）指物且从句缺主语→that/which；what 不能引导定语从句。"
+    },
+    {
+     "q": 64,
+     "type": "非谓语·动名词",
+     "stem": "Before 64.________(head) home, they fill their shopping bags with fresh fruit and vegetables",
+     "correctText": "heading",
+     "opts": [
+      "heading",
+      "headed",
+      "to head",
+      "head"
+     ],
+     "correctQuote": "Before 64.________(head) home",
+     "hint": "Before 是介词还是连词？介词后动词用什么形式？",
+     "why": "Before 介词后接动名词 heading；head home 动词化'回家'。"
+    },
+    {
+     "q": 65,
+     "type": "比较级",
+     "stem": "at prices significantly 65.________(cheap) than those found in supermarkets.",
+     "correctText": "cheaper",
+     "opts": [
+      "cheap",
+      "cheaper",
+      "cheapest",
+      "more cheaper"
+     ],
+     "correctQuote": "at prices significantly 65.________(cheap)",
+     "hint": "句中的 than 把空格推向哪种形式？significantly 修饰什么？",
+     "why": "than 提示比较级 cheaper；significantly 修饰比较级，不叠加 more。"
+    }
+   ]
+  },
+  "cohesion": {
+   "argTitle": "句法手段",
+   "inter": [
+    {
+     "from": 1,
+     "to": 2,
+     "answer": "progression",
+     "hint": "从'何时何地起源'推进到'人们除了买卖还做什么'，是不是功能的延伸？"
+    },
+    {
+     "from": 2,
+     "to": 3,
+     "answer": "progression",
+     "hint": "逛集之后写归途采购，叙事是否继续沿时间线推进？"
+    }
+   ],
+   "intra": [
+    {
+     "para": 1,
+     "type": "从句衔接",
+     "correctText": "which dates back to...（非限制性定语从句）",
+     "item": "a folk custom which dates back to the Han Dynasty",
+     "opts": [
+      "定语从句修饰 custom",
+      "同位语从句",
+      "状语从句",
+      "主语从句"
+     ],
+     "hint": "which 指代前文的什么？从句缺不缺成分？",
+     "why": "which 作从句主语修饰 custom——用 which 而非 that（前有逗号）。"
+    },
+    {
+     "para": 2,
+     "type": "非谓语逻辑",
+     "correctText": "Drawn by... 过去分词作原因状语",
+     "item": "Drawn by the aroma of street food, they line up in front of stands",
+     "opts": [
+      "原因状语（被动）",
+      "时间状语",
+      "目的状语",
+      "让步状语"
+     ],
+     "hint": "排队的原因是什么？这个原因是谁承受的？",
+     "why": "被香味吸引→排队的逻辑，Drawn 表被动原因。"
+    },
+    {
+     "para": 3,
+     "type": "词汇同现",
+     "correctText": "集市贸易语义场",
+     "item": "shopping bags / fresh fruit and vegetables / local farmers / prices",
+     "opts": [
+      "集市购物语义场",
+      "校园学习语义场",
+      "交通出行语义场",
+      "医疗健康语义场"
+     ],
+     "hint": "bags、farmers、prices 共同描绘了哪个画面？",
+     "why": "购物语义场收束全文，呼应集市的交易本义。"
+    }
+   ],
+   "argument": [
+    {
+     "para": 1,
+     "correctText": "举例说明",
+     "opts": [
+      "举例说明",
+      "列数字",
+      "作比较",
+      "下定义"
+     ],
+     "hint": "for example、such as 后的具体日期与节日起什么作用？",
+     "why": "举出具体日期与节日，让'时间分布'的说明落地。"
+    }
+   ]
+  },
+  "lang": {
+   "sentences": [
+    {
+     "kind": "It is common for sb/sth to be done",
+     "para": 1,
+     "sen": "It is also common for them 56.________(hold) during traditional Chinese holidays such as the Spring Festival and the Mid-Autumn Festival",
+     "ana": "for them to be held：不定式复合结构+被动——them（大集）与 hold 是被动关系。"
+    },
+    {
+     "kind": "过去分词短语作原因状语",
+     "para": 2,
+     "sen": "Drawn by the aroma of street food, they line up in front of stands that serve steaming dumplings and hot noodle soup.",
+     "ana": "Drawn by 状语（被动原因）+ that serve 定语从句修饰 stands——一句串联因果与场景。"
+    },
+    {
+     "kind": "介词短语+比较级+than 替代",
+     "para": 3,
+     "sen": "they fill their shopping bags with fresh fruit and vegetables from local farmers, at prices significantly cheaper than those found in supermarkets",
+     "ana": "at prices 短语表条件；cheaper than those... 中 those 替代 prices，found in 过去分词后置。"
+    }
+   ],
+   "rhetoric": [
+    {
+     "kind": "派生构词:frequent→frequency",
+     "para": 1,
+     "sen": "The exact dates and frequency of daji vary from region to region.",
+     "ana": "形容词 frequent 加 -y 变名词 frequency——57 空的考点原型。"
+    },
+    {
+     "kind": "派生构词:necessary→necessities",
+     "para": 1,
+     "sen": "it was very difficult for households to obtain daily necessities",
+     "ana": "necessary→necessity→necessities 三级派生，60 空考点。"
+    }
+   ],
+   "corpus": [
+    {
+     "type": "语法高频",
+     "en": "date back to",
+     "zh": "追溯到（常与过去时间连用）",
+     "usage": "历史起源说明"
+    },
+    {
+     "type": "语法高频",
+     "en": "vary from region to region",
+     "zh": "因地而异",
+     "usage": "说明文差异描述"
+    },
+    {
+     "type": "语法高频",
+     "en": "trade A for B",
+     "zh": "以A换B",
+     "usage": "交易场景"
+    },
+    {
+     "type": "词形转换",
+     "en": "frequent → frequency",
+     "zh": "频繁的→频率",
+     "usage": "词性判断题"
+    },
+    {
+     "type": "词形转换",
+     "en": "cheap → cheaper",
+     "zh": "便宜的→更便宜的",
+     "usage": "比较级题"
+    }
+   ]
+  },
+  "purpose": {
+   "items": [
+    {
+     "label": "A · 写作目的",
+     "correctText": "介绍大集这一民俗的起源、功能与风貌",
+     "opts": [
+      "介绍大集这一民俗的起源、功能与风貌",
+      "呼吁保护即将消失的大集",
+      "比较城乡购物方式优劣",
+      "推广某地旅游"
+     ],
+     "hint": "三段合起来是在完成对什么的说明？",
+     "why": "起源+功能+风貌——民俗介绍的完整闭环。"
+    },
+    {
+     "label": "B · 语篇结构",
+     "correctText": "总分推进：背景起源→功能→今日风貌",
+     "opts": [
+      "总分推进：背景起源→功能→今日风貌",
+      "时间流水账",
+      "正反对比",
+      "问题解决"
+     ],
+     "hint": "第一段的'过去'与第三段的'现在'构成怎样的推进？",
+     "why": "说明文标准推进，各段功能清晰。"
+    },
+    {
+     "label": "C · 最典型考点",
+     "correctText": "非谓语动词（56/62/64 三处）",
+     "opts": [
+      "非谓语动词（56/62/64 三处）",
+      "名词所有格",
+      "虚拟语气",
+      "倒装句"
+     ],
+     "hint": "括号里给出的动词最多——它们考的是同一个大类吗？",
+     "why": "不定式被动、过去分词、动名词——非谓语三分形态全覆盖。"
+    },
+    {
+     "label": "D · 读者价值",
+     "correctText": "民俗文化与语法知识双收获",
+     "opts": [
+      "民俗文化与语法知识双收获",
+      "学会开办大集",
+      "了解汉族节日禁忌",
+      "掌握描写风景的技巧"
+     ],
+     "hint": "读完既知道了什么现象，又练习了什么能力？",
+     "why": "语篇载体为文化，任务载体为语法。"
+    }
+   ],
+   "concepts": [
+    {
+     "term": "non-finite verbs",
+     "def": "非谓语动词——不定式/动名词/分词，不作谓语"
+    },
+    {
+     "term": "attributive clause",
+     "def": "定语从句——修饰名词的从句（that/which/who）"
+    },
+    {
+     "term": "word formation",
+     "def": "构词法——派生、转换与复合"
+    }
+   ]
+  }
+ },
+ "aux": {
+  "funcLabels": {
+   "1": "起源与时间",
+   "2": "社交娱乐",
+   "3": "采买归途"
+  },
+  "paraBriefs": {
+   "1": "Origins & lunar dates",
+   "2": "Street food & performances",
+   "3": "Cheaper produce before heading home"
+  }
+ }
+}
