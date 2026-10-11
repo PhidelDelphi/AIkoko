@@ -76,40 +76,61 @@
 
   function readAfrScores() {
     /* 竞速兜底：IndexedDB事务偶发挂起时6秒后放行（沿用已读scoreRows），保证选人链路必达 */
+    /* v0.4 关键修复：无版本号 open 在全新环境会以 v1 抢先建库并持有连接，
+       永久阻塞主系统 open('afr-database', 2) 的升级 → db 恒为 null，成绩/备份永不落库、
+       且迟到的 loadDataFromDB 完成时用空库覆盖内存数据。
+       现改为：①读完立即 close() 释放连接；②store 未就绪（本模块抢先建了空库、主系统升级未完成）时退避重试。 */
     return Promise.race([
       new Promise(res => setTimeout(() => res(), 6000)),
-      new Promise(res => {
-      try {
-        const req = indexedDB.open('afr-database');
-        req.onsuccess = () => {
+      new Promise(async res => {
+        for (let attempt = 0; attempt < 12; attempt++) {
+          let conn = null;
           try {
-            const tx = req.result.transaction(['homeworks', 'meta']);
-            const getHw = tx.objectStore('homeworks').getAll();
-            const getMeta = tx.objectStore('meta').get('appState');
-            tx.oncomplete = () => {
+            conn = await new Promise((ok, bad) => {
+              const req = indexedDB.open('afr-database');
+              req.onsuccess = () => ok(req.result);
+              req.onerror = () => bad(req.error || new Error('open error'));
+              req.onblocked = () => bad(new Error('blocked'));
+            });
+          } catch (e) {
+            await new Promise(r => setTimeout(r, 500));
+            continue;
+          }
+          try {
+            if (!Array.from(conn.objectStoreNames).includes('homeworks')) {
+              throw new Error('stores-not-ready');
+            }
+            const { hws, meta: app } = await new Promise((ok, bad) => {
               try {
-                const hws = getHw.result || [];
-                const meta = getMeta.result || {};
-                const app = typeof meta === 'object' ? meta : {};
-                const hasScores = x => x.scores && Object.values(x.scores).some(a => Array.isArray(a) && a.length);
-                const scored = hws.filter(hasScores);
-                const hw = (app.currentHomework && hws.find(x => x.id === app.currentHomework && hasScores(x))) || scored[0] || hws[0];
-                if (!hw) { res(); return; }
-                scorePaperName = hw.name || '';
-                const cls = app.currentClass || 'class9';
-                const rows = (hw.scores && (hw.scores[cls] || hw.scores.class9 || hw.scores.class11)) || [];
-                scoreRows = rows.map(r => ({ name: r.name, score: r.score, rank: r.rank, questionScores: r.questionScores || {} })).filter(r => r.name);
-                scoreQuestions = (hw.questions && (hw.questions[cls] || hw.questions.class9)) || [];
-                res();
-              } catch (e) { console.log('[参省诊断] 异常: ' + e.message); res(); }
-            };
-            getHw.onerror = () => { res(); };
-            getMeta.onerror = () => { res(); };
-          } catch (e) { console.log('[参省诊断] tx异常: ' + e.message); res(); }
-        };
-        req.onerror = () => { res(); };
-        req.onblocked = () => { res(); };
-      } catch (e) { res(); }
+                const tx = conn.transaction(['homeworks', 'meta']);
+                const getHw = tx.objectStore('homeworks').getAll();
+                const getMeta = tx.objectStore('meta').get('appState');
+                tx.oncomplete = () => ok({ hws: getHw.result || [], meta: getMeta.result || {} });
+                getHw.onerror = () => bad(getHw.error || new Error('getAll error'));
+                getMeta.onerror = () => bad(getMeta.error || new Error('get error'));
+              } catch (e) { bad(e); }
+            });
+            const hasScores = x => x.scores && Object.values(x.scores).some(a => Array.isArray(a) && a.length);
+            const scored = hws.filter(hasScores);
+            const hw = (app.currentHomework && hws.find(x => x.id === app.currentHomework && hasScores(x))) || scored[0] || hws[0];
+            if (hw) {
+              scorePaperName = hw.name || '';
+              const cls = app.currentClass || 'class9';
+              const rows = (hw.scores && (hw.scores[cls] || hw.scores.class9 || hw.scores.class11)) || [];
+              scoreRows = rows.map(r => ({ name: r.name, score: r.score, rank: r.rank, questionScores: r.questionScores || {} })).filter(r => r.name);
+              scoreQuestions = (hw.questions && (hw.questions[cls] || hw.questions.class9)) || [];
+            }
+            res();
+            return;
+          } catch (e) {
+            if (String(e.message) !== 'stores-not-ready') { console.log('[参省诊断] tx异常: ' + e.message); res(); return; }
+            /* stores 未就绪：关连接放行主系统升级，稍后重试 */
+          } finally {
+            try { if (conn) conn.close(); } catch (e) {}
+          }
+          await new Promise(r => setTimeout(r, 500));
+        }
+        res();
       })
     ]);
   }

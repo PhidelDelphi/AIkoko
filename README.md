@@ -1,112 +1,184 @@
-# AIkoko · AFR 英语教学一体化系统
+<div align="center">
 
-> AFR = Assignment Feedback & Review（作业反馈与评讲）
-> 面向高中英语教学场景的**纯前端、离线优先**课堂系统：从课前歌曲到成绩分析、试卷评讲、语篇研读、作文评讲、真题拓展与教学反思，八个版面覆盖一节英语课的完整流程。
+# 🎓 AIkoko · AFR 高中英语课堂一体化系统
 
-## 功能版面
+### Assignment Feedback & Review —— 覆盖一节英语课的完整闭环
 
-| Tab | 名称 | 功能 |
-|---|---|---|
-| ① 「须臾」Prelude | 课前 | 每日歌曲（`Song of the Day/` 文件夹自动扫描）、课堂开场 |
-| ② 「受绳」Feedback | 学生成绩 | Excel 导入、按学号/分数排序、自动等级标识 |
-| ③ 「就砺」Review | 习题评讲 | 题型分类、正确率着色、原文圈画标注（画笔/高亮/橡皮）、题号网格导航 |
-| ④ 「致远」MindMap | 语篇研读 | 语篇六步研读引擎、PDF 语篇自动识别、正文整篇可编辑 |
-| ⑤ 「青蓝」Composition | 作文评讲 | 读后续写/应用文八步评讲框架、PDF 自动识别原文与范文、输入语料（Show, not tell） |
-| ⑥ 「跬步」Knowledge | 知识技能 | 按作业+班级独立保存的知识点笔记 |
-| ⑦ 「博见」Extension | 真题拓展 | 高考真题拓展包、单卷 JSON 导入导出 |
-| ⑧ 「参省」Introspection | 教学反思 | 成绩自动同步分桶、教师批注、学生反思 |
+**课前唤醒 · 成绩反馈 · 习题评讲 · 语篇研读 · 作文升格 · 知识沉淀 · 真题拓展 · 教学反思**
 
-数据全部保存在浏览器本地（IndexedDB + localStorage），关闭浏览器不丢失；通过 JSON 导出/导入实现跨机迁移。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![纯前端](https://img.shields.io/badge/架构-纯前端·零后端-blue)
+![离线优先](https://img.shields.io/badge/数据-离线优先·不出浏览器-green)
+![AI](https://img.shields.io/badge/AI%20协同-国产大模型%20GLM-orange)
+![浏览器](https://img.shields.io/badge/浏览器-Chrome%20%7C%20Edge%20%7C%20Firefox-success)
 
-## 快速开始
+<img src="docs/screenshots/hero.png" alt="AFR 八版面全景" width="100%">
 
-### 方式一：Windows 一键启动（推荐）
+*一套系统走完一节课：从「须臾」开课到「参省」反思，八个版面环环相扣。*
 
-- **免 Python**：双击 `启动服务器-免Python.bat`（调用 `server.ps1`，基于 .NET HttpListener，Win7~Win11 均可）
-- **有 Python**：双击 `启动服务器.bat`
+</div>
 
-启动后浏览器自动打开 `http://localhost:8766`。
+---
 
-### 方式二：任意静态服务器
+## ✨ 为什么是 AFR
+
+> **"不是把 AI 搬进课堂，而是找到它'刚刚好'的位置。"**
+
+AFR 不是"AI 帮老师改作业"的单点工具，而是把 AI 融入**教学全流程**的课堂操作系统：
+
+| 设计原则 | 在产品中的落点 |
+|---|---|
+| 🧑‍🏫 **AI 是助手，教师是主导** | AI 生成的每一份拓展素材都带「⚠️ AI 库稿·待审定」标记，**教师点击「审定」后方可上墙**；逐题评讲、批语、作文升格全部由教师确认后生效 |
+| 🔒 **数据不出浏览器** | 纯前端 + IndexedDB 本地持久化，学生成绩不经过任何服务器；一键「Hide Names」隐藏姓名用于投屏 |
+| 🔁 **一节课一个闭环** | 成绩 → 评讲 → 研读 → 写作 → 沉淀 → 拓展 → 反思，每个版面的数据自动流向下一个环节 |
+
+八个版面以**《荀子·劝学》**的为学之路命名——
+
+> *不积**跬步**，无以至千里；不积小流，无以成江海。……木受绳则直，金**就砺**则利。……吾尝终日而思矣，不如**须臾**之所学也。……不如登高之**博见**……假舆马者，非利足也，而**致**千里……君子博学而日**参省**乎己，则知明而行无过矣。青，取之于蓝，而青于蓝。*
+
+## 🗺️ 一节课的旅程
+
+```mermaid
+flowchart LR
+    A["「须臾」Prelude<br/>课前唤醒"] --> B["「受绳」Feedback<br/>成绩反馈"]
+    B --> C["「就砺」Review<br/>习题评讲"]
+    C --> D["「致远」MindMap<br/>语篇研读"]
+    D --> E["「青蓝」Composition<br/>作文评讲"]
+    E --> F["「跬步」Knowledge<br/>知识沉淀"]
+    F --> G["「博见」Extension<br/>真题拓展"]
+    G --> H["「参省」Introspection<br/>教学反思"]
+```
+
+## 🖥️ 八大版面 · 真实界面
+
+### ① 「须臾」Prelude —— 课前 3 分钟
+<img src="docs/screenshots/01-prelude.png" width="88%">
+
+每日九宫格素材自动生成：每日一句 / 每日一词 / 每日人物 / 每日歌曲 / 每日新闻 / 每日名画 / 冷知识 / 谜语 / 每日一书，多语言文字墙营造课堂仪式感，一键 **LET'S BEGIN** 进入正课。
+
+### ② 「受绳」Feedback —— 成绩反馈
+<img src="docs/screenshots/02-scores.png" width="88%">
+
+Excel 答题明细一键导入；按分数排序自动颁发 🥇🥈🥉 奖牌徽章；总分按等级着色；七题型分项得分一目了然；**隐私模式一键隐藏全部姓名**，投屏零顾虑。
+
+### ③ 「就砺」Review —— 习题评讲（核心）
+<img src="docs/screenshots/03b-review-passage.png" width="88%">
+
+题号网格按正确率**四色分级**（🟢≥85% 不用评讲 → 🔴<60% 详细评讲）；点击题号即刻联动**左侧原文 + 右侧题目卡**：班级/年级正确率、答案分布条形图、考点标签；画笔 / 高亮 / 橡皮直接在原文上圈画标注。
+
+### ④ 「致远」MindMap —— 语篇六步研读
+<img src="docs/screenshots/04b-mindmap-step3.png" width="88%">
+
+自研**苏格拉底式六步课堂引擎**：① 文体识别 → ② 主题内容 → ③ 宏观结构 → ④ 衔接连贯 → ⑤ 微观语言 → ⑥ 意图回归。学生逐段"闯关解锁"，答对才揭示下一段；答对即在**左侧原文高亮标注试题出处**（📍 Q21）；每一步都有 AI 生成的💡提示与✓讲评，节奏完全由教师掌控。
+
+### ⑤ 「青蓝」Composition —— 作文评讲
+<img src="docs/screenshots/05-composition.png" width="88%">
+
+读后续写 / 应用文**八步评讲框架**：核对语篇 → 确定主题 → 寻找伏笔 → 预测情节 → 反熵问题 → 输入语料（Show, not tell 图文语料库）→ 评价升格 → 共赏佳作。试卷 PDF + 答案 PDF 导入后**自动识别原文、段首句与范文**并分篇建档。
+
+### ⑥ 「跬步」Knowledge —— 知识沉淀
+<img src="docs/screenshots/06-knowledge.png" width="88%">
+
+块编辑器笔记面板：自由模式 / 按题型 / 按语法三种组织方式，配套解题技巧库与常用知识点库（跨作业共享），支持导出归档。
+
+### ⑦ 「博见」Extension —— 真题拓展
+<img src="docs/screenshots/07-extension.png" width="88%">
+
+"博见，取自《劝学》'不如登高之博见'。"六卡片对应试卷六大题型，AI 生成的博物馆式**拓展展品**（博见文库 / 博见日报 / 课堂彩蛋视频）按语篇话题自动归档，难度三星分层；AI 稿须经**教师审定**才进入课堂。
+
+### ⑧ 「参省」Introspection —— 教学反思
+<img src="docs/screenshots/08-introspection.png" width="88%">
+
+"君子博学而日参省乎己。"学生输入姓名即**自动匹配成绩表**：总分、班排、七题型雷达图、强弱板块引导语一步生成；四卡复盘（得分概览 → 错题归因 → 得失总结 → 行动计划）写完提交，教师在批阅模式写下批注，师生日环形成闭环。
+
+## 🤖 人机协同备课流水线
+
+AFR 的内容生产不是"AI 一键生成"，而是一条**教师主导、AI 分工**的流水线——仓库 `skills/` 目录沉淀了 10 个板块技能（提示词工程 + 输出 JSON Schema + 示例），任意国产大模型智能体均可按规范生产内容：
+
+```mermaid
+flowchart LR
+    P["📄 试卷 PDF + 答案 PDF + 答题明细 Excel"] --> W{"教师 + AI 智能体"}
+    W --> R["就砺 · 逐题错因分析 JSON"]
+    W --> M["致远 · 六步研读 JSON"]
+    W --> E["青蓝 · 作文评讲 JSON"]
+    W --> X["博见 · 拓展展品 JSON"]
+    R & M & E & X --> U["📦 合并 JSON（type: afr-merged）"]
+    U --> T["⚙️ → 🤖 一键分发到各板块"]
+    T --> V["👩‍🏫 教师逐项审定 → 进入课堂"]
+```
+
+- **开发过程**：系统本身基于国产大模型（智谱 GLM 系列）+ 智能体编程框架（ZCode）人机协同开发，AI 承担架构设计与主要编码，教师负责教学设计、需求定义与逐轮实测验收——开发过程记录见 [`docs/开发纪要.md`](docs/开发纪要.md)；
+- **使用过程**：试卷解析、错因分析、拓展素材由 AI 按技能规范生成，**全部经教师审定后使用**。
+
+## 🏆 与大赛要求的对应
+
+| 大赛要求 | 本作品落点 |
+|---|---|
+| 基于国产大模型 / 智能体开发框架 | 智谱 GLM 大模型 + ZCode 智能体框架完成开发；`skills/` 沉淀 10 个可复用提示词工程技能 |
+| 解决教、学、管、研、育、评环节具体问题 | 八版面对应"评（就砺）/ 教（致远·青蓝）/ 学（参省）/ 研（受绳·跬步）/ 育（须臾·博见）" |
+| 数据分析、互动反馈、推理预测 | 正确率四色分级、七题型雷达图、薄弱板块自动引导、错题归因 |
+| 体现"人机协同"，不依赖一键生成 | AI 稿「待审定 → 教师审定」两态机制；流水线各环节教师把关 |
+| 个人隐私保护，不出现未成年人画面 | 数据全部本地化不上传；隐私模式一键隐名；本 README 演示数据均为**全虚构**姓名 |
+
+## 🚀 快速开始
+
+**方式一 · Windows 一键启动（推荐）**：双击 [`启动服务器-免Python.bat`](启动服务器-免Python.bat)（基于 .NET，无需安装 Python），浏览器自动打开 `http://localhost:8766`
+
+**方式二 · 任意静态服务器**：
 
 ```bash
-# 在本目录执行
 python -m http.server 8766 --bind 127.0.0.1
 # 访问 http://127.0.0.1:8766
 ```
 
-### 方式三：GitHub Pages
+**方式三 · GitHub Pages**：纯静态站点，Settings → Pages 一键托管即可（仅"每日歌曲"自动扫描在该环境下退化为固定文件名）。
 
-本系统为纯静态站点，可直接开启 GitHub Pages 托管（Settings → Pages → 部署 main 分支根目录）。
-注：Pages 环境无 `/list-songs` 接口，Of Today 歌曲扫描会自动退回固定文件名逻辑，其余功能不受影响。
+> 🎁 **30 秒看满数据效果**：启动后点右上角 **⚙ → Import Backup**，选择 [`docs/演示备份-AFR.json`](docs/演示备份-AFR.json)，即可加载一个完整的虚构班级（16 名学生、67 题、含各板块演示数据）。*演示姓名均为虚构。*
 
-### 浏览器要求
+浏览器要求：Chrome / Edge（推荐）/ Firefox / Safari。更新页面后请 **Ctrl+Shift+R** 强制刷新。
 
-Chrome / Edge / Firefox / Safari 均可；不支持 IE。获取新版页面请 **Ctrl+Shift+R 强制刷新**。
+## 🔒 数据安全与隐私
 
-## 数据工作流
+- 所有数据保存在**浏览器本地**（IndexedDB + localStorage），关闭浏览器不丢失，不经过任何服务器；
+- 各板块均提供 **JSON 导出 / 导入**，跨设备迁移无需联网；
+- 「受绳」版面内置 **Hide Names** 一键隐名，保护学生隐私；
+- 仓库 `.gitignore` 永久排除 `Data/`（真实试卷与成绩）与本地音频。
 
-系统与 AI 助手配合的典型备课流程（技能见 [`skills/`](skills/)）：
-
-```
-试卷 PDF + 答案 PDF
-   ├─ Scores        ← Excel 答题明细导入（PreAFR成绩合并 技能预处理）
-   ├─ MindMap       ← PDF 语篇自动识别（Mindmap语篇自动识别 技能）
-   ├─ Review        ← 逐题 AI 分析 JSON（Review错因分析和变式生成 技能）
-   ├─ Composition   ← 作文评讲 JSON（Composition系列 技能）
-   ├─ Extension     ← 真题拓展 JSON（Extension拓展内容生成 技能）
-   └─ 总包「考试名称-合并.json」(type: afr-merged)
-        → ⚙ → 🤖 Import AI Analysis 一键分发到各板块
-```
-
-各板块也有独立的 ⬆️导入JSON / ⬇️导出JSON 按钮，可单独搬运数据。
-
-## 目录结构
+## 📁 目录结构
 
 ```
 AIkoko/
-├── index.html              # 主页面（八版面 + 视图容器 + 内联脚本）
-├── script-v2.js            # AFR 主逻辑（index.html 实际加载的脚本）
-├── essay-review.js         # Composition 作文评讲模块
-├── bojian.js               # Extension 博见模块
-├── introspection.js        # Introspection 参省模块
-├── extension-高考真题.json  # 博见真题拓展包（板块内 ⬆️导入JSON 载入）
-├── libs/                   # 第三方库（全部本地化，离线可用）
-│   ├── xlsx.full.min.js    #   SheetJS Excel 解析
-│   ├── fabric.min.js       #   Canvas 圈画标注
-│   ├── pdf.min.legacy.js + pdf.worker.min.legacy.js + pdfjs-cmaps/  # pdf.js（含中文CID字体解码）
-│   ├── html2canvas.min.js / jspdf.umd.min.js / jszip.min.js
-│   └── importWorker.js     #   后台导入 Worker
-├── skills/                 # AI 工作流技能（生成各板块 JSON 数据）
-├── docs/开发纪要.md         # 开发内档：架构决策、深坑实录、修改守则
-├── server.ps1              # PowerShell 本地服务器（含 /list-songs 接口）
-├── 启动服务器.bat           # Python 启动
-├── 启动服务器-免Python.bat  # PowerShell 启动
-├── Song of the Day/        # 每日歌曲（MP3 自备，见文件夹内 README.txt）
-└── Data/                   # 本地试卷/成绩数据（不入库，见下方隐私说明）
+├── index.html              # 主页面（八版面 + 六步研读引擎）
+├── script-v2.js            # AFR 主逻辑
+├── essay-review.js         # 「青蓝」作文评讲模块
+├── bojian.js               # 「博见」真题拓展模块
+├── introspection.js        # 「参省」教学反思模块
+├── extension-高考真题.json  # 博见真题拓展包（板块内导入）
+├── libs/                   # 离线第三方库（xlsx / fabric / pdf.js + 中文 cmaps / jszip ...）
+├── skills/                 # 10 个 AI 备课技能（提示词工程 + JSON Schema + 示例）
+├── docs/
+│   ├── 开发纪要.md          # 架构决策、踩坑实录、修改守则
+│   ├── 演示备份-AFR.json    # 一键导入的虚构演示数据
+│   └── screenshots/        # 本页截图
+├── server.ps1              # PowerShell 本地服务器（免 Python，含歌曲接口）
+├── 启动服务器.bat / 启动服务器-免Python.bat
+└── Song of the Day/        # 课前歌曲（MP3 自备）
 ```
 
-## 数据与隐私
+## 🛠️ 技术栈
 
-- **Data/**（试卷 PDF/XLSX、真实学生成绩）**绝不入库**，已在 `.gitignore` 中排除；
-- `Song of the Day/` 中的 MP3/LRC 为个人音乐文件，同样不入库（仅保留约定说明）；
-- `incoming/pending.json` 为 AI 处理试卷后的落稿位置，属工作数据，不入库；
-- 浏览器内的 IndexedDB / localStorage 数据不随文件迁移，跨机请使用各板块的 JSON 导出/导入。
+原生 HTML / CSS / JavaScript（零框架零构建）· IndexedDB + localStorage 持久化 · pdf.js（含中文 CID 字符映射，试卷 PDF 离线解析）· SheetJS（Excel）· Fabric.js（Canvas 圈画）· JSZip / html2canvas / jsPDF（导出）· Mermaid（本页图表）
 
-## 二次开发
+## 📄 License
 
-改动前请先阅读 [`docs/开发纪要.md`](docs/开发纪要.md)，要点：
+[MIT](LICENSE) © 2026 PhidelDelphi。`libs/` 内第三方库归各自作者所有，遵循其原许可。
 
-- 改 `index.html` 前先备份；改任一 JS 后 `node --check` 语法检查并 bump 对应 `?v=`/`?t=` 版本参数（各模块独立）；
-- 主逻辑只发布单份 `script-v2.js`（原开发环境中的 `script.js` 与其完全同步）；
-- 已知无害噪音：启动时 `favicon.ico` 与 `AFR-backup-*.json` 探测的 404。
+---
 
-## 许可证
+<div align="center">
 
-本项目采用 [MIT License](LICENSE) 开源，可自由使用、修改与分发，仅需保留版权声明。
+**须臾之所学 · 受绳而定直 · 就砺而得利 · 致远而行远**
 
-注意：`libs/` 目录下的第三方库（SheetJS、Fabric.js、pdf.js、html2canvas、jsPDF、JSZip）版权归各自作者所有，遵循其原有许可证。
+*青出于蓝 · 跬步千里 · 博见天下 · 参省己身*
 
-## 致谢
-
-本项目为参加无锡市"人工智能+教育"创新应用技能大赛的作品。
+</div>
