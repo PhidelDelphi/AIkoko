@@ -101,6 +101,12 @@ AIkoko/
 - 主逻辑只发布单份 `script-v2.js`（原开发环境中的 `script.js` 与其完全同步）；
 - 已知无害噪音：启动时 `favicon.ico` 与 `AFR-backup-*.json` 探测的 404。
 
+## 许可证
+
+本项目采用 [MIT License](LICENSE) 开源，可自由使用、修改与分发，仅需保留版权声明。
+
+注意：`libs/` 目录下的第三方库（SheetJS、Fabric.js、pdf.js、html2canvas、jsPDF、JSZip）版权归各自作者所有，遵循其原有许可证。
+
 ## 致谢
 
 本项目为参加无锡市"人工智能+教育"创新应用技能大赛的作品。
