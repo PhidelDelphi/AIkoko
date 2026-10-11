@@ -1,0 +1,247 @@
+{
+  "type": "bojian-paper",
+  "paper": { "name": "2026年高考英语真题1卷", "date": "2026-06" },
+  "sections": {
+    "reading": {
+      "topic": "A 场馆资讯 · B 词典与求知 · C 城市种树 · D 审美与思维（四篇连读）",
+      "trace": "刚讲评的四篇：A篇SoFi体育场活动页（信息检索型应用文）；B篇母亲与儿子的词典往事——学习的引擎是curiosity；C篇纽约种树反生臭氧的科学反转；D篇剑桥实验——评判美，让思维更抽象。",
+      "browse": [
+        {
+          "id": "gk-a1", "type": "text", "tpl": "book",
+          "title": "SoFi体育场：把室内与户外装进同一片屋顶", "en": "Inside SoFi Stadium",
+          "body": "SoFi Stadium于2020年在洛杉矶落成，是NFL公羊队（Rams）与闪电队（Chargers）的共同主场，可容纳约7万名观众。它最出名的设计是一顶半透明ETFE屋顶——阳光与海风可以进来，风雨被挡在外面，草坪却能像户外球场一样晒到太阳。\n2022年第五十六届超级碗（Super Bowl LVI）在这里举行；2028年洛杉矶奥运会，它还将承办开闭幕式。\nA篇正是摘自这类场馆的官方活动页（events calendar）：赛事表、周边酒店、停车规则。这是应用文阅读里最典型的信息检索型文本——不必逐词细读，先看题干圈定关键词（球队名／酒店名／停车），再回原文定位比对细节，答案往往就是原文信息的同义改写（paraphrase）。",
+          "kw": "SoFi Stadium", "source": "AI生成 · 据公开资料改写", "diff": 1, "ai": true, "reviewed": false, "egg": false,
+          "qa": "若要为这份活动页增加一个面向国际游客的板块，你会加什么？"
+        },
+        {
+          "id": "gk-b1", "type": "text", "tpl": "book",
+          "title": "一部词典的人生：从约翰逊到屏幕时代", "en": "The Life of a Dictionary",
+          "body": "1755年，塞缪尔·约翰逊（Samuel Johnson）用近九年编成《英语词典》，一个人定义了四万余词。此后《牛津英语词典》（OED）动用数以千计的志愿读者摘句引例，编了将近五十年——词典从来不只是查词的工具，它是一座语言的档案馆。\nB篇作者13岁生日收到的那本纸质词典，用铅笔标记查过的每一个词条（mark every entry I looked up），把查词变成看得见的成长刻度。\n屏幕时代，查词只要0.3秒，但作者点破的恰恰是：It's not about the words themselves, but the wanting to know them——重要的从来不是那些词，而是想知道的那颗心。curiosity（好奇）与appetite（胃口、渴望），才是学习真正的引擎。",
+          "kw": "dictionary history", "source": "AI生成 · 据词典史公开资料改写", "diff": 2, "ai": true, "reviewed": false, "egg": false,
+          "qa": "Kevin问：Do you know all these words? 妈妈答：I definitely do not…——为什么这个不知道反而动人？"
+        },
+        {
+          "id": "gk-c1", "type": "text", "tpl": "news", "paperName": "博见日报",
+          "title": "种树也会帮倒忙？城市绿化的科学细节", "en": "When Trees Make Ozone",
+          "body": "本报讯 纽约市每年新植数万棵树，为的是遮阴、降温、吸碳。但哥伦比亚气候学院的新研究提醒：橡树与枫香树（sweetgum）会释放大量异戊二烯（isoprene）——它本身无害，却能和汽车尾气、工业排放中的氮氧化物（nitrogen oxides）迅速反应，生成地面臭氧（ground-level ozone），加重呼吸系统疾病。\n研究者测算：若照旧树种比例种植，未来几十年曼哈顿的isoprene排放将上升约140%，夏季臭氧浓度至多升30%。\n但这并不是砍树的理由：橡树是关键物种（keystone species），养育着本地的昆虫与鸟类。研究者的答案是right tree, right place——在对的地方种对的树，同时重新思考以车为中心（car-centric）的生活方式。\n一句话：自然方案的答案常常不在要不要，而在怎么选。",
+          "kw": "urban trees isoprene ozone", "source": "AI生成 · 据C篇及公开报道改写", "diff": 3, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-c2", "type": "image",
+          "title": "（待采买）城市树冠：街角的橡树", "en": "Urban Canopy",
+          "kw": "city street oak trees canopy 城市行道树",
+          "source": "AI建议 · 待教师挑选图片（CC0来源优先）", "diff": 1, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-d1", "type": "video",
+          "title": "（待采买）审美如何改变思维：剑桥实验怎么说", "en": "Beauty and the Mind",
+          "kw": "剑桥实验 审美 抽象思维 心理学科普",
+          "source": "AI建议 · 待教师挑选视频", "diff": 2, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-d2", "type": "text", "tpl": "book",
+          "title": "心理学家如何证明看美让人想得更远：D篇实验拆解", "en": "Inside the Study",
+          "body": "D篇是一项教科书级的对照实验（controlled experiment），值得拆开看：\n第一步，分组。187名参观者被随机分成审美组（beauty group，主动评判美并打分）与对照组（做配对连线任务）——随机分组保证两组起点相当。\n第二步，测量。随后测抽象思维（abstract thinking）：审美组平均高约14%；有艺术爱好的人之中，优势扩大到25%以上。\n第三步，排除干扰。审美组并没有更快乐（did not report feeling any happier）——这一步最关键：如果只是心情好让人发挥好，快乐程度就应当能解释全部差距；它不能，才说明真正起作用的是与美的engagement（投入）本身。这叫排除混淆变量（ruling out confounding factors）。\n研究者Schnall的话值得抄下来：屏幕让我们习惯于具体而狭窄地思考，而让思绪游荡（let the mind wander）的时刻，恰恰是思路变宽的时刻。\n读研究类语篇就问这一句：还有别的解释吗？",
+          "kw": "controlled experiment abstract thinking", "source": "AI生成 · 据D篇研究改写", "diff": 3, "ai": true, "reviewed": false, "egg": false,
+          "qa": "为什么审美组并不更快乐这一结果，反而让结论更可信？"
+        }
+      ],
+      "corpus": [
+        { "id": "gk-rc1", "term": "go-to destination", "meaning": "首选去处；必去之地（A篇）" },
+        { "id": "gk-rc2", "term": "headline-grabbing", "meaning": "抢头条的；轰动一时的（A篇）" },
+        { "id": "gk-rc3", "term": "It occurred to me that…", "meaning": "我忽然想到……（B篇）" },
+        { "id": "gk-rc4", "term": "make it through", "meaning": "挺过；顺利走完（B篇）" },
+        { "id": "gk-rc5", "term": "appetite", "meaning": "（喻）渴望；求知欲（B篇）" },
+        { "id": "gk-rc6", "term": "airborne", "meaning": "空气传播的（C篇）" },
+        { "id": "gk-rc7", "term": "be oblivious to", "meaning": "对……浑然不觉（C篇）" },
+        { "id": "gk-rc8", "term": "keystone species", "meaning": "关键物种（C篇）" },
+        { "id": "gk-rc9", "term": "car-centric", "meaning": "以汽车为中心的（C篇）" },
+        { "id": "gk-rc10", "term": "cognitive", "meaning": "认知的（D篇）" },
+        { "id": "gk-rc11", "term": "self-transcendent", "meaning": "自我超越的（D篇）" },
+        { "id": "gk-rc12", "term": "zone out", "meaning": "走神；放空（D篇）" }
+      ],
+      "think": { "q": "Stadiums, dictionaries, trees and art — which of the four passages changed your mind about something? Say what, and why.", "replies": [] }
+    },
+
+    "five7": {
+      "topic": "当AI走进博物馆",
+      "trace": "七选五语篇：机器学习让参观个性化、让文物早检早修、让教育分层适配——但数据收集也带来隐私之问（36-40题答案串起全文脉络）。",
+      "browse": [
+        {
+          "id": "gk-f1", "type": "text", "tpl": "book",
+          "title": "算法如何认出画上的伤痕：AI文物保护实例", "en": "AI Meets Decay",
+          "body": "文物的老化是安静而持续的：温湿度波动、光照、微生物，都会在颜料与织物上留下肉眼难见的痕迹。\n如今博物馆用高光谱成像（hyperspectral imaging）与机器学习给藏品做体检：荷兰国立博物馆的夜巡行动（Operation Night Watch）把伦勃朗《夜巡》拼成717亿像素的数字孪生，裂纹与历次修复层的地图一目了然；敦煌研究院的数字敦煌工程逐年为莫高窟壁画存档，让退化过程第一次可见、可比较。\n这正是七选五里那句话的落地：early detection is vital——早一步发现，就多一分preventive measures（预防性保护）的余地。\n课后小任务：到数字敦煌开放素材库找一窟你喜欢的壁画，记下它的窟号。",
+          "kw": "数字敦煌 文物修复 AI", "source": "AI生成 · 据公开资料改写", "diff": 2, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-f2", "type": "text", "tpl": "news", "paperName": "博见日报",
+          "title": "AI导览员上岗：你的下一位讲解员可能是算法", "en": "Your Next Guide Is an Algorithm",
+          "body": "本报讯 为您推荐左手边第三件展品——根据停留时长与观展记录，推荐引擎（recommendation engine）正把固定的参观动线变成千人千面的personalized journey。\n支持者说，它让小众展品被看见；也有观众担心：算法会不会把我圈在我已经喜欢的世界里（filter bubble，信息茧房）？\n博物馆的回答与七选五结尾如出一辙：与AI伦理学家（ethicists）合作把算法调公平，把隐私政策立在数据收集之前——Strict policies should be established to protect visitors' information.",
+          "kw": "AI导览 博物馆 推荐", "source": "AI生成 · 示意改写", "diff": 1, "ai": true, "reviewed": false, "egg": false,
+          "qa": "你愿意用一点隐私换一场私人定制的参观吗？边界画在哪？"
+        },
+        {
+          "id": "gk-f3", "type": "video",
+          "title": "（待采买）数字敦煌：当千年壁画遇上AI", "en": "Digital Dunhuang",
+          "kw": "数字敦煌 AI 文物修复 纪录片",
+          "source": "AI建议 · 待教师挑选视频", "diff": 2, "ai": true, "reviewed": false, "egg": true
+        }
+      ],
+      "corpus": [
+        { "id": "gk-fc1", "term": "a personalized visitor journey", "meaning": "个性化参观路线" },
+        { "id": "gk-fc2", "term": "recommendation engine", "meaning": "推荐引擎" },
+        { "id": "gk-fc3", "term": "sustain natural decay", "meaning": "持续自然老化" },
+        { "id": "gk-fc4", "term": "early detection", "meaning": "早期发现" },
+        { "id": "gk-fc5", "term": "take preventive measures", "meaning": "采取预防措施" },
+        { "id": "gk-fc6", "term": "tailor A to B", "meaning": "使A贴合B（tailors learning experiences to…）" },
+        { "id": "gk-fc7", "term": "raise privacy issues", "meaning": "引发隐私问题" }
+      ],
+      "think": { "q": "If our school museum club could use AI, what would you build: a virtual guide, a decay detector, or something new?", "replies": [] }
+    },
+
+    "cloze": {
+      "topic": "小镇与根：俄亥俄成长记",
+      "trace": "完形语篇：去外州读大学，才读懂小镇的好——慢节奏、邻里即亲人、对周遭山水的在意；离开，恰恰是读懂的方式。",
+      "browse": [
+        {
+          "id": "gk-k1", "type": "text", "tpl": "book",
+          "title": "小镇美国：飞越之地上的真实小镇", "en": "Small-Town America",
+          "body": "美国中西部的小镇常被东西海岸戏称为flyover country（飞越之地——只从飞机舷窗里路过的地方）。完形作者遇到的你们那儿要坐飞机才能到吧？住在农场吗？正是这种地理刻板印象（geographic stereotype）的日常版本。\n但小镇自有其节奏：周五晚的橄榄球赛（Friday night lights）是全镇的节日；邻里互相认识，串门不用预约；作者说的the ins and outs of the town，不只是熟悉街道，而是知道谁家果园该收了、哪条路上有鹿出没。\n俄亥俄（Ohio）位于五大湖区南侧，曾是制造业重镇，属于所谓Rust Belt（铁锈地带）——工厂迁走后，小镇更安静了，也更靠人与人撑起来。",
+          "kw": "small town America Rust Belt", "source": "AI生成 · 据公开资料改写", "diff": 2, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-k2", "type": "text", "tpl": "book",
+          "title": "根的中西对读：从落叶归根到 small-town roots", "en": "Roots, East and West",
+          "body": "英语说roots，汉语说根——两个比喻惊人地一致：人如树，离开土壤，仍带着土的记忆。\n费孝通在《乡土中国》里说，中国社会是乡土性的：安土重迁、熟人社会，人与土地绑在一起。完形作者笔下an extension of your family（邻人是家的延伸），几乎就是远亲不如近邻的英文版。\n不同的是方向：中国的根常指向回去——落叶归根、告老还乡；而作者的根更像随身携带的指南针：wherever my next adventure takes me, I can trust my small town roots to lead me in the right direction——不回去，也带着走。\n两种根，你更像哪一种？",
+          "kw": "乡土中国 落叶归根", "source": "AI生成 · 原创", "diff": 3, "ai": true, "reviewed": false, "egg": false,
+          "qa": "trust my small town roots to lead me——根为什么能当指南针用？"
+        },
+        {
+          "id": "gk-k3", "type": "audio",
+          "title": "（待采买）乡村路，带我回家", "en": "Country Roads",
+          "kw": "John Denver Take Me Home Country Roads 网易云",
+          "source": "AI建议 · 待教师挑选音频（课堂彩蛋候选）", "diff": 1, "ai": true, "reviewed": false, "egg": true
+        }
+      ],
+      "corpus": [
+        { "id": "gk-kc1", "term": "small town roots", "meaning": "小镇之根；故土情结" },
+        { "id": "gk-kc2", "term": "be thankful for", "meaning": "对……心存感激" },
+        { "id": "gk-kc3", "term": "be convinced that", "meaning": "确信……" },
+        { "id": "gk-kc4", "term": "the ins and outs of", "meaning": "……的里里外外；来龙去脉" },
+        { "id": "gk-kc5", "term": "an extension of your family", "meaning": "家庭的延伸" },
+        { "id": "gk-kc6", "term": "be present and mindful of", "meaning": "在场并留心于……" },
+        { "id": "gk-kc7", "term": "look forward to (doing) sth", "meaning": "盼望……（to是介词）" }
+      ],
+      "think": { "q": "When you leave for college one day, what 'roots' will you carry with you?", "replies": [] }
+    },
+
+    "gapfill": {
+      "topic": "大集：写在农历上的市井烟火",
+      "trace": "语法填空语篇：从汉代以余易缺的物物交换，到今天的烟火气现场——大集是买卖，更是社交与节庆（56-65题全在语篇里）。",
+      "browse": [
+        {
+          "id": "gk-g1", "type": "text", "tpl": "news", "paperName": "博见日报",
+          "title": "赶大集，赶的是什么？", "en": "What Do We Chase at the Market?",
+          "body": "本报讯 农历逢五、逢七，镇上的大集准时开张。热气从饺子摊漫过来，唱戏的、套圈的、修伞的各就各位——这是语法填空语篇里那句People from near and far crowd into these markets的现场版。\n这几年，赶大集在年轻人手里翻了新：有人举着手机直播逛集，一场直播带火一整个镇的苹果；有人专门驱车两小时，只为在集上吃一碗热豆腐脑。\n一位集上卖了三十年菜的大爷说得直白：集上东西未必最便宜，但人得有个见面的由头。\n——这大概就是daji译成fair而不只是market的原因：买卖是壳，见面是核。",
+          "kw": "赶大集 集市 vlog", "source": "AI生成 · 示意改写", "diff": 1, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-g2", "type": "text", "tpl": "book",
+          "title": "从以物易物到直播带货：集市贸易小史", "en": "From Barter to Livestream",
+          "body": "集市是人类的第一个社交网络：以物易物（barter）不需要文字，只需要一个共同赴约的日子。\n中国的集市传统可上溯至汉代，《汉书》已有市集记载；庙会、草市、墟市，名称南北各异——正如语篇所说The exact dates and frequency vary from region to region，但以余易缺（trade their surplus items for what they needed）的逻辑全国一致。\n今天，市集换了形态继续活着：早市、夜市、创意市集，以及手机里的直播间——限时开播与逢五逢七，其实是同一种节拍：约定俗成的时间，本身就是召唤。",
+          "kw": "集市 物物交换 贸易史", "source": "AI生成 · 据贸易史公开资料改写", "diff": 2, "ai": true, "reviewed": false, "egg": false,
+          "qa": "直播间的大主播，和集上吆喝最响的摊主，像在哪里？不像在哪里？"
+        },
+        {
+          "id": "gk-g3", "type": "video",
+          "title": "（待采买）北方大集Vlog：烟火气现场", "en": "A Day at Daji",
+          "kw": "山东大集 赶集 vlog 烟火气",
+          "source": "AI建议 · 待教师挑选视频", "diff": 1, "ai": true, "reviewed": false, "egg": false
+        }
+      ],
+      "corpus": [
+        { "id": "gk-gc1", "term": "take place", "meaning": "举行；发生" },
+        { "id": "gk-gc2", "term": "vary from region to region", "meaning": "因地区而异" },
+        { "id": "gk-gc3", "term": "date back to", "meaning": "追溯至（不用被动语态）" },
+        { "id": "gk-gc4", "term": "daily necessities", "meaning": "日用必需品" },
+        { "id": "gk-gc5", "term": "trade A for B", "meaning": "以A换B" },
+        { "id": "gk-gc6", "term": "venue", "meaning": "场所；场地" },
+        { "id": "gk-gc7", "term": "be drawn by", "meaning": "被……吸引" },
+        { "id": "gk-gc8", "term": "significantly cheaper", "meaning": "明显更便宜" }
+      ],
+      "think": { "q": "If you took a foreign friend to a daji, what three things would you show them first — and what would you say about each?", "replies": [] }
+    },
+
+    "writing": {
+      "topic": "大学三事：Study · Socialize · Sleep 怎么排？",
+      "trace": "应用文任务：向校英文报Opinion栏目投稿，为学习、社交、睡眠按重要性排序并说理（约80词）。",
+      "browse": [
+        {
+          "id": "gk-w1", "type": "text", "tpl": "news", "paperName": "博见日报",
+          "title": "睡眠才是第一生产力？", "en": "Sleep First, Dream Later",
+          "body": "本报讯 睡眠研究给熬夜晚起的循环泼了冷水：青少年每天需要8至10小时睡眠（美国CDC建议），而记忆的存盘（memory consolidation）恰恰发生在深睡阶段——白天学的东西，是夜里写入大脑的。\n研究还显示：睡眠不足会同时拉低专注力与情绪调节力，社交也随之遭殃——三件事其实是一根链条，不是三件独立的事。\n投稿前不妨想想：把Sleep排第一，不是躺平，而是让Study与Socialize都更高效的底层配置。你的排序，能不能讲出这样一条链？",
+          "kw": "睡眠 记忆 大学生作息", "source": "AI生成 · 据睡眠科普资料改写", "diff": 1, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-w2", "type": "text", "tpl": "book",
+          "title": "排序类议论文怎么写：让立场清楚的句子们", "en": "How to Argue a Ranking",
+          "body": "排序题最大的坑，是三个都重要的和稀泥。三件武器送给你的80词：\n第一，亮排序。My ranking is Study first, Sleep second and Socialize third. / What tops my list is sleep — not study.\n第二，给理由（因果＋让步）。Study comes first because it is why we go to college in the first place. / Socializing matters, but not at the cost of sleep.\n第三，收束呼应。With these three in order, my college life can be both fruitful and healthy.\n还可以借一条数据增信（cite a fact）：According to a survey, students who sleep eight hours a night perform better…（用你们班真实调查更好）。\n80词很短：亮排序1句＋理由2至3句＋收束1句，正好。",
+          "kw": "英语写作 排序 议论文", "source": "AI生成 · 写作指导", "diff": 2, "ai": true, "reviewed": false, "egg": false,
+          "qa": "你的第一名会是谁？先用一句英文把排序说出来，再回来补理由。"
+        }
+      ],
+      "corpus": [
+        { "id": "gk-wc1", "term": "rank … in order of importance", "meaning": "按重要性为……排序" },
+        { "id": "gk-wc2", "term": "top the list / come first", "meaning": "位居第一" },
+        { "id": "gk-wc3", "term": "at the cost of", "meaning": "以……为代价" },
+        { "id": "gk-wc4", "term": "strike a balance between A and B", "meaning": "在A与B之间求平衡" },
+        { "id": "gk-wc5", "term": "a well-rounded life", "meaning": "全面均衡的生活" },
+        { "id": "gk-wc6", "term": "submit … to", "meaning": "向……投稿" }
+      ],
+      "think": { "q": "Make your own ranking of Study, Socialize and Sleep — and defend it in three sentences.", "replies": [] }
+    },
+
+    "cont": {
+      "topic": "风雪夜归人：Emily的圣诞夜",
+      "trace": "读后续写：暴风雪把赶赴多伦多的Emily困在路上，陌生夫妇Daniel与Rachel雪中援手——续写乘火车继续与三天后取车。",
+      "browse": [
+        {
+          "id": "gk-x1", "type": "text", "tpl": "book",
+          "title": "被困车中的正确姿势：来自雪地安全手册", "en": "Stranded in a Snowstorm",
+          "body": "原文里Emily的做法几乎踩满了安全要点：留在车内（stay with your car）——车体是现成的避风所，也更容易被救援发现；每隔一会儿发动引擎几分钟取暖——标准做法是每小时约10分钟，并留一条窗缝（crack a window）防一氧化碳积聚；裹毯子减少热量流失；等天亮再行动。\n她还做了两件看不见的对的事：省手机电量（无信号时反复拨号只会更绝望），以及接受今晚出不去的现实，把恐慌降为等待（panic set in 之后是 wrapped herself in a blanket, waiting for morning）。\n续写第二段Three days later恰好可以回答：这三天里，这些冷静的选择如何保护了她？",
+          "kw": "snowstorm safety stranded car", "source": "AI生成 · 据雪地安全公开建议改写", "diff": 1, "ai": true, "reviewed": false, "egg": false,
+          "qa": "在原文里找出与这四条安全要点一一对应的细节。"
+        },
+        {
+          "id": "gk-x2", "type": "text", "tpl": "book",
+          "title": "五大湖的雪库：湖效应雪一分钟课", "en": "Lake-Effect Snow 101",
+          "body": "底特律（Detroit）在五大湖区，多伦多（Toronto）在湖群东北岸——Emily这条圣诞路线恰好横穿著名的湖效应雪（lake-effect snow）地带：冷空气扫过尚未封冻的湖面，像海绵一样吸饱水汽，一上岸就倾泻成雪；雪带（snow band）所过之处，几小时能积半米。\n所以在五大湖区，风雪一夜成灾不是夸张，而是每年冬天的常规节目；当地封段绕行（detour）的标准操作，也解释了Emily为什么原以为会像在密歇根一样被引导绕行。\n写作小用场：blinding、muffled、inch along——写暴雪的词自带压低音量的效果。试着用三个这样的词，写半句雪景。",
+          "kw": "lake effect snow 大湖效应", "source": "AI生成 · 据气象科普资料改写", "diff": 2, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-x3", "type": "video",
+          "title": "（待采买）湖效应雪是怎么形成的", "en": "How Lake-Effect Snow Forms",
+          "kw": "lake effect snow 科普 大湖效应",
+          "source": "AI建议 · 待教师挑选视频", "diff": 2, "ai": true, "reviewed": false, "egg": false
+        },
+        {
+          "id": "gk-x4", "type": "audio",
+          "title": "（待采买）炉火与爵士：风雪夜的咖啡馆", "en": "Warm Jazz for a Snowy Night",
+          "kw": "Christmas jazz 轻音乐 壁炉 网易云",
+          "source": "AI建议 · 待教师挑选音频（课堂彩蛋候选）", "diff": 1, "ai": true, "reviewed": false, "egg": true
+        }
+      ],
+      "corpus": [
+        { "id": "gk-xc1", "term": "set out with high hopes", "meaning": "满怀希望出发" },
+        { "id": "gk-xc2", "term": "not give it much thought", "meaning": "没把它当回事" },
+        { "id": "gk-xc3", "term": "a blinding whiteout", "meaning": "遮天蔽日的白茫" },
+        { "id": "gk-xc4", "term": "inch along", "meaning": "一寸寸挪动" },
+        { "id": "gk-xc5", "term": "slide into a ditch", "meaning": "滑进沟里" },
+        { "id": "gk-xc6", "term": "stranded", "meaning": "被困的；搁浅的" },
+        { "id": "gk-xc7", "term": "with genuine warmth", "meaning": "带着真诚的暖意" },
+        { "id": "gk-xc8", "term": "grateful and relieved", "meaning": "感激又释然" }
+      ],
+      "think": { "q": "Daniel and Rachel were on their way home when they stopped. What does it cost to be kind like that — and what does it pay?", "replies": [] }
+    }
+  }
+}

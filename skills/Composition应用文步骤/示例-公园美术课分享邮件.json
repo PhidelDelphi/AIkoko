@@ -1,0 +1,164 @@
+{
+  "title": "公园美术课 · 分享邮件",
+  "source": "试题.pdf 66题 · 应用文",
+  "type": "practical",
+  "hw": "",
+  "stepsMeta": ["① 审题拆解", "② 定位基调", "③ 谋篇布局", "④ 建构要点", "⑤ 反馈问题", "⑥ 输入语料", "⑦ 评价升格", "⑧ 共赏佳作"],
+  "rowLabels": ["题干信息", "隐含要求", "易错预警"],
+  "fuLabels": ["台阶", "示范"],
+  "story": [
+    "假定你是李华，上周五你们班在公园上了一堂美术课。请你给英国朋友 Chris 写一封邮件分享这次经历，内容包括：",
+    "1. 你完成的作品；",
+    "2. 你的感想。",
+    "注意：",
+    "1. 写作词数应为 80 个左右；",
+    "2. 请按如下格式在答题纸的相应位置作答。",
+    "Dear Chris,",
+    "Yours,",
+    "Li Hua"
+  ],
+  "openers": [],
+  "step1": [
+    { "paras": "Who am I?", "main": "李华，学生（题干明示）", "implied": "以朋友身份分享亲身经历——第一人称叙事，画面和真情是本钱", "feelings": "写成画技汇报或课堂总结（官方口吻），分享的亲切感消失" },
+    { "paras": "To whom?", "main": "Chris，英国朋友（题干明示）", "implied": "朋友 + 跨文化：他没见过中国画课堂，画面细节对他是新鲜的", "feelings": "默认他懂背景（Last Friday's art class you know——他不知道）" },
+    { "paras": "What?", "main": "分享邮件：分享上周五公园美术课的经历（题干明示）", "implied": "分享 ≠ 汇报 ≠ 教程——要让对方如临其境，不是交代事项", "feelings": "写成 How to paint 教程 / 或课堂流水账 I had a class" },
+    { "paras": "Where?", "main": "邮件，答题纸书信格式（Dear Chris, / Yours, / Li Hua 题干已给）", "implied": "三件套齐全 + 80 词上限", "feelings": "落款写 Yours sincerely（朋友间过重）；词数失控写到 130" },
+    { "paras": "Why?", "main": "分享这次经历（题干明示）——潜台词：让对方感受到这份快乐", "implied": "任务成功标准 = Chris 读完像同游了一次公园", "feelings": "写成日程汇报 I want to tell you about my Friday（有告知无画面）" },
+    { "paras": "★ 任务卡合成", "card": "我是李华，用邮件向英国朋友 Chris 分享上周五公园美术课的经历（我画了什么 + 我感受到什么），80 词，书信三件套。", "tag": "［非正式偏半正式 · 热在画面 · 联结配方：契合＋感情 · 时态：过去叙事＋现在感想］", "hint": "动笔前默念一遍——这句话就是全篇的锚。语用标签由②四问判定后回填。" }
+  ],
+  "step2": [
+    { "q": "① 交际目的：这封邮件最终要 Chris 得到什么？",
+      "opts": [
+        { "t": "A. 知道你有这件事（告知型：有告知无画面）", "v": false, "why": "I had an art class in a park——干巴巴一条通知，朋友读完只会'哦'。" },
+        { "t": "B. 如临其境地共享这次经历（分享型：告知＋画面＋温度）", "v": true, "why": "分享 = 高情感的告知：画面（湖、柳、夕阳）+ 真情（peaceful / rewarding）让他像同游了一次。" },
+        { "t": "C. 佩服我的画技（表现型）", "v": false, "why": "炫耀笔法——朋友分享变个人画展，温度错位。" },
+        { "t": "D. 跟我学画画 / 给我建议（求助型）", "v": false, "why": "题干没有这个任务——自加任务就是跑题。" }
+      ],
+      "a": "落点 <b>B</b>。判断法：Chris 读完放下手机想回什么？B 型让他想回 That sounds amazing! 四型对照：通知=告知 · 邀请/请求=促成 · 申请=表现 · 分享=B 型（告知的温度版）。" },
+    { "q": "② 关系定位：李华与 Chris 的关系落在标尺哪一格？",
+      "opts": [
+        { "t": "A. 正式（对校长 / 陌生机构）", "v": false, "why": "过冷——朋友之间用 I am writing to inform you 这类公文腔，友谊降级。" },
+        { "t": "B. 半正式偏正式（师长：亲切而恭敬）", "v": false, "why": "多了一层敬意——朋友间没有权力差。" },
+        { "t": "C. 半正式平视（不熟的家长 / 房东）", "v": false, "why": "礼貌而客气——朋友之间连'客气'都嫌外。" },
+        { "t": "D. 非正式（朋友：自然、亲近、有说笑）", "v": true, "why": "英国朋友=平辈至交：I can't wait to tell you / It was so much fun 都合法；但书面邮件仍保基本规范（不用缩写狂欢 u2 / gonna）。" }
+      ],
+      "a": "落点 <b>D</b>。语域标尺四格任何题先标位：通知/申请=正式 · 师长=偏正式 · 托不熟的人=平视 · <b>朋友=非正式</b>。本题与'邀请外教'（B格）正好两极对照。" },
+    { "q": "③ 情感分寸：这封邮件该多\"热\"？",
+      "opts": [
+        { "t": "A. 越热越好（So amazing!!! I really really love it!!!）", "v": false, "why": "感叹号轰炸=热度透支——真感情被噪声淹没。" },
+        { "t": "B. 热在画面，收在真情", "v": true, "why": "热情端：让画面自己说话（a sparkling lake bathed in soft sunset light）；真挚端：一句 I absolutely loved it 收束——热而不闹。" },
+        { "t": "C. 公事公办，零度叙述", "v": false, "why": "Last Friday we had a painting class. I painted a picture.——日志不是分享。" },
+        { "t": "D. 克制疏离（像写给陌生人）", "v": false, "why": "对朋友端着，联结就断了。" }
+      ],
+      "a": "落点 <b>B</b>。分享型邮件的分寸：温度装在细节里，不装在感叹号里。" },
+    { "q": "④ 联结路径：靠什么与 Chris 建立联结？",
+      "opts": [
+        { "t": "A. 讲道理（Outdoor painting improves our aesthetic ability...）", "v": false, "why": "跟朋友总结'户外写生的教育意义'——错位的说教。" },
+        { "t": "B. 给契合（艺术与自然——他感兴趣的世界）", "v": true, "why": "联结通道①：画面细节（柳、湖、夕阳）邀他进入美的现场——共同审美的契合。" },
+        { "t": "C. 动感情（共享快乐与放松）", "v": true, "why": "联结通道②：relieved my academic pressure——学业压力是中英学生共通的，他懂你。" },
+        { "t": "D. 抬身份（特邀您指导）", "v": false, "why": "朋友间用不着 honor / would be grateful 这套——那是给师长的。" }
+      ],
+      "a": "配方 <b>B＋C</b>（本题用不上 D）：契合是'带你看'，感情是'与你共'——朋友分享的两条通道全开，道理一句都不要。" }
+  ],
+  "step3": {
+    "guide": "梯子爬到顶，就是思想性。本题的主体是\"经历\"，主梯选<b>深度梯</b>：作品（表：画了什么）→ 沉浸（里：体验如何）→ 感悟（顶：明白了什么）；感想段可用<b>抽象梯</b>收顶：具体经历 → 减压与'艺术源于生活'的价值。80 词选一把梯爬两三级即可。",
+    "items": [
+      { "icon": "⛏", "name": "深度梯", "type": "由表及里", "cls": "c-wp", "extract": "作品 → 体验 → 感悟", "reuse": "<i>painted a lively landscape featuring green willows</i>（表·作品）→ <i>Focusing on capturing natural beauty allowed me to enjoy every peaceful moment</i>（里·沉浸）→ <i>made me realize art originates from real life</i>（顶·感悟）", "effect": "适用：本题主梯——'你完成的作品+你的感想'两个要点正好是表和顶。" },
+      { "icon": "⛰", "name": "高度梯", "type": "由小到大", "cls": "c-gx", "extract": "个人 → 集体 → 社会", "reuse": "<i>I painted...</i>（个人）→ <i>my class had...</i>（集体）→ <i>such outdoor learning should be part of school life</i>（社会）", "effect": "适用：若感想写教育价值（家校社会层面）——本题空间有限，慎用。" },
+      { "icon": "🪜", "name": "认知梯", "type": "由低到高", "cls": "c-hj", "extract": "了解 → 实践 → 创造", "reuse": "<i>watched the teacher demonstrate</i>（了解）→ <i>painted on location</i>（实践）→ <i>created my own landscape</i>（创造）", "effect": "适用：若详写课堂过程（怎么上的课）。" },
+      { "icon": "🎈", "name": "抽象梯", "type": "由实到虚", "cls": "c-ln", "extract": "具体事实 → 意义价值", "reuse": "<i>a painting class in a park</i>（事实）→ <i>a break from textbooks</i>（意义）→ <i>a reminder that art originates from real life</i>（价值）", "effect": "适用：感想段的收顶——从这堂课升华出价值，豹尾余韵常在这。" }
+    ],
+    "patterns": "登梯衔接句式：<i>What impressed me most was...</i>（进一层）／ <i>Not only did it..., but it also...</i>（倒装递进）／ <i>It was this experience that made me realize...</i>（强调登顶）",
+    "build": {
+      "pick": "本题两个要点一条主梯贯通：<b>作品 → 深度梯</b>（表里顶三级正好覆盖'作品+感想'）；<b>感想收顶 → 抽象梯</b>（经历→价值）。",
+      "runs": [
+        { "ladder": "深度梯", "point": "要点①作品 + 要点②感想", "cls": "c-wp", "steps": [
+          { "lvl": "表·作品", "sent": "I painted a lively landscape featuring green willows and a sparkling lake bathed in soft sunset light." },
+          { "lvl": "里·沉浸", "sent": "Focusing on capturing natural beauty allowed me to enjoy every peaceful moment." },
+          { "lvl": "顶·感悟", "sent": "It not only relieved my academic pressure but also made me realize art originates from real life." }
+        ], "note": "三级用分词结构（featuring / bathed / Focusing）串成流动的叙事——这正是③猪肚里'作品与体验'的最终形态，范文原句即此梯。" },
+        { "ladder": "抽象梯", "point": "豹尾余韵（感想收顶）", "cls": "c-ln", "steps": [
+          { "lvl": "事实", "sent": "a painting class in a city park" },
+          { "lvl": "意义", "sent": "a peaceful break from academic pressure" },
+          { "lvl": "价值", "sent": "art originates from real life" }
+        ], "note": "从'一堂课'到'一个道理'——抽象梯三级是感想句的骨架，I absolutely loved this immersive way of learning 是收束的感情句。" }
+      ]
+    }
+  },
+  "step4": {
+    "overview": "凤头引出分享 → 猪肚铺开画面与体验（作品在这里活起来）→ 豹尾收在感悟与期待——分享型邮件的脉络。",
+    "sections": [
+      { "icon": "🐦", "part": "凤头 · 开头段", "budget": "约15词 · 1-2句", "cls": "c-wp",
+        "goal": "3秒定向 + 定调：告诉 Chris 我要分享一件美事，第一句就带温度（非正式语域）",
+        "micro": "呼语 → 分享句（I'm writing to share... / I can't wait to tell you...）",
+        "plots": ["<b>分享句</b>：I'm writing to share a wonderful outdoor art experience...—— wonderful 一词定下全文温度", "<b>自检</b>：Dear Chris 之后直接入事？—— 分享邮件不讲客套，第一句就把人带进现场"] },
+      { "icon": "🐗", "part": "猪肚 · 主体段", "budget": "约45词 · 3-4句", "cls": "c-gx",
+        "goal": "作品活起来：画了什么（画面细节）+ 怎么画的（过程）+ 沉浸其中（体验）",
+        "micro": "作品句 → 细节句（分词后置装画面）→ 体验句（层次怎么爬梯 → ④深度梯）",
+        "plots": ["<b>作品句</b>：I painted a lively landscape featuring green willows and a sparkling lake...", "<b>细节句</b>：...bathed in soft sunset light（分词给画面上光）", "<b>体验句</b>：Focusing on capturing natural beauty allowed me to enjoy every peaceful moment.", "<b>自检</b>：Chris 能'看见'这幅画吗？—— 没有细节就没有画面"] },
+      { "icon": "🐆", "part": "豹尾 · 结尾段", "budget": "约20词 · 2句", "cls": "c-ln",
+        "goal": "感悟收顶（抽象梯登顶）+ 期待回应（分享的闭环：说给你听，也想听你说）",
+        "micro": "感悟句（not only... but also...）→ 期待句（Looking forward to...）",
+        "plots": ["<b>感悟句</b>：It not only relieved my academic pressure but also made me realize art originates from real life.", "<b>期待句</b>：Looking forward to your reply!", "<b>自检</b>：结尾有'我明白了什么'吗？—— 分享的落点是感悟，不是'That's all'"] }
+    ]
+  },
+  "step5": [
+    { "t": "立意偏离主题", "src": "审题病 · 五维①内容连贯", "bad": "Here is how to paint a landscape: first, choose a view; then, sketch the outline...", "good": "I'm writing to share a wonderful outdoor art experience my class had last Friday in a city park.", "note": "分享经历写成画画教程——任务卡里'分享'变成了'教'。" },
+    { "t": "要点遗漏缺失", "src": "审题病 · 五维①内容完整", "bad": "I learned a lot from this class. It was meaningful and fun.", "good": "I painted a lively landscape featuring green willows and a sparkling lake... It made me realize art originates from real life.", "note": "只有感想没有作品（要点①丢了）——两个要点是'作品+感想'，缺一即掉档。" },
+    { "t": "格式杂糅混乱", "src": "审题病 · 五维⑤格式规范", "bad": "Friday, Sunny. Today my class had a painting class in the park...", "good": "Dear Chris, ... Looking forward to your reply! Yours, Li Hua", "note": "日记体混入邮件——题干给的是书信格式（①的 Where? 白答了）。" },
+    { "t": "人称错位失联", "src": "审题病 · 五维③得体性", "bad": "My class went to a park. The teacher guided them and they painted happily.", "good": "Guided by our teacher, I painted a lively landscape...", "note": "自己的经历写成他们（them/they）——分享的是 I 的经历，不是班级新闻。" },
+    { "t": "交际效果欠佳", "src": "基调病 · 五维③得体性", "bad": "You should try painting outdoors. It is good for your health.", "good": "I absolutely loved this immersive way of learning. Looking forward to your reply!", "note": "对朋友说教（should）+ 功利（good for health）——分享的温度变成推销（②情感分寸的落点）。" },
+    { "t": "结构松散凌乱", "src": "结构病 · 五维④结构流畅", "bad": "I painted a picture. It was tiring. The park has a lake. I like willows. The class was fun.", "good": "作品句（画面）→ 体验句（沉浸）→ 感悟句（收顶）——凤引出、猪铺开、豹收束。", "note": "碎片跳切：作品没画完就跳感想又跳回树——③凤猪豹各归其位。" },
+    { "t": "要点重复冗余", "src": "结构病 · 五维①内容完整", "bad": "The painting was beautiful. The park was beautiful. Everything was so beautiful.", "good": "I painted a lively landscape featuring green willows and a sparkling lake bathed in soft sunset light.", "note": "三连 beautiful 不如一次具体呈现——猪肚要分层（画面/体验/感悟），不要同层复读。" },
+    { "t": "内容宽泛空洞", "src": "建构病 · 五维②层次性", "bad": "It was very interesting and I learned a lot from the class.", "good": "Focusing on capturing natural beauty allowed me to enjoy every peaceful moment.", "note": "'学到了很多'是贴标签——画面细节上句才是内容（④深度梯的'表'一级）。", "checks": [{ "q": "感想只会 interesting / learned a lot？上细节", "s6": 4 }] },
+    { "t": "思想浅显单薄", "src": "建构病 · 五维②思想性", "bad": "I was happy that day. Painting is fun.", "good": "It not only relieved my academic pressure but also made me realize art originates from real life.", "note": "梯子只爬到'开心'就停——登顶（art originates from real life）才见思想（④深度梯的'顶'）。" },
+    { "t": "内容陈旧老套", "src": "建构病 · 五维②思想性", "bad": "With the development of society, art education is becoming more and more important...", "good": "When it comes to last Friday, the first thing that springs to my mind is our painting class in the city park.", "note": "万金油开头+意义先行——从本题的具体情境（那堂课、那片湖）切入才是分享。" },
+    { "t": "语言单调简单", "src": "语言病 · 五维③丰富性", "bad": "The park was nice. I painted a picture. It was good. I was happy.", "good": "I painted a lively landscape featuring green willows and a sparkling lake bathed in soft sunset light.", "note": "通篇主谓宾+good/happy——升级路径见⑥语料（分词装画面、倒装收顶）。", "checks": [{ "q": "结尾只会 I was happy？", "s6": 8 }] },
+    { "t": "时态混乱错位", "src": "语言病 · 五维⑤语法规范", "bad": "Last Friday my class have a painting class. We paint in the park and I finish a picture.", "good": "Last Friday my class had a painting class. We painted in the park and I finished a landscape.", "note": "叙事主色调=过去时（上周五！）——'这封信活在什么时间里'动笔前定调（写信此刻 am writing + 经历过去 + 感悟现在完成/现在）。", "checks": [{ "q": "share 的过去式怎么拼？", "s6": 0 }] }
+  ],
+  "step6": {
+    "qs": [
+      { "p": "Para 1 · 凤头", "q": "分享起手句（功能句 + 温度定调）", "corpus": [
+        { "tell": "I want to tell you about my Friday.", "show": "I am <b>writing to share</b> a wonderful outdoor art experience my class had last Friday.", "skills": ["分享功能句", "wonderful 定温度"] },
+        { "tell": "I have something to say.", "show": "I <b>can't wait to tell you about</b> our painting class in the park!", "skills": ["非正式热络", "朋友语域"] }
+      ] },
+      { "p": "Para 2 · 猪肚 主体段", "q": "作品句（分词装画面）", "corpus": [
+        { "tell": "I painted a picture of a lake.", "show": "I painted a lively landscape <b>featuring</b> green willows and a sparkling lake <b>bathed in</b> soft sunset light.", "skills": ["现在分词后置", "过去分词上光"] },
+        { "tell": "There were trees near the lake and the sun was setting.", "show": "<b>With</b> the sun <b>sinking behind</b> the willows, the lake turned gold.", "skills": ["with复合结构", "无灵主语"] }
+      ] },
+      { "p": "Para 2 · 猪肚 主体段", "q": "过程句（过去叙事 + 被动）", "corpus": [
+        { "tell": "The teacher taught us and we began to paint.", "show": "<b>Guided by</b> our teacher, we set up our easels and began to capture the scenery.", "skills": ["过去分词短语", "动作链"] },
+        { "tell": "We were taken to the park by our teacher.", "show": "Our teacher <b>led</b> us to the lakeside, <b>where</b> the whole class painted on location.", "skills": ["where定语从句", "主动化叙事"] }
+      ] },
+      { "p": "Para 2 · 猪肚 主体段", "q": "体验句（沉浸感）", "corpus": [
+        { "tell": "I enjoyed the time very much.", "show": "<b>Focusing on</b> capturing natural beauty allowed me to enjoy every peaceful moment.", "skills": ["动名词主语", "沉浸体验"] },
+        { "tell": "The class was interesting and I was quiet.", "show": "<b>What impressed me most was</b> the silence — only brushes, breeze and birdsong.", "skills": ["名词性从句", "五感细节"] }
+      ] },
+      { "p": "Para 2 · 猪肚 主体段", "q": "感悟句（倒装递进 + 强调登顶）", "corpus": [
+        { "tell": "It relaxed me and taught me something.", "show": "<b>Not only did it relieve</b> my academic pressure, <b>but it also made me realize</b> art originates from real life.", "skills": ["Not only倒装", "递进登顶"] },
+        { "tell": "This class made me understand art.", "show": "<b>It was this experience that made me realize</b> where art truly comes from — real life.", "skills": ["强调句", "抽象梯收顶"] }
+      ] },
+      { "p": "Para 3 · 豹尾", "q": "总括句（感情收束）", "corpus": [
+        { "tell": "I liked this class.", "show": "I <b>absolutely loved</b> this immersive way of learning.", "skills": ["副词升温", "immersive 点睛"] },
+        { "tell": "This class was good for students.", "show": "Such outdoor lessons are truly <b>a feast for both mind and eyes</b>.", "skills": ["无灵主语", "价值收束"] }
+      ] },
+      { "p": "Para 3 · 豹尾", "q": "期待句（分享的闭环）", "corpus": [
+        { "tell": "Please write back to me.", "show": "<b>Looking forward to hearing about</b> your latest adventures!", "skills": ["动名词惯例", "也想听你说"] },
+        { "tell": "Tell me about you.", "show": "How about <b>sharing with me</b> something fun from your side?", "skills": ["非正式邀请", "分享双向"] }
+      ] }
+    ],
+    "extra": ""
+  },
+  "step7": { "text": "", "images": [] },
+  "fuyao": ["分享事由（上周五、美术课、公园）", "你完成的作品（画了什么+画面细节）", "你的感想（体验+收获）", "书信三件套 + 期待回应"],
+  "step8": {
+    "text": "<b>Dear Chris,</b><br><br>I'm writing to share a wonderful outdoor art experience my class had last Friday in a city park.<br><br>Guided by our teacher, I painted a lively landscape featuring green willows and a sparkling lake bathed in soft sunset light. Focusing on capturing natural beauty allowed me to enjoy every peaceful moment.<br><br>This outdoor painting experience was truly rewarding. It not only relieved my academic pressure but also made me realize art originates from real life. I absolutely loved this immersive way of learning.<br><br>Looking forward to your reply!<br><br><b>Yours,<br>Li Hua</b>",
+    "eval": [
+      { "dim": "内容完整性和连贯性", "comment": "两要点全覆盖：作品（landscape featuring willows and lake）+ 感想（rewarding / realize art originates），从 share 起手到 reply 收束——①的任务卡在这篇里完整兑现。" },
+      { "dim": "要点层次性和思想性", "comment": "深度梯三级一气贯通：画了什么（表）→ 沉浸自然之美（里）→ 艺术源于生活（顶）——④本篇建构的示范句正是本篇范文，梯子爬到了顶。" },
+      { "dim": "语言丰富性和得体性", "comment": "三个分词结构（Guided by / featuring / bathed in / Focusing on）装出流动画面；对朋友的自然语域（wonderful / absolutely loved）不端不装——②D 格非正式的教科书示范。" },
+      { "dim": "结构严谨性和流畅性", "comment": "凤13·猪52·豹9（右侧词数体检可验证）：凤头一句带入现场，猪肚铺开画面与体验，豹尾感悟收顶+期待回应——③三段各司其职。" },
+      { "dim": "语法规范性和准确性", "comment": "叙事过去时主色调（had / painted / allowed / relieved）+写信此刻进行（I'm writing）+感悟现在（originates）——时态三层各就各位；三件套齐全，95 词达标——⑤语言病一条不犯。" }
+    ]
+  }
+}

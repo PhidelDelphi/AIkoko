@@ -1,0 +1,28 @@
+# ===== 本地数据（含真实学生成绩/试卷，切勿上传） =====
+Data/
+incoming/
+
+# ===== 版权音频（个人音乐文件不入库） =====
+Song of the Day/*.mp3
+Song of the Day/*.lrc
+Song of the Day/*.wav
+Song of the Day/*.m4a
+
+# ===== 备份与日志 =====
+AFR-backup-*.json
+index-*之前*.html
+*.bak
+*.log
+server-log.txt
+
+# ===== 开发环境 =====
+__pycache__/
+node_modules/
+.playwright-mcp/
+.vscode/
+.idea/
+
+# ===== 系统文件 =====
+Thumbs.db
+.DS_Store
+desktop.ini

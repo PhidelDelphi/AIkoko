@@ -1,0 +1,701 @@
+{
+  "title": "English Party 邀请函",
+  "source": "2023新课标I卷 · 应用文",
+  "type": "practical",
+  "stepsMeta": [
+    "① 审题拆解",
+    "② 定位基调",
+    "③ 谋篇布局",
+    "④ 建构要点",
+    "⑤ 反馈问题",
+    "⑥ 输入语料",
+    "⑦ 评价升格",
+    "⑧ 共赏佳作"
+  ],
+  "rowLabels": [
+    "题干信息",
+    "隐含要求",
+    "易错预警"
+  ],
+  "fuLabels": [
+    "台阶",
+    "示范"
+  ],
+  "story": [
+    "假定你是李华。你校将举办英语派对（English Party），请给你校外教Chris写一封邮件邀请他参加，内容包括：",
+    "1. 活动时间与地点；",
+    "2. 活动内容。",
+    "注意：",
+    "1. 写作词数应为80左右；",
+    "2. 请按如下格式在答题卡的相应位置作答。",
+    "Dear Chris,",
+    "Yours sincerely,",
+    "Li Hua"
+  ],
+  "openers": [],
+  "step1": [
+    {
+      "paras": "Who am I?",
+      "main": "李华，本校学生（题干明示）",
+      "implied": "以学生个人名义写信——不是官方发布口吻",
+      "feelings": "自封头衔（chairman of the Student Union）——题干没给的不能加"
+    },
+    {
+      "paras": "To whom?",
+      "main": "外教 Chris（题干明示）",
+      "implied": "师长 + 英语本族语者：表达习惯按英语书信的路数来",
+      "feelings": "人称写成 he/she 第三方（Chris is kind. He can...）——收信人变成了谈论对象"
+    },
+    {
+      "paras": "What?",
+      "main": "邀请信：邮件邀请 Chris 参加 English Party（题干明示）",
+      "implied": "邀请 ≠ 通知 ≠ 倡议——只能恳请，不能布置",
+      "feelings": "写成通知口吻（Attention please / Everyone should come）"
+    },
+    {
+      "paras": "Where?",
+      "main": "答题卡书信格式（Dear Chris, / Yours sincerely, / Li Hua 题干已给）",
+      "implied": "三件套齐全 + 80 词上限",
+      "feelings": "漏落款署名；词数失控（80 写到 120）"
+    },
+    {
+      "paras": "Why?",
+      "main": "让 Chris 参加 Party（题干明示）；潜台词：最好还表演节目（\"擅长唱歌\"是可用信息）",
+      "implied": "任务成功的标准 = Chris 答应来",
+      "feelings": "写成活动介绍（I'd like to tell you about...）——目的悄悄降级成了告知"
+    },
+    {
+      "paras": "★ 任务卡合成",
+      "card": "我是李华，以学生身份用邮件邀请外教 Chris 参加 English Party（并期待他表演节目），80 词，书信三件套。",
+      "tag": "［半正式偏正式 · 热情留白 · 联结配方：契合＋感情＋身份］",
+      "hint": "动笔前默念一遍——这句话就是全篇的锚。语用标签由②四问判定后回填。",
+      "main": "",
+      "implied": "",
+      "feelings": ""
+    }
+  ],
+  "step2": [
+    {
+      "q": "① 交际目的：这封信最终要 Chris 做什么？",
+      "opts": [
+        {
+          "t": "A. 让他知道有这件事（告知型）",
+          "v": false,
+          "why": "写完全文 Chris 只是\"知道了\"——那是通知的功能，全文没有一处推动行动。"
+        },
+        {
+          "t": "B. 让他答应来，最好还愿意表演（促成型）",
+          "v": true,
+          "why": "邀请 = 促成。全文每句都要往\"答应\"推：安排说清（能来）、理由给足（想来）、回复路径留好（怎么答）。"
+        },
+        {
+          "t": "C. 展示我的英语水平（表现型）",
+          "v": false,
+          "why": "堆难词炫技，收信人被无视——交际对象消失了。"
+        },
+        {
+          "t": "D. 让他喜欢我（讨好型）",
+          "v": false,
+          "why": "满篇客套吹捧，真正的目的（他来表演）反而失焦。"
+        }
+      ],
+      "a": "落点 <b>B</b>。判断法：想象 Chris 读完放下手机——B 型的信让他\"想回一句 I'd love to\"，A 型只会让他\"哦\"。四型对照：通知=告知 · 邀请/请求=促成 · 申请=表现 · 道歉=修复。"
+    },
+    {
+      "q": "② 关系定位：李华与 Chris 的关系落在标尺哪一格？",
+      "opts": [
+        {
+          "t": "A. 正式（对校长 / 陌生机构）",
+          "v": false,
+          "why": "过冷。Chris 是天天见面的外教，不是公文收件人。"
+        },
+        {
+          "t": "B. 半正式偏正式（师长：亲切而恭敬）",
+          "v": true,
+          "why": "\"熟而不友\"——认识很久（可亲）＋ 评过我作业（须敬）。亲切可以有（We would be glad），随意不行（Hey / You must）。"
+        },
+        {
+          "t": "C. 半正式平视（不熟的家长 / 房东）",
+          "v": false,
+          "why": "少了敬意——师生之间的权力差还在。"
+        },
+        {
+          "t": "D. 非正式（好友：Hey, wanna come?）",
+          "v": false,
+          "why": "最高频误判：\"外教很随和啊\"——随和是性格，语域看关系。师长终归是师长。"
+        }
+      ],
+      "a": "落点 <b>B</b>。语域标尺四格（正式→非正式）任何题先标位：通知/申请信=正式 · 邀请/感谢师长=偏正式 · 托不熟的人=平视 · 给好友=非正式。"
+    },
+    {
+      "q": "③ 情感分寸：这封信该多\"热\"？",
+      "opts": [
+        {
+          "t": "A. 越热越好（满篇感叹、really really want）",
+          "v": false,
+          "why": "热情变成施压——师长被架住了。"
+        },
+        {
+          "t": "B. 热在诚意，留白在决定权",
+          "v": true,
+          "why": "热情端：It would be our honor / we would be glad（诚意给足）；恭敬端：Would you be available... / if you could...——虚拟语气 = 把决定权还给对方（他有拒绝权，邀请不施压）。"
+        },
+        {
+          "t": "C. 公事公办，零度叙述",
+          "v": false,
+          "why": "信息全对，但不像邀请——像会议通知。"
+        },
+        {
+          "t": "D. 卑微恳求（I beg you...）",
+          "v": false,
+          "why": "过谦失度——学生请老师，不是下级求上级。"
+        }
+      ],
+      "a": "落点 <b>B</b>。分寸的语法化：虚拟语气就是\"恭敬的留白\"——形式即功能。"
+    },
+    {
+      "q": "④ 联结路径：靠什么与 Chris 建立联结？",
+      "opts": [
+        {
+          "t": "A. 讲道理（This party will enrich our school life...）",
+          "v": false,
+          "why": "官方\"意义牌\"——学生最爱写，对师长最无力：他不需要你告诉他活动有意义。道理是单向输出，不产生联结。"
+        },
+        {
+          "t": "B. 给契合（You are good at singing——舞台正好为你而设）",
+          "v": true,
+          "why": "联结通道①：他的特长 × 活动的需求对上号——\"这舞台缺你\"（被需要）。"
+        },
+        {
+          "t": "C. 动感情（We would be glad to have you with us）",
+          "v": true,
+          "why": "联结通道②：真诚的期待感——\"我们想有你\"。"
+        },
+        {
+          "t": "D. 抬身份（It would be our honor if you could...）",
+          "v": true,
+          "why": "联结通道③：特邀感——\"您配得上这份邀请\"（师长受用的尊重）。"
+        }
+      ],
+      "a": "配方 <b>B＋C＋D</b>，道理最多一句背景。三通道记住：契合是\"正好\"、感情是\"想你\"、身份是\"配您\"——通道开一两条，联结就建立；道理牌谁也打不动。"
+    }
+  ],
+  "step3": {
+    "guide": "<b>梯子爬到顶，就是思想性</b>。主体段的得分项不能平铺——沿一把思维阶梯往上爬：层次性是爬的过程，思想性是顶层风景。学生作文\"平\"，病根是梯子只爬了第一级（罗列事实）从不登顶。四把梯各有适用（卡内标注），80 词的猪肚通常<b>选一把梯爬两三级即可</b>，不必四把全上。",
+    "items": [
+      {
+        "icon": "⛏",
+        "name": "深度梯",
+        "type": "由表及里",
+        "cls": "c-wp",
+        "extract": "现象 → 原因 → 本质／价值",
+        "reuse": "<i>You are good at singing</i>（表·契合）→ <i>your song will be the highlight of the party</i>（里·活动价值）→ <i>it will encourage us to explore the beauty of English</i>（顶·学习意义）",
+        "effect": "适用：分析\"为什么喜欢 / 为什么推荐\"——三格爬完，一句顶三句。"
+      },
+      {
+        "icon": "⛰",
+        "name": "高度梯",
+        "type": "由小到大",
+        "cls": "c-gx",
+        "extract": "个人 → 集体 → 社会／一代人",
+        "reuse": "<i>your performance</i>（个人）→ <i>light up the party for everyone</i>（集体）→ <i>show how music brings us closer</i>（社会·人际）",
+        "effect": "适用：分析影响、解决方案、意义——视野一格比一格宽。"
+      },
+      {
+        "icon": "🪜",
+        "name": "认知梯",
+        "type": "由低到高",
+        "cls": "c-hj",
+        "extract": "了解 → 实践 → 创造",
+        "reuse": "<i>watch English plays</i>（了解）→ <i>sing and perform yourselves</i>（实践）→ <i>create your own short plays</i>（创造）",
+        "effect": "适用：安排活动、写收获与成长——认知层级逐级抬升。"
+      },
+      {
+        "icon": "🎈",
+        "name": "抽象梯",
+        "type": "由实到虚",
+        "cls": "c-ln",
+        "extract": "具体事实 → 意义价值",
+        "reuse": "<i>an English Party</i>（事实）→ <i>a window into another culture</i>（意义）→ <i>a chance to think and speak as young global citizens</i>（价值）",
+        "effect": "适用：结尾升华、点出活动价值——豹尾留余韵的那一句常在这里。"
+      }
+    ],
+    "patterns": "登梯衔接句式：<i>What lies behind...</i>（进一层）／ <i>not only..., but also...</i>（双层递进）／ <i>More importantly, ...</i>（抬升）／ <i>It is... that truly matters.</i>（登顶）",
+    "build": {
+      "pick": "本题两个得分点各配一把梯：<b>活动安排 → 认知梯</b>（活动按认知层级排布，\"安排感\"变\"设计感\"）；<b>个性化邀请 → 深度梯</b>（从契合爬到意义，一句顶三句）。",
+      "runs": [
+        {
+          "ladder": "认知梯",
+          "point": "要点② · 活动内容",
+          "cls": "c-hj",
+          "steps": [
+            {
+              "lvl": "第1级·了解",
+              "sent": "You can watch English plays and enjoy poetry reading by our classmates."
+            },
+            {
+              "lvl": "第2级·实践",
+              "sent": "Better still, you can sing along and perform with us on stage."
+            },
+            {
+              "lvl": "第3级·创造",
+              "sent": "For the boldest, there is even a chance to create your own short plays — the stage is yours."
+            }
+          ],
+          "note": "三格连排 = ranging from...to... 的升级版：活动不再并列堆放，而是逐级深入。这一格格正是③猪肚里的\"层次①②\"。"
+        },
+        {
+          "ladder": "深度梯",
+          "point": "个性化邀请 · 升档句",
+          "cls": "c-wp",
+          "steps": [
+            {
+              "lvl": "表·契合",
+              "sent": "Given your gift for singing,"
+            },
+            {
+              "lvl": "里·价值",
+              "sent": "your song will surely be the highlight of the party,"
+            },
+            {
+              "lvl": "顶·意义",
+              "sent": "encouraging us to explore the beauty of English through music."
+            }
+          ],
+          "note": "三格用分词结构合成一句——这就是③猪肚里\"个性化句\"的最终形态：一句顶三句，④的终点产出。"
+        }
+      ]
+    }
+  },
+  "step4": {
+    "overview": "凤引出来意 → 猪充实理由与安排 → 豹推动行动——80 词三段各有其职，一气贯通。",
+    "sections": [
+      {
+        "icon": "🐦",
+        "part": "凤头 · 开头段",
+        "budget": "约15词 · 1-2句",
+        "cls": "c-wp",
+        "goal": "3秒定向 + 定调：读信人立刻知道谁、为什么写；第一句就立住语域（承②的判定）",
+        "micro": "呼语 →（自我介绍·仅当对方不认识你）→ 目的句 → 背景句",
+        "plots": [
+          "<b>目的句</b>（开门见山）：I am writing to invite you to... —— 三秒内知道这封信要干什么",
+          "<b>背景句</b>（一句即可）：To enrich our campus life... —— 给个理由，不展开",
+          "<b>自检</b>：Dear Chris 之后直接入来意？—— 凤头不讲废话、不寒暄凑字"
+        ]
+      },
+      {
+        "icon": "🐗",
+        "part": "猪肚 · 主体段",
+        "budget": "约45词 · 3-4句",
+        "cls": "c-gx",
+        "goal": "得分点全展开——读者的所有疑问（几点/哪里/干什么/有什么意思）在此被解决",
+        "micro": "总起句 → 层次① → 层次② → 个性化句（层次怎么爬梯 → ④建构要点）",
+        "plots": [
+          "<b>总起</b>（时间地点四要素）：The party is scheduled for 3-5 pm on Friday, June 5th, in the school hall.",
+          "<b>层次①②</b>（活动展开）：There will be a variety of activities, ranging from... to...",
+          "<b>个性化句</b>（升档句）：Given your gift for singing, it would be our honor if...",
+          "<b>自检</b>：读信人的问句全答完了吗？猪肚要\"实·丰·序\""
+        ]
+      },
+      {
+        "icon": "🐆",
+        "part": "豹尾 · 结尾段",
+        "budget": "约20词 · 1-2句",
+        "cls": "c-ln",
+        "goal": "促成行动（承②促成型目的）+ 留余韵",
+        "micro": "行动句（带期限）→ 期待句",
+        "plots": [
+          "<b>行动句</b>：Please let me know by Wednesday if you can make it.",
+          "<b>期待句</b>：Looking forward to your early reply.",
+          "<b>自检</b>：结尾是\"期待\"不是\"通知\"；不说 Thank you for reading 空客套——豹尾一击即收"
+        ]
+      }
+    ],
+    "p1": {
+      "keywords": "",
+      "plots": []
+    },
+    "p2": {
+      "keywords": "",
+      "plots": []
+    }
+  },
+  "step5": [
+    {
+      "t": "立意偏离主题",
+      "src": "审题病 · 五维①内容连贯",
+      "bad": "I am a student who loves English very much. I want to make friends with you.",
+      "good": "I am writing to invite you to the English Party to be held in our school.",
+      "note": "自我介绍喧宾夺主，邀请信悄悄变成了交友信——回看①的任务卡：一句话锚点不能丢。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "要点遗漏缺失",
+      "src": "审题病 · 五维①内容完整",
+      "bad": "The party will be very interesting. Please come.",
+      "good": "The party is scheduled for 3-5 pm on Friday, June 5th, in the school hall, with songs, plays and poetry reading.",
+      "note": "时间四要素+活动全无——Chris 想来都不知道几点去哪。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "格式杂糅混乱",
+      "src": "审题病 · 五维⑤格式规范",
+      "bad": "Attention please! An English Party will be held. Everyone should come.",
+      "good": "Dear Chris, ... It would be our honor if you could join us. ... Yours sincerely, Li Hua",
+      "note": "通知口吻混入邀请信 + 称呼落款全丢——①的 Where? 一问白答了。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "人称错位失联",
+      "src": "审题病 · 五维③得体性",
+      "bad": "Chris is a good teacher. He can sing well. Students will like him.",
+      "good": "You are good at singing, and we would love to hear you sing.",
+      "note": "收信人被写成\"他\"——信是写给 you 的，不是谈论 his 的（①易错预警第一条）。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "交际效果欠佳",
+      "src": "基调病 · 五维③得体性",
+      "bad": "You must come to our party. It will be good for you.",
+      "good": "It would be our honor if you could join us.",
+      "note": "命令+功利=施压；虚拟语气=恭敬的留白（②情感分寸的落点）。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "结构松散凌乱",
+      "src": "结构病 · 五维④结构流畅",
+      "bad": "Our school will hold a party. I hope you can come. It is on Friday. There will be songs. We all like you.",
+      "good": "总起（时间地点）→ 层次（活动展开）→ 个性化邀请——凤引出来意、猪充实安排、豹推动行动。",
+      "note": "碎片流水账：想到哪写到哪。③的凤猪豹各归其位，脉络才立起来。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "要点重复冗余",
+      "src": "结构病 · 五维①内容完整",
+      "bad": "There will be many activities. There will be English songs. There will be short plays. There will be poetry reading.",
+      "good": "There will be a variety of activities, ranging from English songs and short plays to poetry reading.",
+      "note": "同一句式连发四枪不如 ranging from...to... 一网收拢——猪肚要分层不要分句堆放。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "内容宽泛空洞",
+      "src": "建构病 · 五维②层次性",
+      "bad": "The party will be very interesting and meaningful. You will have a good time.",
+      "good": "You can watch English plays, sing along on stage, and even create your own short plays.",
+      "note": "\"有趣\"\"有意义\"是贴标签；活动名上句才是内容（④认知梯三格就是反空洞的药）。",
+      "checks": [
+        {
+          "q": "活动只写了一项？想想还能加什么",
+          "s6": 3
+        }
+      ],
+      "std": "",
+      "pred": "",
+      "desc": ""
+    },
+    {
+      "t": "思想浅显单薄",
+      "src": "建构病 · 五维②思想性",
+      "bad": "The party is fun. Fun is good for students.",
+      "good": "...encouraging us to explore the beauty of English through music.",
+      "note": "梯子只爬第一级就停——爬到顶（意义层），一句顶三句（④深度梯的终点）。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "内容陈旧老套",
+      "src": "建构病 · 五维②思想性",
+      "bad": "With the development of society, English is more and more important...",
+      "good": "When it comes to the liveliest corner of our school, the upcoming English Party springs to my mind.",
+      "note": "万金油开头是阅卷疲劳源——从本题的具体情境切入（联结路径的\"契合\"通道）。",
+      "std": "",
+      "pred": "",
+      "desc": "",
+      "checks": []
+    },
+    {
+      "t": "语言单调简单",
+      "src": "语言病 · 五维③丰富性",
+      "bad": "The party is good. You can sing. You can play. I hope you come.",
+      "good": "Given your gift for singing, it would be our honor if you could treat us to an English song.",
+      "note": "通篇简单句+good/come——升级路径见⑥语料（Tell➜Show）。",
+      "checks": [
+        {
+          "q": "结尾只会 I hope you can come？",
+          "s6": 7
+        }
+      ],
+      "std": "",
+      "pred": "",
+      "desc": ""
+    },
+    {
+      "t": "时态混乱错位",
+      "src": "语言病 · 五维⑤语法规范",
+      "bad": "I will invite you to the party. The party was held on Friday.",
+      "good": "I am writing to invite you... The party is scheduled for Friday...",
+      "note": "写信此刻=现在进行（am writing）；活动未办=将来（is scheduled）——\"这封信活在什么时间里\"动笔前就要定调。",
+      "checks": [
+        {
+          "q": "invite you join 漏了什么小词？",
+          "s6": 0
+        },
+        {
+          "q": "The party will hold 哪里错了？",
+          "s6": 2
+        }
+      ],
+      "std": "",
+      "pred": "",
+      "desc": ""
+    }
+  ],
+  "step6": {
+    "qs": [
+      {
+        "p": "Para 1 · 凤头",
+        "q": "目的句起手（功能句 + 虚拟）",
+        "corpus": [
+          {
+            "tell": "I want to invite you to our party.",
+            "show": "I am <b>writing to invite you to</b> the English Party <b>to be held</b> in our school.",
+            "skills": [
+              "功能句",
+              "不定式作定语"
+            ]
+          },
+          {
+            "tell": "I hope you can come to our party.",
+            "show": "I <b>would feel much honored</b> if you <b>could spare some time</b> for our English Party.",
+            "skills": [
+              "虚拟语气"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 1 · 凤头",
+        "q": "背景句（目的状语 + 非谓语后置）",
+        "corpus": [
+          {
+            "tell": "Our school will have a party.",
+            "show": "<b>To enrich our campus life</b>, our school is going to hold an English Party.",
+            "skills": [
+              "目的状语前置"
+            ]
+          },
+          {
+            "tell": "The party is coming and it is interesting.",
+            "show": "An English Party <b>is around the corner</b>, <b>aimed at bringing English closer to our daily life</b>.",
+            "skills": [
+              "非谓语后置"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 2 · 猪肚 主体段",
+        "q": "总起 · 时间地点（被动四要素 + with复合结构）",
+        "corpus": [
+          {
+            "tell": "The party will hold in our school hall on Friday.",
+            "show": "The party <b>is scheduled for</b> 3-5 pm on Friday, June 5th, in the school hall.",
+            "skills": [
+              "被动语态",
+              "四要素具体"
+            ]
+          },
+          {
+            "tell": "The hall will have many activities.",
+            "show": "<b>With</b> a variety of activities <b>lined up</b>, the school hall <b>will be turned into</b> a stage of English.",
+            "skills": [
+              "with复合结构",
+              "被动"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 2 · 猪肚 主体段",
+        "q": "活动展开（There be + 名词性从句 + 倒装）",
+        "corpus": [
+          {
+            "tell": "There will have many activities.",
+            "show": "<b>There will be</b> a variety of activities, <b>ranging from</b> English songs and short plays <b>to</b> poetry reading.",
+            "skills": [
+              "There be",
+              "from...to..."
+            ]
+          },
+          {
+            "tell": "I like the drama part best.",
+            "show": "<b>What impresses me most is</b> the drama section, <b>where</b> you can watch and even join English plays.",
+            "skills": [
+              "名词性从句",
+              "where定从"
+            ]
+          },
+          {
+            "tell": "You can enjoy performances and you can act too.",
+            "show": "<b>Not only can you enjoy</b> wonderful performances, <b>but you will also get a chance to</b> act in a short play.",
+            "skills": [
+              "倒装句"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 2 · 猪肚 主体段",
+        "q": "个性化邀请（分词短语 + 强调句 + 虚拟）",
+        "corpus": [
+          {
+            "tell": "You are good at singing. You can sing a song.",
+            "show": "<b>Given your gift for singing</b>, it would be <b>our honor</b> if you could treat us to an English song.",
+            "skills": [
+              "过去分词",
+              "虚拟语气"
+            ]
+          },
+          {
+            "tell": "Your singing will make the party great.",
+            "show": "<b>It is your singing that</b> will <b>light up</b> the whole party.",
+            "skills": [
+              "强调句"
+            ]
+          },
+          {
+            "tell": "If you sing a song, the party will be perfect.",
+            "show": "<b>If you were to give us a song</b>, the party <b>would be complete</b>.",
+            "skills": [
+              "虚拟语气·if从句"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 2 · 猪肚 主体段",
+        "q": "价值升华（无灵主语 + 介词+which）",
+        "corpus": [
+          {
+            "tell": "The party can help us learn English.",
+            "show": "Your performance <b>will add color to</b> the party and <b>bring English alive</b> for us.",
+            "skills": [
+              "无灵主语"
+            ]
+          },
+          {
+            "tell": "These activities are useful for us.",
+            "show": "Such activities <b>open a window through which</b> we see the beauty of English.",
+            "skills": [
+              "介词+which定从"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 3 · 豹尾",
+        "q": "行动句（if宾从 + 期限 + 省略if倒装）",
+        "corpus": [
+          {
+            "tell": "Reply me soon.",
+            "show": "Please <b>let me know by Wednesday</b> if you can make it.",
+            "skills": [
+              "if宾语从句",
+              "期限"
+            ]
+          },
+          {
+            "tell": "If you have questions, you can ask me.",
+            "show": "<b>Should you have any questions</b>, don't hesitate to write to me.",
+            "skills": [
+              "省略if的虚拟倒装"
+            ]
+          }
+        ]
+      },
+      {
+        "p": "Para 3 · 豹尾",
+        "q": "期待句（动名词惯例 + 虚拟收尾）",
+        "corpus": [
+          {
+            "tell": "I hope you can come.",
+            "show": "<b>Looking forward to your early reply.</b>",
+            "skills": [
+              "动名词",
+              "交际惯例"
+            ]
+          },
+          {
+            "tell": "I will be happy if you come.",
+            "show": "It <b>would be</b> our great pleasure <b>to see you among us</b>.",
+            "skills": [
+              "虚拟语气收尾"
+            ]
+          }
+        ]
+      }
+    ],
+    "extra": "<p class='er-muted'>（此区可导入补充语料）</p>",
+    "images": [],
+    "pairs": []
+  },
+  "step7": {
+    "text": "",
+    "images": []
+  },
+  "step8": {
+    "text": "<b>Dear Chris,</b><br><br>I am writing to invite you to the English Party to be held in our school.<br><br>The party is scheduled for 3:00-5:00 pm on Friday, June 5th, in the school hall. There will be a variety of activities, ranging from English songs and short plays to poetry reading. Given your gift for singing, it would be our honor if you could sing a song for us at the party.<br><br>Would you be available for the party? Looking forward to your early reply.<br><br><b>Yours sincerely,<br>Li Hua</b>",
+    "eval": [
+      {
+        "dim": "内容完整性和连贯性",
+        "comment": "两要点全覆盖（时间地点四要素＋活动两项），从 invite 开门到 Looking forward 收束无一句偏离任务——①的任务卡在这篇里完整兑现。"
+      },
+      {
+        "dim": "要点层次性和思想性",
+        "comment": "活动 ranging from...to... 拉开层次；个性化邀请（your gift for singing）把\"请你来\"升为\"这舞台缺你\"——④深度梯的表→里→顶在一句话里走完。"
+      },
+      {
+        "dim": "语言丰富性和得体性",
+        "comment": "功能句起手（I am writing to invite）＋虚拟语气（it would be our honor if you could）恳请而不施压——对师长语域（②定位）的教科书级示范。"
+      },
+      {
+        "dim": "结构严谨性和流畅性",
+        "comment": "凤15·猪45·豹20（右侧词数体检可验证）：三段各司其职，Given your gift 分词衔接使个性化句嵌得自然，不显突兀。"
+      },
+      {
+        "dim": "语法规范性和准确性",
+        "comment": "三件套齐全；时态定调清晰（写信此刻 am writing＋安排将来 is scheduled）；80 词达标——⑤语言病一条不犯。"
+      }
+    ]
+  },
+  "seedVer": 6,
+  "fuyao": [
+    "邀请原因（活动背景一句话）",
+    "时间与地点（具体到日期、钟点、地点）",
+    "活动安排（≥2 项，有层次）",
+    "恳请回复 / 期待参加（礼貌收尾）"
+  ]
+}

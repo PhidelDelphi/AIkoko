@@ -1,0 +1,72 @@
+{
+  "id": "art-20261005-jake-album",
+  "title": "读后续写 · Stories with Jake（旧相册）",
+  "type": "continuation",
+  "source": "AI备课 · 图搜直链",
+  "hw": "",
+  "story": [
+    "It was a sunny Saturday morning, and Jake had just put on his sneakers when his phone buzzed. It was a message from Ryan: “Meet at the park in 15 minutes?” Jake smiled. It had been a long week of school, and he couldn’t wait to play basketball with his friends. Just as he was heading out, his mom called from the kitchen.",
+    "“Jake! Come back! I need your help with the storage room.”",
+    "“But Mom, I told Ryan I’d meet him at the park.” Jake protested.",
+    "“We talked about this. Grandma is moving in this weekend, so we need to clean out the storage room to make space for her.”",
+    "“Grandma?” Jake thought, the word feeling almost foreign on his tongue. He didn't even know her that well—it had been years since she last visited, and now she was moving in? He couldn't believe he had to give up his Saturday for someone he barely knew. With complaints and sighs, he kicked at the floor as he trudged down the hallway, dragging his feet like they weighed a ton.",
+    "Stepping into the storage room, his nose wrinkled in disgust. The place was a disaster. Spiderwebs drooped from every corner, and dust swirled in the sunlight like dirty smoke. Boxes teetered in unstable stacks, a rolled-up carpet with worn edges lay half-spilled across the floor, and forgotten junk crowded every inch. Jake let out a long, dramatic sigh—this job was going to take forever.",
+    "Just as he was about to give up and sneak a text to Ryan, a faded blue album tucked at the bottom of the suitcase caught his eye. Faint words were etched on its leather cover: Stories with Jake (To Be Continued...). He pulled it out and flipped it open—the pages were filled with moments of him and his grandmother. On the very first page was a photo: his grandmother, much younger then, cradling a tiny baby wrapped in a soft blanket. At the bottom of the photo he saw some words in careful handwriting: “Glad to meet you, baby Jake.”"
+  ],
+  "openers": [
+    "As he flipped through more photos, his eyes began to mist.",
+    "Next morning, when his grandmother stepped into her new room, Jake handed her the album."
+  ],
+  "step1": [],
+  "step2": [],
+  "step3": { "guide": "", "items": [], "patterns": "" },
+  "step4": {
+    "p1": { "keywords": "more photos / his eyes began to mist", "plots": [] },
+    "p2": { "keywords": "the next morning / new room / the album", "plots": [] }
+  },
+  "step5": [],
+  "step6": {
+    "qs": [],
+    "extra": "<p class='er-muted'>（此区可导入补充语料）</p>",
+    "pairs": [
+      {
+        "title": "Para. 1　　Scene 1 · The old photos（情感转折）",
+        "text": "<b>How to show the delicate change of Jake's feelings?</b><br>To depict the content of these photos and his reaction.<br><br>① ✗ Jake was moved by the old photos. (Tell)<br>➜ Page after page, the photos <b>whispered</b> a story he had never known—Grandma, years younger, <b>cradling</b> baby Jake in her arms, <b>feeding</b> him spoonful by spoonful, <b>holding</b> his tiny hands as he took his first steps. His eyes began to <b>mist</b>, a warm ache <b>spreading through his chest</b>. (Show)<br>技巧：动作链(非谓语) ｜ 拟人(whisper) ｜ 借细节传情<br><br>② ✗ Jake suddenly remembered his early childhood. (Tell)<br>➜ Long-buried memories came <b>flooding back</b>—warm milk at bedtime, a soft lullaby in the dark, gentle arms <b>catching</b> him as he stumbled through his first steps. (Show)<br>技巧：镜头式列举 ｜ 排比铺陈 ｜ 非谓语(catching)<br><br>③ ✗ Jake felt like crying. (Tell)<br>➜ <b>A lump rose in his throat</b>, and before he knew it, tears were <b>blurring</b> the yellowed pages, each photo <b>shimmering</b> like a small lamp of love. (Show)<br>技巧：生理细节 ｜ 无灵主语 ｜ 比喻(shimmering lamp)",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/81a387e88bad.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 1　　Scene 2 · Cleaning the storage room（动作链）",
+        "text": "<b>How to show the process of cleaning the storage room?</b><br>To depict a chain of cleaning actions that stresses Jake's devotion.<br><br>① ✗ Jake cleaned the room carefully. (Tell)<br>➜ He <b>rolled up</b> the old carpet, <b>stacked</b> the boxes neatly and <b>swept</b> the floor, <b>stirring up</b> clouds of dust. Spiderwebs <b>clung to</b> his sleeves, but he didn't stop. (Show)<br>技巧：动作链 ｜ 非谓语(stirring up) ｜ 让步转折<br><br>② ✗ Jake worked hard all afternoon. (Tell)<br>➜ <b>Down on his knees</b>, he wiped every corner again and again. Sweat <b>trickled down</b> his forehead, yet the afternoon <b>slipped away unnoticed</b>, box by box, shelf by shelf. (Show)<br>技巧：方位短语开头 ｜ 强势动词(trickle) ｜ 时间流逝(box by box)<br><br>③ ✗ Jake no longer complained about the work. (Tell)<br>➜ <b>The complaints quietly gave way to focus</b>—each box he opened felt like uncovering a piece of the past, and his hands moved faster and faster. (Show)<br>技巧：无灵主语 ｜ 比喻(uncover the past) ｜ 情感转折",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/da36acc6da4e.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 1　　Scene 3 · A brand-new room（环境对比）",
+        "text": "<b>How to show the room's new look?</b><br>To depict the change from a forgotten mess to a bright, welcoming space.<br><br>① ✗ The room became clean and bright. (Tell)<br>➜ <b>What used to be</b> a forgotten mess <b>was now</b> a bright, welcoming room, <b>with</b> morning sunlight <b>streaming through</b> the window and the faded blue album <b>resting proudly</b> on the shelf. (Show)<br>技巧：对比兑现 ｜ with复合结构 ｜ 借景抒情<br><br>② ✗ The room looked nice. (Tell)<br>➜ Fresh air <b>drifted</b> through the open window, the floor <b>shone as if newly painted</b>, and everything seemed to whisper: <b>welcome home, Grandma</b>. (Show)<br>技巧：多感官描写 ｜ 拟人 ｜ 呼应主题<br><br>③ ✗ Jake was satisfied with the clean room. (Tell)<br>➜ Jake <b>stepped back</b>, a proud smile <b>spreading across</b> his dusty face—the once-forgotten corner now <b>bathed in</b> the golden glow of sunset. (Show)<br>技巧：伴随状语 ｜ 独立主格 ｜ 光影渲染",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/d5e2c8817525.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 2　　Scene 4 · Grandma's reaction（神态特写）",
+        "text": "<b>How to show Grandma's surprise and joy at the sight of the album?</b><br>To depict her facial expression, trembling hands and a breath of dialogue.<br><br>① ✗ Grandma was surprised and moved. (Tell)<br>➜ She <b>blinked</b> in surprise, then <b>smiled softly</b> as her wrinkled hands <b>trembled</b>, tracing the faded letters on the cover. <b>“You... you kept this?”</b> she whispered, <b>tears welling up</b> in her eyes. (Show)<br>技巧：神态动作细描 ｜ 独立主格 ｜ 对话点缀<br><br>② ✗ Grandma loved the album very much. (Tell)<br>➜ Her fingers <b>moved slowly over</b> the worn leather cover, <b>trembling slightly</b>, as if she were touching not a thing, <b>but the years gone by</b>. (Show)<br>技巧：触觉细描 ｜ as if从句 ｜ 虚实转换<br><br>③ ✗ Grandma was too moved to speak. (Tell)<br>➜ <b>“My little Jake...”</b> she murmured, her voice <b>trailing off</b>, words <b>drowned in tears</b>. (Show)<br>技巧：省略号传情 ｜ 独立主格 ｜ 含蓄表达",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/7f48dcbce799.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 2　　Scene 5 · Reading together（共读时光）",
+        "text": "<b>How to show the warmth of their reading the album together?</b><br>To depict them sitting side by side, laughing and pausing with misty eyes.<br><br>① ✗ They looked at the album together happily. (Tell)<br>➜ <b>Shoulder to shoulder</b>, they <b>pored over</b> the album, her laughter <b>mingling with</b> his as forgotten stories came back to life. At a few photos, she <b>paused</b>, eyes <b>misty</b>. (Show)<br>技巧：伴随状语 ｜ 独立主格 ｜ 情感层次(笑→泪)<br><br>② ✗ They talked a lot about the past. (Tell)<br>➜ <b>“Look at your chubby cheeks!”</b> Grandma <b>teased</b>, poking the photo gently, and Jake <b>burst out laughing</b>, almost dropping the album. (Show)<br>技巧：对话开头 ｜ 动作细节(poke) ｜ 幽默氛围<br><br>③ ✗ They sat together quietly for a long time. (Tell)<br>➜ <b>Neither of them spoke.</b> Time seemed to <b>slow down</b>, the evening light <b>wrapping</b> them both in a warm, golden silence. (Show)<br>技巧：短句造势 ｜ 拟人 ｜ 以静衬情",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/2799954e3fc8.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      },
+      {
+        "title": "Para. 2　　Scene 6 · “Say cheese!”（未完待续）",
+        "text": "<b>How to make the ending echo the words on the cover—“To Be Continued...”?</b><br>To depict the moment of taking a new photo and the sublimation of the theme.<br><br>① ✗ They took a new photo together. (Tell)<br>➜ <b>“Say cheese!”</b> <b>Click.</b> The flash <b>froze their grins</b>—a fresh page for the album of <b>Stories with Jake, to be continued</b>. (Show)<br>技巧：短句造势 ｜ 破折号升华 ｜ 首尾呼应<br><br>② ✗ They put the new photo into the album. (Tell)<br>➜ The camera <b>clicked</b>, and there they were—two bright smiles, side by side, <b>sliding gently into the album</b> as its newest page. (Show)<br>技巧：镜头感 ｜ 同位语 ｜ 比喻(newest page)<br><br>③ ✗ Their story went on. (Tell)<br>➜ The album would never be finished—<b>just like their love</b>, which grows with every new photo, every shared laugh, every <b>“To be continued.”</b> (Show)<br>技巧：破折号强调 ｜ 排比 ｜ 点题升华",
+        "imgs": [{ "src": "https://image-search-mcp-cn-beijing.oss-cn-beijing.aliyuncs.com/image-search-mcp/images-ppt/dfe98596b64d.jpg", "x": 0, "y": 0, "w": 300, "h": 200 }],
+        "layout": "r"
+      }
+    ]
+  },
+  "step7": { "text": "<p class='er-muted'>导入学生作文，全班一起评价并提出改进意见。<br>点击下方按钮导入文字或图片。</p>", "images": [] },
+  "step8": { "text": "" }
+}

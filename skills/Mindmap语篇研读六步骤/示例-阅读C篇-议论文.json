@@ -1,0 +1,562 @@
+{
+  "type": "sixsteps",
+  "version": 1,
+  "title": "高三上开学检测·阅读C篇（准社会关系·议论文标杆样例）",
+  "data": {
+    "genre": {
+      "items": [
+        {
+          "label": "语篇类型 Genre",
+          "correctText": "议论文",
+          "opts": [
+            "议论文",
+            "说明文",
+            "记叙文",
+            "应用文"
+          ]
+        },
+        {
+          "label": "文本来源 Source",
+          "correctText": "大众心理科普媒体",
+          "opts": [
+            "大众心理科普媒体",
+            "学术期刊论文",
+            "政府报告",
+            "个人博客随笔"
+          ]
+        },
+        {
+          "label": "目标读者 Reader",
+          "correctText": "普通读者/社交媒体用户",
+          "opts": [
+            "普通读者/社交媒体用户",
+            "心理学专业人士",
+            "政策制定者",
+            "文学爱好者"
+          ]
+        }
+      ],
+      "hints": [
+        "P5有鲜明的作者立场句——有明确主张要读者接受的是什么文体？",
+        "引Psychology Today定义、语言通俗——写给专业还是大众读者？",
+        "文中反复提到fans、young people——谁最需要读这篇文章？"
+      ],
+      "why": [
+        "全文围绕一个主张展开论证，是典型的议论文骨架。",
+        "引大众心理学媒体、语言通俗——面向大众的科普媒体文。",
+        "对象是fans/young people，为\"须保持清醒边界\"的劝导服务。"
+      ]
+    },
+    "content": {
+      "items": [
+        {
+          "label": "主题语境·大类",
+          "type": "choice",
+          "correctText": "人与社会",
+          "opts": [
+            "人与自我",
+            "人与社会",
+            "人与自然"
+          ],
+          "hint": "文章讨论的是个人内心成长、社会现象、还是自然环境？",
+          "why": "讨论的是社交媒体时代的粉丝文化——属\"人与社会\"。"
+        },
+        {
+          "label": "主题语境·具体话题",
+          "type": "groupedChoice",
+          "correctText": "社会热点问题",
+          "groups": {
+            "人与自我": [
+              "个人、家庭、社区及学校生活",
+              "健康的生活方式与积极态度",
+              "认识自我、丰富自我",
+              "乐于学习、终身学习",
+              "优秀品行与社会责任",
+              "生命的意义与价值",
+              "职业规划与创新创业"
+            ],
+            "人与社会": [
+              "人际关系与社会交往",
+              "公益事业与志愿服务",
+              "跨文化沟通与合作",
+              "文学艺术与体育",
+              "民族文化习俗与节日",
+              "社会热点问题",
+              "历史事件与文化渊源",
+              "社会进步与人类文明",
+              "科技发展与信息安全"
+            ],
+            "人与自然": [
+              "自然环境与生态保护",
+              "自然灾害与防范",
+              "人与动植物",
+              "地理概况",
+              "宇宙探索"
+            ]
+          },
+          "hint": "粉丝把明星当朋友——属于哪个领域的热点？",
+          "why": "准社会关系是当下社会热点话题，涉及网络文化与青少年心理健康。"
+        },
+        {
+          "label": "主旨 Main Idea",
+          "type": "choice",
+          "correctText": "准社会关系是单向的想象亲密，须保持清醒边界",
+          "opts": [
+            {
+              "text": "准社会关系是健康的追星方式，值得提倡",
+              "err": "反向设置"
+            },
+            {
+              "text": "准社会关系是单向的想象亲密，须保持清醒边界",
+              "err": null
+            },
+            {
+              "text": "社交媒体和AI聊天机器人正在彻底摧毁人际交往",
+              "err": "无中生有"
+            },
+            {
+              "text": "准社会关系早在1956年就被心理学家发现了",
+              "err": "以偏概全"
+            }
+          ],
+          "hint": "A方向反了；C走得太远；D只是P1的一句史实",
+          "why": "A反向设置；C无中生有；D以偏概全。B恰是全文论证链的落点。"
+        },
+        {
+          "label": "基调 Tone / Attitude",
+          "type": "choice",
+          "correctText": "cautionary 理性提醒",
+          "opts": [
+            "objective 客观中立",
+            "cautionary 理性提醒",
+            "critical 批判否定",
+            "indifferent 冷漠无关",
+            "optimistic 乐观积极",
+            "skeptical 怀疑质疑",
+            "enthusiastic 热情推崇",
+            "defensive 辩护维护"
+          ],
+          "hint": "作者有没有全盘否定？有没有不关心？有没有大力推荐？",
+          "why": "作者不否定追星、不冷漠、不推崇、不辩护——是cautionary。"
+        }
+      ]
+    },
+    "struct": {
+      "paraFuncs": [
+        {
+          "para": 1,
+          "correctText": "引入·下定义",
+          "opts": [
+            "引入·下定义",
+            "举例论证",
+            "总结·亮立场",
+            "指出问题"
+          ],
+          "hint": "P1给parasocial relationship下了定义——是开门见山还是收尾？",
+          "why": "P1用现象引入并下定义——典型的\"引入+定义\"开篇。"
+        },
+        {
+          "para": 2,
+          "correctText": "分析原因·深化",
+          "opts": [
+            "分析原因·深化",
+            "引入·下定义",
+            "让步·承认好处",
+            "提出方案"
+          ],
+          "hint": "P2的Today…交代了什么背景？",
+          "why": "P2转入社交媒体时代的新变化——论证的深化推进。"
+        },
+        {
+          "para": 3,
+          "correctText": "让步·承认好处",
+          "opts": [
+            "让步·承认好处",
+            "指出危害·转折",
+            "总结·亮立场",
+            "举例论证"
+          ],
+          "hint": "\"not always harmful\"——作者在对前文做什么？",
+          "why": "P3先退一步承认好处——典型的让步段。"
+        },
+        {
+          "para": 4,
+          "correctText": "指出危害·转折",
+          "opts": [
+            "指出危害·转折",
+            "让步·承认好处",
+            "引入·下定义",
+            "提出方案"
+          ],
+          "hint": "\"The danger arises when…\"——前一段刚承认完好处，这段在干什么？",
+          "why": "P4紧接让步段后指出危险——关键的转折论证。"
+        },
+        {
+          "para": 5,
+          "correctText": "总结·亮立场",
+          "opts": [
+            "总结·亮立场",
+            "分析原因·深化",
+            "举例论证",
+            "引入·下定义"
+          ],
+          "hint": "\"we must remember that it is not\"——是在亮态度还是继续分析？",
+          "why": "P5收束全文，亮明作者立场——典型的结论段。"
+        }
+      ],
+      "paraSummaries": [
+        {
+          "para": 1,
+          "summary": "Introduce the topic of parasocial relationship and offer its definition."
+        },
+        {
+          "para": 2,
+          "summary": "Analyze how social platforms deepen the illusion; shapes youth values."
+        },
+        {
+          "para": 3,
+          "summary": "Concede the positive effects: belonging, confidence, comfort."
+        },
+        {
+          "para": 4,
+          "summary": "Point out the negative effects: posts as private msgs; AI extends it."
+        },
+        {
+          "para": 5,
+          "summary": "Conclude: admiration is fine but needs clear boundaries."
+        }
+      ],
+      "trace": [
+        {
+          "q": 21,
+          "type": "细节理解",
+          "stem": "What is a parasocial relationship according to Paragraph 1?",
+          "correctText": "P1 · a one-sided connection that exists only in the fan's mind",
+          "opts": [
+            "P1 · a one-sided connection that exists only in the fan's mind",
+            "P2 · a carefully selected version of reality",
+            "P3 · a sense of belonging and confidence",
+            "P5 · admiration with clear boundaries"
+          ],
+          "correctQuote": "a one-sided connection that exists only in the fan's mind",
+          "hint": "定义句通常在概念首次引入的段落。",
+          "why": "P1用同位语直接给出定义——命题点。"
+        },
+        {
+          "q": 22,
+          "type": "细节理解",
+          "stem": "Why do fans sometimes feel let down by celebrities?",
+          "correctText": "P2 · posts show edited perfection rather than truth",
+          "opts": [
+            "P2 · posts show edited perfection rather than truth",
+            "P1 · celebrities refuse to reply to fans",
+            "P3 · fans compare themselves with friends",
+            "P4 · AI robots send cold messages"
+          ],
+          "correctQuote": "a carefully selected version of reality, edited for perfection rather than truth",
+          "hint": "\"失望\"的根源在哪个解释段？",
+          "why": "编辑过的完美vs真实→心理落差，P2因果链。"
+        },
+        {
+          "q": 23,
+          "type": "观点态度",
+          "stem": "What does the author suggest fans finally do?",
+          "correctText": "P5 · keep the relationship distant and one-sided",
+          "opts": [
+            "P4 · give up all social media",
+            "P5 · keep the relationship distant and one-sided",
+            "P3 · share real feelings with celebrities",
+            "P2 · follow more stars for belonging"
+          ],
+          "correctQuote": "should remain what they are: distant and one-sided",
+          "hint": "结论段中作者的直接建议是什么？",
+          "why": "P5亮立场：喜爱可以，保持距离。"
+        }
+      ]
+    },
+    "cohesion": {
+      "inter": [
+        {
+          "from": 1,
+          "to": 2,
+          "answer": "progression",
+          "hint": "读两段首句：P2的Today是顺承推进还是方向反转？"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "answer": "contrast",
+          "hint": "P3第一句的not always在对P2的担忧做什么动作？"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "answer": "concession",
+          "hint": "先说好处再说危险——先扬后抑用什么关系词标记？"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "answer": "progression",
+          "hint": "P5是收束还是又开了新话题？"
+        }
+      ],
+      "intra": [
+        {
+          "para": 2,
+          "type": "指代",
+          "correctText": "viewing celebrities as standards for success",
+          "item": "this influence",
+          "opts": [
+            "viewing celebrities as standards for success",
+            "sharing workout videos online",
+            "following celebrities on social media",
+            "developing parasocial relationships"
+          ],
+          "hint": "this influence紧跟在哪个表述之后？",
+          "why": "指代前句\"把名人视为成功标准\"这一行为。"
+        },
+        {
+          "para": 4,
+          "type": "连接词",
+          "correctText": "递进：从粉丝对明星延伸到AI聊天机器人",
+          "item": "Furthermore",
+          "opts": [
+            "转折：与前文方向相反",
+            "递进：从粉丝对明星延伸到AI聊天机器人",
+            "因果：因为前者导致了后者",
+            "并列：两个无关的例子"
+          ],
+          "hint": "Furthermore之后说的是\"these feelings now extend to AI\"——是延伸还是换话题？",
+          "why": "标记递进：从粉丝对明星延伸到AI。"
+        },
+        {
+          "para": 5,
+          "type": "词汇链",
+          "correctText": "boundary / distant / one-sided（距离+单向）",
+          "item": "boundary / distant / one-sided",
+          "opts": [
+            "connection / personal / real（连接+真实）",
+            "boundary / distant / one-sided（距离+单向）",
+            "friendship / share / follow（友谊+分享）",
+            "danger / risk / harmful（危险+有害）"
+          ],
+          "hint": "P5的核心主张是\"保持距离\"还是\"加强联系\"？",
+          "why": "boundary/distant/one-sided构成\"距离感\"词汇链。"
+        }
+      ],
+      "argument": [
+        {
+          "para": 1,
+          "correctText": "下定义",
+          "opts": [
+            "下定义",
+            "列数据",
+            "对比论证",
+            "引用权威"
+          ],
+          "hint": "P1给了一个明确的定义——这是什么论证方式？",
+          "why": "用\"下定义\"引出核心概念。"
+        },
+        {
+          "para": 2,
+          "correctText": "因果推演",
+          "opts": [
+            "举例论证",
+            "因果推演",
+            "让步论证",
+            "归纳总结"
+          ],
+          "hint": "P2的行文逻辑是层层递进的什么关系？",
+          "why": "平台更新→粉丝看到编辑版→塑造价值观——因果链。"
+        },
+        {
+          "para": 3,
+          "correctText": "让步论证",
+          "opts": [
+            "让步论证",
+            "举例论证",
+            "对比论证",
+            "因果推演"
+          ],
+          "hint": "\"not always harmful\"——先退一步再批评——这是什么策略？",
+          "why": "先承认好处使后文批评更有说服力。"
+        },
+        {
+          "para": 4,
+          "correctText": "举例+递进",
+          "opts": [
+            "下定义",
+            "列数据",
+            "举例+递进",
+            "归纳总结"
+          ],
+          "hint": "P4给了两个例子，用Furthermore递进——",
+          "why": "例证与递进结合。"
+        },
+        {
+          "para": 5,
+          "correctText": "重申立场+呼吁",
+          "opts": [
+            "重申立场+呼吁",
+            "下定义",
+            "列数据",
+            "举例论证"
+          ],
+          "hint": "P5用\"We must remember…\"直接亮明态度——",
+          "why": "议论文典型的结论方式。"
+        }
+      ],
+      "argTitle": "论证方式"
+    },
+    "lang": {
+      "sentences": [
+        {
+          "kind": "过去分词后置定语",
+          "para": 2,
+          "sen": "what audiences actually see is a carefully selected version of reality, edited for perfection rather than truth",
+          "ana": "主干：what audiences see + is + a version。edited for...是过去分词短语作后置定语。"
+        },
+        {
+          "kind": "where定语从句+宾语从句",
+          "para": 5,
+          "sen": "In a digital age where everything is designed to feel personal, we must remember that it is not",
+          "ana": "where...修饰digital age；主句we must remember that it is not。立场句=态度题答案句。"
+        },
+        {
+          "kind": "同位语定义互释",
+          "para": 1,
+          "sen": "a one-sided connection that exists only in the fan's mind",
+          "ana": "parasocial relationship的同位语，本身就是定义。"
+        }
+      ],
+      "rhetoric": [
+        {
+          "kind": "冒号解格",
+          "para": 5,
+          "sen": "Parasocial relationships should remain what they are: distant and one-sided",
+          "ana": "冒号后的distant and one-sided是对what they are的直接回答——解格修辞点题。"
+        },
+        {
+          "kind": "破折号插入",
+          "para": 1,
+          "sen": "admiration can start to feel like friendship — people like to think they know celebrities",
+          "ana": "破折号引出对前句的解释说明。"
+        }
+      ],
+      "corpus": [
+        {
+          "type": "高分短语",
+          "en": "deepen this illusion",
+          "zh": "加深这种错觉",
+          "usage": "描述社交媒体/技术使认知偏差更严重"
+        },
+        {
+          "type": "高分短语",
+          "en": "unconsciously shapes everything from... to...",
+          "zh": "在从…到…方面无意识塑造",
+          "usage": "描述隐性影响的万能句式"
+        },
+        {
+          "type": "高分句型",
+          "en": "The danger arises when...",
+          "zh": "当…时危险就出现了",
+          "usage": "议论文指出问题的经典句型"
+        },
+        {
+          "type": "高分句型",
+          "en": "...should remain what they are:...",
+          "zh": "…应保持其本来面目：…",
+          "usage": "结论段重申立场"
+        },
+        {
+          "type": "话题词汇",
+          "en": "a sense of belonging / self-image / career goals",
+          "zh": "归属感/自我形象/职业目标",
+          "usage": "人与社会话题高频词群"
+        }
+      ]
+    },
+    "purpose": {
+      "items": [
+        {
+          "label": "A · 写作目的",
+          "correctText": "论证准社会式的亲密是错觉，须保持边界",
+          "opts": [
+            "号召粉丝远离社交媒体",
+            "论证准社会式的亲密是错觉，须保持边界",
+            "介绍准社会关系研究的来龙去脉"
+          ],
+          "hint": "A走得太远了；C的\"来龙去脉\"只占几句？",
+          "why": "B恰是全文论证链的落点。"
+        },
+        {
+          "label": "B · 说服策略",
+          "correctText": "让步策略——先承认好处再指出问题",
+          "opts": [
+            "恐吓策略——只讲危害让读者害怕",
+            "让步策略——先承认好处再指出问题",
+            "权威策略——大量引用专家观点",
+            "数据策略——用统计数字证明观点"
+          ],
+          "hint": "作者有没有只讲坏处？有没有大量引用专家？P3先承认了什么？",
+          "why": "P3让步承认好处→P4才指出危害——使批评更公正。"
+        },
+        {
+          "label": "C · 最强论证",
+          "correctText": "P3的让步——承认好处使批评更公正",
+          "opts": [
+            "P1的定义——学术来源增加可信度",
+            "P3的让步——承认好处使批评更公正",
+            "P4的AI例子——新技术场景感强",
+            "P5的立场句——直接有力的呼吁"
+          ],
+          "hint": "哪个部分让读者觉得\"作者不是在偏激地否定\"？",
+          "why": "正因为承认了好处，后文的危害批评才不显得偏激。"
+        },
+        {
+          "label": "D · 读者启示",
+          "correctText": "在追星和清醒之间保持平衡",
+          "opts": [
+            "远离所有社交媒体",
+            "在追星和清醒之间保持平衡",
+            "警惕AI取代真实友谊",
+            "学会识别虚假信息"
+          ],
+          "hint": "A太极端；C太窄；D太泛——作者到底想让我们怎么做？",
+          "why": "admiration is fine, but needs boundaries——带走平衡的智慧。"
+        }
+      ],
+      "concepts": [
+        {
+          "term": "parasocial relationship",
+          "def": "准社会关系——粉丝对名人产生的单向想象中的亲密感"
+        },
+        {
+          "term": "illusion",
+          "def": "错觉——作者对准社会关系的定性"
+        },
+        {
+          "term": "boundaries",
+          "def": "边界——作者提出的解决方案"
+        }
+      ]
+    }
+  },
+  "aux": {
+    "funcLabels": {
+      "1": "引入·下定义",
+      "2": "分析原因·深化",
+      "3": "让步·承认好处",
+      "4": "指出危害·转折",
+      "5": "总结·亮立场"
+    },
+    "paraBriefs": {
+      "1": "Introduce parasocial relationship & define it",
+      "2": "Platforms deepen the illusion; shapes youth values",
+      "3": "Concede benefits: belonging, confidence, comfort",
+      "4": "Point out dangers: posts as private msgs; AI extends it",
+      "5": "Conclude: needs clear boundaries, not personal"
+    }
+  }
+}
